@@ -1,4 +1,4 @@
-site_name: IBM Cloud for ISVs
+site_name: IBM Cloud for Partners
 nav:
   - Home: 
     - PowerVS: powervs.md
@@ -24,8 +24,21 @@ theme:
       edit: material/pencil 
       view: material/eye
   logo: ./media/R.png
-  pallette:
-    primary: blue
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
