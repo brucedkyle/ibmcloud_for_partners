@@ -1,17 +1,36 @@
 site_name: IBM Cloud for ISVs
 nav:
   - Home: 
-    - Index: index.md
-    - Two: test.md
+    - PowerVS: powervs.md
 theme: 
   name: material
+  font:
+      text: Nanum Gothic
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
     - content.code.annotation
     - content.code.copy
+    - header.autohide
+    - navigation.footer
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.share
   language: en
+  icon: 
+      repo: fontawesome/brands/github
+      edit: material/pencil 
+      view: material/eye
+  logo: ./media/R.png
+  pallette:
+    primary: blue
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - search:
+      lang: en
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -42,3 +61,8 @@ extra:
       link: https://linkedin.com/in/brucedkyle
     - icon: fontawesome/brands/github
       link: https://github.com/brucedkyle/
+    - icon: fontawesome/solid/envelope
+      link: mailto:bruce.kyle@ibm.com
+repo_url: https://github.com/brucedkyle/ibmcloud_for_isvs
+repo_name: brucedkyle/ibmcloud_for_isvs
+edit_uri: edit/main/docs/
