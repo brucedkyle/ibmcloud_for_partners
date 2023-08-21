@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16.x, 18.x]
+        node-version: [16.x]
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -22,6 +22,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
+      - run: pip install --upgrade pip
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
       - run: pip install git-revision-date-localized-plugin

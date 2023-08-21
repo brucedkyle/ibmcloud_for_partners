@@ -1,6 +1,8 @@
 site_name: IBM Cloud® for Partners
 nav:
-  - Home: index.md
+  - Home: 
+    - Home: index.md
+    - About: about.md
   - Compute:
     - PowerVS: powervs.md
   - Security:
