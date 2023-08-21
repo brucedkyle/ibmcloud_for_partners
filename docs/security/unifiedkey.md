@@ -42,8 +42,6 @@ The following diagram illustrates the use case:
 
 ![cloud satellite](./media/uko-kp-satellite.svg)
 
-
-
 ## References
 
 - [Announcing Multicloud Key Management with IBM Cloud Hyper Protect Crypto Services](https://www.ibm.com/blog/announcement/announcing-multicloud-key-management-with-ibm-cloud-hyper-protect-crypto-services/)

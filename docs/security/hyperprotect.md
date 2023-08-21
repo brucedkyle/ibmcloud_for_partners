@@ -69,6 +69,18 @@ IBM Cloud® Hyper Protect Crypto Services has data security strategies in place 
 
 For more details, see [Security and compliance](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-security-and-compliance).
 
+## Envelope encryption
+
+Envelope encryption is the practice of encrypting data with a _data encryption key (DEK)_ and then wrapping the DEK with a _root key_ that you can fully manage. The root keys in Hyper Protect Crypto Services service instance are also wrapped and protected by the hardware security module (HSM) master key.
+
+This key wrapping process creates wrapped DEKs that protect your stored data from unauthorized access or exposure. Unwrapping a DEK reverses the envelope encryption process by using the same root key, resulting in decrypted and authenticated data. Root keys that are managed in a Hyper Protect Crypto Services service instance are also encrypted by the master key that ensures you full control of the entire key hierarchy.
+
+The following diagram shows a contextual view of envelope encryption.
+
+![envelope encryption](./media/envelope-encryption.svg)
+
+For more details, see [Protecting your data with envelope encryption - Standard Plan](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-envelope-encryption).
+
 ## Try it out
 
 Try out the service in the IBM Cloud: https://cloud.ibm.com/catalog/services/hyper-protect-crypto-services.
@@ -85,3 +97,4 @@ The IBM Cloud catalog [includes hyper protect](https://cloud.ibm.com/catalog?sea
 
 - [Managing regulated workloads with Hyper Protect Crypto Services](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-manage-regulated-workloads)
 - [Security and compliance](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-security-and-compliance)
+- [Protecting your data with envelope encryption - Standard Plan](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-envelope-encryption)

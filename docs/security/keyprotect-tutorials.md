@@ -34,6 +34,19 @@ The following diagram shows how the tutorial secures application in a Classic In
 
 ![enhanced architecture](./media/extended-app-security.svg)
 
+## Use trusted profiles for secure cloud environments
+
+With IBM Cloud [Identity and Access Management (IAM)](https://cloud.ibm.com/docs/account?topic=account-cloudaccess) you control which users see, create, use, and manage resources in your cloud environment.
+
+In this tutorial, you learn about [trusted profiles](https://cloud.ibm.com/docs/account?topic=account-identity-overview#trustedprofiles-bestpract), their use cases, and how to utilize them for enhanced security. Trusted profiles can serve as foundation for secure cloud environments, as building block for secure cloud solutions. As part of this tutorial, you will create a trusted profile which is utilized by an app to perform administrative tasks.
+
+See [Use trusted profiles as foundation for secure cloud environments](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-trusted-profile-for-enterprise-security).
+
+The following diagram shows the solution architecture used in this tutorial.
+
+![trusted profile architecture](./media/TrustedProfile_with_CR_architecture.svg)
+
+
 ## Microservices writing to a consolidated database
 
 Kn this tutorial you will build and deploy an application that shows how to interface a key management solution like IBM Cloud™ Hyper Protect Crypto Services with a database back end, such as IBM Cloud Hyper Protect DBaaS for MongoDB. In doing so, you can see how to use an IBM Cloud identity and access management (IAM) API key to authenticate and drive a Key Protect REST API to generate keys used to encrypt information before storing in a database.
