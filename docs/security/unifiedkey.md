@@ -4,12 +4,26 @@ Managing keys in silos on-premises and across multiple clouds brings up challeng
 
 Built on the _Keep Your Own Key_ technology, **Unified Key Orchestrator** helps enterprises manage their data encryption keys across multiple key stores across multiple clouds environments, including keys managed on-premises, on IBM Cloud, AWS and Microsoft Azure.
 
+## Features
+
+The Unified Key Orchestrator solution has been developed to address these pain points and provides the following:
+
+- **A single control plane for all your keys**: The Unified Key Orchestrator has a UX research-led UI design that helps enterprises meet their compliance control obligations. The user experience is engineered to be seamless for key administrators, hides the complexities and differences across different keystone implementations and helps reduce risk of incorrect key usage.
+- **Key lifecycle management features based on [NIST recommendations](https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final)**:
+
+    - Keys will never be in the clear anywhere. They are protected by your own master key on the service’s HSM (hardware security module).
+    - Provides secured transfer of keys to internal keystores in the service instance or external keystores including Microsoft Azure Key Vault (Office365®) and AWS KMS.
+    - Distributes and installs keys with a single click. Manages keys and keystores through RESTful API.
+    - Centrally backs up and manages all keys of your enterprise and redistributes keys to quickly recover from errors due to lost keys.
+
+- **Help reduce total cost of ownership and operational costs**: The Unified Key Orchestrator provides a single intuitive tool with a tiered pricing model designed to reduce the complexity and cost of managing multiple key management systems. Additionally, customers can use the API to plug the Unified Key Orchestrator into their DevOps process to integrate key management when they deploy workloads to the cloud.
+
 ## Getting started
 
 This section points you to tutorials on how to use Unified Key Orchestrator for:
 
 - AWS 
-- Azure and Microsoft 365 workloads
+- Azure and Microsoft 365
 - Cloud Satellite
 
 ### With AWS

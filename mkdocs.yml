@@ -3,14 +3,16 @@ nav:
   - Home: 
     - Home page: index.md
     - About: about.md
-  - Compute:
-    - PowerVS: powervs.md
-  - Security:
-    - Key Protect: ./security/keyprotect.md
-    - Key Protect tutorials: ./security/keyprotect-tutorials.md
-    - Hyper Protect: ./security/hyperprotect.md
-    - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
-    - Unified Key: ./security/unifiedkey.md
+  - IaaS:
+    - Extended enterprise:
+      - PowerVS: ./compute/powervs.md
+  - PaaS:
+    - ZaaS and Hyper Protect Services:
+      - Key Protect: ./security/keyprotect.md
+      - Key Protect tutorials: ./security/keyprotect-tutorials.md
+      - Hyper Protect: ./security/hyperprotect.md
+      - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
+      - Unified Key: ./security/unifiedkey.md
 theme: 
   name: material
   font:

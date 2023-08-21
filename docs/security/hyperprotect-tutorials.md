@@ -2,6 +2,12 @@
 
 This article directs you to some tutorials to use **Hyper Protect Crypto Services**.
 
+## Provisioning an instance of Hyper Protect Crypto Services Standard Plan
+
+You can create an instance of IBM Cloud Hyper Protect Crypto Services by using the IBM Cloud console or the IBM Cloud CLI.
+
+See [Provisioning an instance of Hyper Protect Crypto Services Standard Plan](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-provision&interface=ui.)
+
 ## Deploy Hyper Protect Services using Terraform
 
 Step by step instruction on how to [Use Terraform to automate deployment of IBM Cloud Hyper Protect Services](https://developer.ibm.com/tutorials/use-terraform-to-automate-deployment-of-ibm-cloud-hyper-protect-services/). This tutorial shows you how to provision each of these resources on IBM Cloud using Terraform:
