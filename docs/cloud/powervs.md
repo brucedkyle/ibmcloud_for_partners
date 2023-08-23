@@ -18,7 +18,7 @@ When you create a Power Systems Virtual Server, you can select a private or publ
 
 ### Connect to on-premises
 
-Configure the on-prem environment as a virtual connection in IBM Transit Gateway. Or create a VPN connection if the workspace uses Cloud connections or DL.
+Configure the on-prem environment as a virtual connection in **IBM Transit Gateway**. Or create a VPN connection if the workspace uses Cloud connections or DL.
 
 ## How to deploy
 

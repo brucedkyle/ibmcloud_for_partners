@@ -4,8 +4,11 @@ nav:
     - Home page: index.md
     - About: about.md
   - IaaS:
+    - Cloud Native:
+      - Cloud Object Storage: ./cloud/storage.md
     - Extended enterprise:
-      - PowerVS: ./compute/powervs.md
+      - PowerVS: ./cloud/powervs.md
+      - Deploy PowerVS: ./cloud/powervs-on-vpc.md
   - PaaS:
     - ZaaS and Hyper Protect Services:
       - Key Protect: ./security/keyprotect.md
