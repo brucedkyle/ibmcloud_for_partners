@@ -1,8 +1,31 @@
 # Power Systems Virtual Server
 
+<img style="float: right; width: 25%; padding: 0px 0px 1% 1% "  alt="cataloglogo" src="../media/powervs.png" />
 **IBM® Power® Systems Virtual Server** is an IaaS offering that allows you to deploy your current **IBM i**, **AIX** and **Linux** workloads in a hybrid cloud environment, without refactoring. Some examples include **SAP**, **SAP HANA**, and **Oracle**, though other home-grown applications are supported too.
 
 Power Systems Virtual Server are located in the IBM data centers, distinct from the IBM Cloud servers with separate networks and direct-attached storage. You can use the Power Systems Virtual Servers to deploy a virtual server, also known as a _logical partition (LPAR)_, in a matter of minutes. 
+
+## Business value
+
+- **Maximize availability** of business-critical workloads to get efficient scaling and consistent pay-for-use consumption across public and private clouds.
+- **Respond faster to business demands** with quick provisioning on IBM Cloud.
+- **Reliability** with built-in advanced recovery and self-healing for infrastructure redundancy and 
+disaster recovery in IBM Cloud.
+- **Supports business-critical workloads**:
+    - Certified SAP IaaS
+    - SAP NetWeaver and S4/HANA
+    - Oracle Supported
+    - IBM i workloads
+    - Epic - Healthcare (training case)
+    - Red Hat OpenShift
+    - IBM Cloud Paks
+    - OS: AIX, IBM i, Linux
+
+- **Comprehensive Compliance**
+    - GDPR
+    - SOC 1 Type I and II
+    - PCI DSS Certification
+    - ISO 27K
 
 ## Performance
 
@@ -14,11 +37,18 @@ For each Power Systems Virtual Server instance, you must select a storage tier -
 
 ### Networks
 
-When you create a Power Systems Virtual Server, you can select a private or public network interface. See Public and private networks](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-about-virtual-server#public-private-networks),
+When you create a Power Systems Virtual Server, you can select a private or public network interface. See [Public and private networks](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-about-virtual-server#public-private-networks).
 
 ### Connect to on-premises
 
 Configure the on-prem environment as a virtual connection in **IBM Transit Gateway**. Or create a VPN connection if the workspace uses Cloud connections or DL.
+
+### Cost effective
+
+For Power applications moving to cloud, Power Virtual Server yields about 47% savings over Azure and AWS 
+(x86) Public Clouds.
+
+On-premises Power legacy to Power Virtual Server yields on average 35% savings.
 
 ## How to deploy
 
@@ -29,6 +59,8 @@ See [Deploying a custom image within a Power Systems Virtual Server](https://clo
 ### SAP NetWeaver, SAP HANA
 
 If you are creating or configuring a Power Systems Virtual Server instance to support an SAP NetWeaver or SAP HANA workload, see [Planning your deployment](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-planning-items) and [Deploying your infrastructure](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-set-up-infrastructure).
+
+[Forrester Total Economic Impact study](https://www.ibm.com/downloads/cas/4RLB8QVG) describes 212% ROI for SAP on IBM Cloud over 3 years. 
 
 ### Red Hat OpenShift
 
@@ -70,9 +102,14 @@ See [Everything you love about POWER with the benefits of Hybrid Cloud](https://
 
 See [Everything you love about POWER with the benefits of Hybrid Cloud](https://cloud.ibm.com/power/overview); click the **Advanced for production** tab.
 
+## Reference architectures
+
+See [IBM Power Systems architecture](https://www.ibm.com/cloud/architecture/architectures/power/overview/).
+
 ## See also
 
-- TrustRadius [IBM Power Virtual Server](https://www.trustradius.com/products/ibm-power-system-virtual-server/reviews#overview)
+- TrustRadius [IBM Power Virtual Server](https://www.trustradius.com/products/ibm-power-system-virtual-server/reviews#overview).
+- White paper [Navigating your hybrid multicloud vision with IBM Power](https://www.ibm.com/downloads/cas/G4DO3DJE)
 
 ## References
 

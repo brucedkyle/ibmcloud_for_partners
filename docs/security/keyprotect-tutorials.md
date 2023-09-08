@@ -57,6 +57,12 @@ The following diagram shows the flow.
 
 ![flow](./media/flow.png)
 
+## Encrypt a bucket with Key Protect
+
+While all data stored in Cloud Object Storage is automatically encrypted using randomly generated keys, some workloads require that the keys can be rotated, deleted, or otherwise controlled by a key management system (KMS) like Key Protect.
+
+See [Encrypting a bucket with Key Protect](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-tutorial-kp-encrypt-bucket).
+
 ## Reference
 
 - [IBM Key Protect docs](https://cloud.ibm.com/docs/key-protect/index.html)

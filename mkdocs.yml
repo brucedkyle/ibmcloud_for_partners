@@ -2,15 +2,21 @@ site_name: IBM Cloud® for Partners
 nav:
   - Home: 
     - Home page: index.md
+    - Financial Services Cloud: ./financial-services.md
     - About: about.md
   - IaaS:
     - Cloud Native:
       - Cloud Object Storage: ./cloud/storage.md
     - Extended enterprise:
       - PowerVS: ./cloud/powervs.md
-      - Deploy PowerVS: ./cloud/powervs-on-vpc.md
+      - Deploy PowerVS: ./cloud/powervs-vpc.md
+      - Transit Gateway: ./cloud/transitgateway.md
+    - Bare Metal Servers: 
+      - Overview: ./cloud/baremetal.md
+      - Bare Metal Classic: ./cloud/baremetal-classic.md
+      - Bare Metal VPC: ./cloud/baremetal-vpc.md
   - PaaS:
-    - ZaaS and Hyper Protect Services:
+    - Key and Hyper Protect Services:
       - Key Protect: ./security/keyprotect.md
       - Key Protect tutorials: ./security/keyprotect-tutorials.md
       - Hyper Protect: ./security/hyperprotect.md

@@ -1,7 +1,7 @@
 # PowerVS on IBM Cloud VPC Landing Zone
 
-<img style="float: right; width: 10%"  alt="cataloglogo" src="../media/catalog-logo-infrastructure.svg" />
-Power Systems Virtual Servers integrates your AIX, IBM i, or Linux® capabilities in an off-premises environment distinct from the IBM Cloud. You get fast, self-service provisioning, flexible management both on-premises and off-premises, and similar to on-premises it can be connected to access a stack of enterprise services from IBM – all with pay-as-you-use billing that lets you easily scale up and out. 
+<img style="float: right; width: 10%; padding: 0px 0px 1% 1%"  alt="cataloglogo" src="../media/catalog-logo-infrastructure.svg" />
+**Power Systems Virtual Servers** integrates your **AIX**, **IBM i**, or **Linux®** capabilities in an off-premises environment distinct from the IBM Cloud. You get fast, self-service provisioning, flexible management both on-premises and off-premises, and similar to on-premises it can be connected to access a stack of enterprise services from IBM – all with pay-as-you-use billing that lets you easily scale up and out. 
 
 You can quickly deploy a Power Systems Virtual Server to meet your specific business needs and easily control workload demands. This article points you to the steps on building out a landing zone for your PowerVS deployment.
 
@@ -24,7 +24,7 @@ To get started, you can follow the step-by-step instructions for deploying an of
 
 The instructions provide a convient way to deploy PowerVS in a VPC landing zone. 
 
-<img alt="power vs on vpc catalog" width="75%" src="../media/powervs-on-vpc-catalog.png">
+<img alt="power vs on vpc catalog" width="70%" src="../media/powervs-on-vpc-catalog.png">
 
 The catalog provides options for:
 
@@ -120,10 +120,13 @@ An additional architecture is provided, called  extends an existing PowerVS infr
     - Attaches the private networks to the IBM Cloud connections
     - Creates an SSH key
 
-For more information and the Terraform code use to set up the Extension, see [IBM Cloud catalog example for Power Virtual Server with VPC landing zone Extension Variation](https://github.com/terraform-ibm-modules/terraform-ibm-powervs-infrastructure/tree/main/solutions/extension)
+For more information and the Terraform code use to set up the Extension, see [IBM Cloud catalog example for Power Virtual Server with VPC landing zone Extension Variation](https://github.com/terraform-ibm-modules/terraform-ibm-powervs-infrastructure/tree/main/solutions/extension).
+
+## Next step
+
+See [Deploying a custom image within a Power Systems Virtual Server](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-deploy-custom-image).
 
 ## Reference
 
 - [Getting started with IBM Power Systems Virtual Servers](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-getting-started)
 - [IBM Power Virtual Server with VPC landing zone module](https://github.com/terraform-ibm-modules/terraform-ibm-powervs-infrastructure#ibm-power-virtual-server-with-vpc-landing-zone-module)
-
