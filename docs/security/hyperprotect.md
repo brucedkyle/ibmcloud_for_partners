@@ -12,7 +12,6 @@ This is a dedicated key management service and _Hardware Security Module (HSM)_ 
 
 See [IBM Cloud Hyper Protect Crypto Services overview](https://mediacenter.ibm.com/media/IBM%20Cloud%20Hyper%20Protect%20Crypto%20Services%20overview/1_1ipwq52p)
 
-
 ## Use cases
 
 - [Manage VMware regulated workloads](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-manage-regulated-workloads#vmware-regulated-workloads)
@@ -27,7 +26,6 @@ With Hyper Protect Crypto Services, you have two options to encrypt your workloa
 
 - **Use the key management service**. For details, see [Bringing your encryption keys to the cloud](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-importing-keys) and [Protecting your data with envelope encryption](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-importing-keys).
 - **Use the GREP11 and PKCS #11 APIs**. For more information about these two APIs and how they differ, see [Introducing cloud HSM](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-introduce-cloud-hsm).
-
 
 ##  Hyper Protect Crypto Services Integrations with IBM Cloud
 

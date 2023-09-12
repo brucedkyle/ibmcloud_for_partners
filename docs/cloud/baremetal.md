@@ -2,11 +2,16 @@
 
 **IBM Cloud Bare Metal Servers** are single-tenant, dedicated servers that can be deployed and managed as cloud services. They are part of IBM Cloud and are available in either [classic](https://www.ibm.com/products/bare-metal-servers/classic) or [VPC](https://www.ibm.com/products/bare-metal-servers/vpc) deployment models. 
 
-Servers can be provisioned and used in hourly and monthly billing increments. IBM also offers certified infrastructure for some of the most common and demanding enterprise workloads, such as:
 
-- Bare Metal Servers are available in hourly or monthly increments
-- You get the latest-generation [NVIDIA GPUs](https://www.ibm.com/cloud/gpu) and x86 microarchitecture from [Intel Xeon](https://www.ibm.com/cloud/intel) and [AMD EPYC](https://www.ibm.com/cloud/amd)
-- Multiple Bare Metal Servers can communicate on the IBM Cloud virtual private network as if stationed on the same rack
+!!! key "Key value"
+
+    Servers can be provisioned and used in hourly and monthly billing increments.
+    
+    IBM also offers certified infrastructure for some of the most common and demanding enterprise workloads, such as:
+
+    - Bare Metal Servers are available in hourly or monthly increments
+    - You get the latest-generation [NVIDIA GPUs](https://www.ibm.com/cloud/gpu) and x86 microarchitecture from [Intel Xeon](https://www.ibm.com/cloud/intel) and [AMD EPYC](https://www.ibm.com/cloud/amd)
+    - Multiple Bare Metal Servers can communicate on the IBM Cloud virtual private network as if stationed on the same rack
 
 ## Enterprise workloads
 

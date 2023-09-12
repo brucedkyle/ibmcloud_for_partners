@@ -5,6 +5,34 @@
 
 Power Systems Virtual Server are located in the IBM data centers, distinct from the IBM Cloud servers with separate networks and direct-attached storage. You can use the Power Systems Virtual Servers to deploy a virtual server, also known as a _logical partition (LPAR)_, in a matter of minutes. 
 
+!!! key "Key value"
+
+    IBM Power:
+
+    - IBM Power is known for its scalability and performance with the most demanding workloads. 
+    - IBM Power provides superior virtualization and management features for flexibility, and security with better isolation and integrated stack.
+
+    IBM Power Virtual Servers:
+
+    - The Power Systems Virtual Servers are located in the IBM data centers, distinct from the IBM Cloud servers with separate networks and direct-attached storage. 
+    - Power Systems Virtual Server maintain key enterprise software certification and support as the Power Systems Virtual Server architecture is identical to certified on-premises infrastructure.
+    - Run existing workloads, such as SAP, SAP HANA, Oracle, and applications on AIX, Linux, IBM i, OpenShift.
+    - Straight-forward deployment/migration:
+        1. Simply store your image on Cloud Object Storage (COS)
+        2. Point the Power Systems Virtual Server console to the image
+        3. Deploy the Virtual Server instance.</ol>
+
+## Key use cases
+
+IBM Power Systems clients who have typically relied upon on-premises-only infrastructure can now quickly and economically extend your Power IT resources off-premises. Avoid the large capital expense or added risk when migrating your essential workloads and get started with Power Systems Virtual Servers today.
+
+!!! usecase "Use cases"
+
+    - **Business continuity planning**. Use Power Systems Virtual Server as a reliable HA/DR destination for on-premise environments, without doubling the cost of hardware ownership. See [case study](https://www.cidademarketing.com.br/marketing/2021/09/02/brf-conclui-plano-de-recuperacao-de-desastres-com-ibm-power-virtual-servers/).
+    - **Data center strategy optimization**. Provision on-demand to stay up to date with the latest software and streamlined licensing costs, without upskilling in new specialized technologies. See [case study](https://www.ibm.com/case-studies/iptor-sweden/).
+    - **Modernize**. Start the hybrid cloud journey with a quick, temporary sandbox environment for testing, without sacrificing mission critical uptime. See [case study](https://www.ibm.com/case-studies/fnz-uk/).
+    - **Operational excellence and cost optimization**. Reduce operational cost with the same Power infrastructure, performance, security and reliability; all without replatforming workloads. See [case study](https://www.ibm.com/blogs/systems/labeyrie-fine-foods-picks-ibm-power-systems-virtual-server/).
+
 ## Business value
 
 - **Maximize availability** of business-critical workloads to get efficient scaling and consistent pay-for-use consumption across public and private clouds.
@@ -65,18 +93,6 @@ If you are creating or configuring a Power Systems Virtual Server instance to su
 ### Red Hat OpenShift
 
 If you are creating or configuring a **Red Hat OpenShift** Cluster on Power Systems Virtual Server, see [Deploying Red Hat OpenShift Container Platform 4.x on IBM Power Systems Virtual Servers](https://developer.ibm.com/series/deploy-ocp-cloud-paks-power-virtual-server/).
-
-## Key use cases
-
-IBM Power Systems clients who have typically relied upon on-premises-only infrastructure can now quickly and economically extend your Power IT resources off-premises. Avoid the large capital expense or added risk when migrating your essential workloads and get started with Power Systems Virtual Servers today
-
-- **Business continuity planning**. Use Power Systems Virtual Server as a reliable HA/DR destination for on-premise environments, without doubling the cost of hardware ownership. See [case study](https://www.cidademarketing.com.br/marketing/2021/09/02/brf-conclui-plano-de-recuperacao-de-desastres-com-ibm-power-virtual-servers/).
-
-- **Data center strategy optimization**. Provision on-demand to stay up to date with the latest software and streamlined licensing costs, without upskilling in new specialized technologies. See [case study](https://www.ibm.com/case-studies/iptor-sweden/).
-
-- **Modernize**. Start the hybrid cloud journey with a quick, temporary sandbox environment for testing, without sacrificing mission critical uptime. See [case study](https://www.ibm.com/case-studies/fnz-uk/).
-
-- **Operational excellence and cost optimization**. Reduce operational cost with the same Power infrastructure, performance, security and reliability; all without replatforming workloads. See [case study](https://www.ibm.com/blogs/systems/labeyrie-fine-foods-picks-ibm-power-systems-virtual-server/).
 
 ## Hardware specification
 

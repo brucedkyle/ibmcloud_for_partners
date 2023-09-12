@@ -22,6 +22,8 @@ nav:
       - Hyper Protect: ./security/hyperprotect.md
       - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
       - Unified Key: ./security/unifiedkey.md
+extra_css:
+  - stylesheets/extra.css
 theme: 
   name: material
   font:
@@ -51,7 +53,6 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
