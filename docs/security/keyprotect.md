@@ -6,9 +6,9 @@
 
     The trick to securing your data is not just to encrypt information so that it cannot be decoded easily, but to protect the ciphers used to encrypt and decrypt it (since having a cipher is as good as having the data).
 
-!!! Tip
+**Key Protect** is a cloud-based key management system that provides the best of cost, security, and scale. 
 
-    **Key Protect** is a cloud-based key management system that provides the best of cost, security, and scale. 
+!!! Tip
     
     If you are looking for a dedicated key management solution that supports customer-controlled, cloud-based HSMs [**IBM Cloud Hyper Protect Crypto Services**](./hyperprotect.md) <ins>integrates with Key Protect</ins> to enable _Keep Your Own Keys (KYOK)_ for IBM Cloud, so your organization has more control and authority over its data. 
 

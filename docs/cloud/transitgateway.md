@@ -2,7 +2,9 @@
 
 **IBM Cloud Transit Gateway** helps you connect and manage your IBM Cloud Virtual Private Cloud (VPC) networks.
 
-Use Transit Gateway to manage the interconnection between these resources across multiple regions. 
+!!! tip "Use"
+
+    Use Transit Gateway to manage the interconnection between resources across multiple regions. 
 
 With IBM Cloud Transit Gateway, you can connect:
 

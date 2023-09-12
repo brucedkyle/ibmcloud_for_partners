@@ -19,7 +19,7 @@ nav:
     - Key and Hyper Protect Services:
       - Key Protect: ./security/keyprotect.md
       - Key Protect tutorials: ./security/keyprotect-tutorials.md
-      - Hyper Protect: ./security/hyperprotect.md
+      - Hyper Protect Crypto Services: ./security/hyperprotect.md
       - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
       - Unified Key: ./security/unifiedkey.md
 extra_css:

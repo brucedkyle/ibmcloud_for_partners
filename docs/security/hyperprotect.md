@@ -31,17 +31,17 @@ With Hyper Protect Crypto Services, you have two options to encrypt your workloa
 
 ##  Hyper Protect Crypto Services Integrations with IBM Cloud
 
-Explore:
+!!! tip "Use"
 
-[Integrating IBM Cloud services with Hyper Protect Crypto Services](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services) including:
+    Explore: [Integrating IBM Cloud services with Hyper Protect Crypto Services](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services) including:
 
-- [Storage service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#storage-integration): IBM Cloud Object Store, Block Storage for Classic VPCs.
-- [Database service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#database-integration): Elasticsearch, EnterpriseDB, etcd, MongoDB, PostgreSQL, Redis, RabbitMQ, Db2.
-- [Compute service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#compute-integration): Virtual Private Cloud, KMIP on VMWare, Entrust DataControl, Power Systems.
-- [Container service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#container-integration): Kubernetes, Red Hat Openshift.
-- [Ingestion service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#Ingestion-integrations): Cloud monitoring, Schematics, Event Streams.
-- [Security service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#security-service-integrations): App ID, Secrets Manager, Security and Compliance Center.
-- [Developer service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#devtools-integrations): Continuous Delivery
+    - [Storage service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#storage-integration): IBM Cloud Object Store, Block Storage for Classic VPCs.
+    - [Database service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#database-integration): Elasticsearch, EnterpriseDB, etcd, MongoDB, PostgreSQL, Redis, RabbitMQ, Db2.
+    - [Compute service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#compute-integration): Virtual Private Cloud, KMIP on VMWare, Entrust DataControl, Power Systems.
+    - [Container service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#container-integration): Kubernetes, Red Hat Openshift.
+    - [Ingestion service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#Ingestion-integrations): Cloud monitoring, Schematics, Event Streams.
+    - [Security service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#security-service-integrations): App ID, Secrets Manager, Security and Compliance Center.
+    - [Developer service integrations](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-integrate-services#devtools-integrations): Continuous Delivery
 
 The following diagram illustrates the scene of integrating Hyper Protect Crypto Services with two services.
 
