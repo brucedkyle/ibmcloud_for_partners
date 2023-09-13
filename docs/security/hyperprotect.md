@@ -6,7 +6,7 @@ IBM Cloud **Hyper Protect Crypto Services** provides you with exclusive control 
 
     This is a dedicated key management service and _Hardware Security Module (HSM)_ that provides you with the **Keep Your Own Key** capability for cloud data encryption. Built on **FIPS 140-2 Level 4 certified** hardware, Hyper Protect Crypto Services provides you with exclusive control of your encryption keys.
 
-!!! note
+!!! Important
 
     Unauthorized parties, including IBM Cloud admins, have no access to your encryption keys at any time. In cases where your application encrypts data with those keys, no other parties have access to your data.
 
