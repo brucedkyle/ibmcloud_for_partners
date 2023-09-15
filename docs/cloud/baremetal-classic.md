@@ -99,7 +99,10 @@ The following [network options](https://cloud.ibm.com/docs/bare-metal?topic=bare
 
 ## VMware
 
-IBM Cloud® provides the unique capability for you to provision dedicated Bare Metal Servers upon which you can deploy your own VMware based private cloud. For example, you can enable the creation of a hybrid cloud where on-premises VMware based servers, tooling, and processes can be extended into the public cloud. For more information, see [Getting started with VMware and IBM Cloud](https://cloud.ibm.com/docs/vmware?topic=vmware-vmware-getting-started).
+IBM Cloud® provides the unique capability for you to provision dedicated Bare Metal Servers upon which you can deploy your own VMware based private cloud. For example, you can enable the creation of a hybrid cloud where on-premises VMware based servers, tooling, and processes can be extended into the public cloud. 
+
+For more information, see [Getting started with VMware and IBM Cloud](https://cloud.ibm.com/docs/vmware?topic=vmware-vmware-getting-started).
+
 
 ## SAP-certified infrastructure
 

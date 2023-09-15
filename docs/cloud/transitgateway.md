@@ -16,9 +16,11 @@ With IBM Cloud Transit Gateway, you can connect:
 
 The following diagram shows IBM Cloud Transit Gateway connecting to IBM Cloud Virtual Private Cloud networks.
 
-![transit gateway architecture](./media/cloud-transit-gateway-overview.webp)
+[![transit gateway architecture](./media/vpc-transit-gateway-architecture.png)](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-vpc-tg-dns-iam)
 
 Networks can be attached to multiple local gateways and a single global gateway, enabling you to keep local traffic on a local gateway.
+
+See [Team based privacy using IAM, VPC, Transit Gateway and DNS](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-vpc-tg-dns-iam).
 
 ## Features
 

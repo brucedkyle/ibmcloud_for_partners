@@ -7,14 +7,18 @@ nav:
   - IaaS:
     - Cloud Native:
       - Cloud Object Storage: ./cloud/storage.md
+      - Virtual Private Clouds (VPC) in the Public Cloud: ./cloud/vpc.md
+      - VPC Architectures: ./cloud/vpc-architecture.md
     - Extended enterprise:
       - PowerVS: ./cloud/powervs.md
       - Deploy PowerVS: ./cloud/powervs-vpc.md
-      - Transit Gateway: ./cloud/transitgateway.md
     - Bare Metal Servers: 
       - Overview: ./cloud/baremetal.md
       - Bare Metal Classic: ./cloud/baremetal-classic.md
       - Bare Metal VPC: ./cloud/baremetal-vpc.md
+      - Bare Metal Classic for VMware: ./cloud/baremetal-vmware.md
+      - Bare Metal VPC for VMware: ./cloud/baremetal-vpc-vmware.md
+      - Transit Gateway: ./cloud/transitgateway.md
   - PaaS:
     - Key and Hyper Protect Services:
       - Key Protect: ./security/keyprotect.md
