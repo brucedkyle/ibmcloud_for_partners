@@ -93,7 +93,7 @@ For deployment steps, see [VPC Deployment](./vpc-deployment.md).
     - Developer-friendly API integrates to existing tooling
     - Terraform supported to easily define VPC-enabled solutions and manage the lifecycle of cloud resources in an automated fashion
     - VPC users and permissions are fully integrated into IAM and the IBM Cloud Platform
-    - ** Bring your own IPs (BYOIP)** greatly improved in VPC, especially for overlapping IP space
+    - **Bring your own IPs (BYOIP)** greatly improved in VPC, especially for overlapping IP space
     - **Bring your own Key (BYOK)** to encrypt block volumes using a customer managed key for improved security
     - Block Storage access allowing volumes to mount and go, no need for clients to configure operating systems
     - Network Performance up to 80Gbps

@@ -42,10 +42,6 @@ External connectivity can be achieved by using a public gateway that is attached
 
 See [VPC External connectivity](https://cloud.ibm.com/docs/vpc?topic=vpc-about-networking-for-vpc&interface=ui#external-connectivity).
 
-## Interconnecting your VPC
-
-
-
 ## Security
 
 Security groups and access control lists (ACLs) provide ways to control the traffic across the subnets and instances in your IBM Cloud® Virtual Private Cloud, using rules that you specify. Security groups and ACLs add security to your subnets and instances:
@@ -58,8 +54,6 @@ Allow you to implement a floating IP for virtual server instance access to the i
 ![security of the vpc](./media/vpc-connectivity-and-security.svg)
 
 See [VPC Security Overview](https://cloud.ibm.com/docs/vpc?topic=vpc-security-in-your-vpc&interface=ui#security-overview).
-
-##
 
 ## VPC Hub and Spoke
 
@@ -108,4 +102,4 @@ See [Deploy VPC](./vpc-deployment.md).
 
 ## References
 
-- - [Virtual private cloud reference architecture](https://www.ibm.com/cloud/architecture/architectures/virtual-private-cloud/reference-architecture)
+- [Virtual private cloud reference architecture](https://www.ibm.com/cloud/architecture/architectures/virtual-private-cloud/reference-architecture)
