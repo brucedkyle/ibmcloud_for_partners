@@ -1,10 +1,6 @@
-# VMware solution on VPC
+# VMware solutions on VPC
 
-## VMware as a Service
 
-IBM Cloud® for VMware as a Service provides the VMware Cloud Director™ platform as a managed service. IBM® performs the configuration, hosting, operations, and lifecycle management of the VMware® software so you can quickly deploy your VMware-based cloud computing environments.
-
-See [VMware as a Service overview](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-vmware-aas-overview).
 
 ## Interconnect
 
@@ -12,7 +8,7 @@ See [Interconnectivity overview](https://cloud.ibm.com/docs/vmwaresolutions?topi
 
 ## Roll-your-own VMware solution on VPC
 
-Roll-your-own VMware® solution in VPC is not a managed service. You can use IBM Cloud® services to build your own VMware solution in IBM Cloud VPC.
+**Roll-your-own VMware® solution** in VPC is not a managed service. You can use IBM Cloud® services to build your own VMware solution in IBM Cloud VPC.
 
 You are responsible for the VPC deployment and related networking resources, IBM Cloud bare metal server in VPCs and for the deployment, configuration, security, management, and monitoring of all VMware software components.
 
@@ -27,7 +23,6 @@ Consider:
 - [Monitoring](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-vpc-ryo-considerations#vpc-ryo-considerations-monitoring)
 - [Business continuity and availability](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-vpc-ryo-considerations#vpc-ryo-considerations-business-cont)
 - [Storage planning](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-vpc-ryo-considerations#vpc-ryo-considerations-storage)
-
 
 See [Overview of roll-your-own VMware solution on VPC](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-vpc-ryo-overview)
 
