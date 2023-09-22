@@ -1,6 +1,11 @@
 # VMware solutions on VPC
 
-The IBM Cloud® for VMware Solutions offerings help you extend your existing VMware® virtualized data center into IBM Cloud. The IBM Cloud bare metal server for IBM Cloud VPC provides you compute capacity to host VMware workloads in the IBM Cloud VPC.
+The **IBM Cloud® for VMware Solutions** offerings help you extend your existing VMware® virtualized data center into IBM Cloud. 
+
+
+!!! important 
+
+    The IBM Cloud bare metal server for IBM Cloud VPC provides you compute capacity to host VMware workloads in the IBM Cloud VPC.
 
 With this solution, you have the flexibility to design a VMware deployment for your needs, which is integrated with IBM Cloud VPC. The following diagram shows an overview of the solution.
 
@@ -10,11 +15,14 @@ The IBM Cloud bare metal server is integrated with the VPC network, and you can 
 
 ## Advantages over bare metal
 
-VMware Solutions in IBM Cloud VPC have the following key benefits over IBM Cloud classic deployments:
 
-- IBM Cloud VPC gives you the ability to easily and rapidly define and control a virtual network, which is logically isolated from all other tenants. The logical isolation is implemented by using virtual network functions and security that is built into the platform.
-- Provisioning the IBM Cloud bare metal server on IBM Cloud VPC takes minutes instead of hours when compared to the IBM Cloud bare metal server on IBM Cloud classic.
-- VMware workloads by running in IBM Cloud VPC can take advantage of all original functions for VPC networking capabilities and other IBM Cloud interconnectivity services.
+!!! key "Key Benefits"
+
+    VMware Solutions in IBM Cloud VPC have the following key benefits over IBM Cloud classic deployments:
+
+    - IBM Cloud VPC gives you the ability to easily and rapidly define and control a virtual network, which is logically isolated from all other tenants. The logical isolation is implemented by using virtual network functions and security that is built into the platform.
+    - Provisioning the IBM Cloud bare metal server on IBM Cloud VPC takes minutes instead of hours when compared to the IBM Cloud bare metal server on IBM Cloud classic.
+    - VMware workloads by running in IBM Cloud VPC can take advantage of all original functions for VPC networking capabilities and other IBM Cloud interconnectivity services.
 
 ## Roll-your-own VMware solution on VPC
 
