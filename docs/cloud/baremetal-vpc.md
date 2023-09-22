@@ -12,7 +12,6 @@ You get the full suite of IBM Cloud VPC networking benefits, plus 4x faster netw
     - As a bare metal user, I need scalability, elasticity, and performance. VSI VPC and VSI Classic do not meet my application performance requirements and do not want to make trade-offs.
     - As a VPC user I want to manage my own virtualization and use bare metal for its single tenancy and consistent higher performance.
 
-
 ## Benefits
 
 In addition to natively landing within VPC for its advantages across compute, networking, and storage, bare metal VPC provides:

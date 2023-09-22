@@ -18,9 +18,10 @@ nav:
       - Bare Metal VPC: ./cloud/baremetal-vpc.md
       - Transit Gateway: ./cloud/transitgateway.md
     - VWware on IBM Cloud:
+      - VMware offerings: ./cloud/vmware.md
       - VMware as a Service on Bare Metal: ./cloud/vmware-as-a-service.md
       - Bare Metal Classic for VMware: ./cloud/baremetal-vmware.md
-      - Bare Metal VPC for VMware: ./cloud/baremetal-vpc-vmware.md
+      - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
   - PaaS:
     - Key and Hyper Protect Services:
       - Key Protect: ./security/keyprotect.md

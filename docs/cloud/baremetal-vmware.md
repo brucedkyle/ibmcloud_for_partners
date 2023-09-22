@@ -1,4 +1,4 @@
-# VMWare on Bare Metal Classic
+# VMware on Bare Metal Classic
 
 **VMware for IBM Cloud® Classic infrastructure** provides an industry-leading virtualization platform that abstracts processor, memory, storage, and networking resources to create multiple Virtual Servers on a single physical server. Multiple physical servers can be clustered together to create a private cloud.
 
