@@ -7,9 +7,9 @@ nav:
   - IaaS:
     - Cloud Native:
       - Cloud Object Storage: ./cloud/storage.md
-      - Virtual Private Clouds (VPC) in the Public Cloud: ./cloud/vpc.md
+      - Virtual Private Cloud (VPC) in the Public Cloud: ./cloud/vpc.md
       - VPC Architectures: ./cloud/vpc-architecture.md
-    - Extended enterprise:
+    - Extended Enterprise:
       - PowerVS: ./cloud/powervs.md
       - Deploy PowerVS: ./cloud/powervs-vpc.md
     - Bare Metal Servers: 
