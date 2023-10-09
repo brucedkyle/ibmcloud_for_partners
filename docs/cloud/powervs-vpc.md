@@ -5,7 +5,10 @@
 
 You can quickly deploy a Power Systems Virtual Server to meet your specific business needs and easily control workload demands. This article points you to the steps on building out a landing zone for your PowerVS deployment.
 
-If you are creating or configuring a Power Systems Virtual Server instance to support an SAP NetWeaver or SAP HANA workload, see [Planning your deployment](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-planning-items) and [Deploying your infrastructure](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-set-up-infrastructure).
+
+!!! tip
+
+    If you are creating or configuring a Power Systems Virtual Server instance to support an SAP NetWeaver or SAP HANA workload, see [Planning your deployment](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-planning-items) and [Deploying IBM Cloud VPC infrastructure for Power Systems Virtual Server SAP workloads](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-set-up-vpc-infrastructure). 
 
 ## Terminology
 

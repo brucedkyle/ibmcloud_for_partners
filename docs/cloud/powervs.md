@@ -106,6 +106,12 @@ The following IBM Power Systems can host a Power Systems Virtual Server:
 
 See [Hardware specifications](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-about-virtual-server#hardware-specifications). See [Pricing](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-pricing-virtual-server#pricing-virtual-server).
 
+## Step-by-step tutorial
+
+See [IBM Power Systems Virtual Server Level 3 Demonstration Guide](https://ibm.github.io/SalesEnablement-PowerVS-L3/). You will learn the knowledge and tools to perform hands-on demonstrations of IBM Power Systems Virtual Server (PowerVS). 
+
+The tutorial is part of the [IBM Power Systems Virtual Server for Sales Level 3](https://yourlearning.ibm.com/activity/PLAN-570C104B7C0E) badge for IBMers and partners that provides hands-on practice with a live environment.
+
 ## Get started with a dev test environment
 
 1. **Create a workspace**. A workspace is a free working environment that acts as a folder for all your Power Systems Virtual Server resources at a specific geographic region, including compute, networking, and storage resources.
@@ -132,3 +138,8 @@ See [IBM Power Systems architecture](https://www.ibm.com/cloud/architecture/arch
 - [Everything you love about POWER with the benefits of Hybrid Cloud](https://cloud.ibm.com/power/overview)
 - [Getting started with IBM Power Systems Virtual Servers](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-getting-started)
 - [Deploying a custom image within a Power Systems Virtual Server](https://cloud.ibm.com/docs/power-iaas?topic=power-iaas-deploy-custom-image)
+- [IBM Power Systems Virtual Server Sales Foundation](https://learn.ibm.com/course/view.php?id=11419) badge for IBMers and partners.
+
+## For Business Partners
+
+- [Client Presentation - IBM Power Systems Virtual Server (PowerVS)](https://ibm.seismic.com/Link/Content/DCmqdd962PMDH8QP3hpTdHdgVhg3)

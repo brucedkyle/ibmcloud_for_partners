@@ -4,14 +4,16 @@ nav:
     - Home page: index.md
     - Financial Services Cloud: ./financial-services.md
     - About: about.md
+  - Storage:
+      - Cloud Object Storage: ./cloud/storage.md
   - IaaS:
     - Cloud Native:
-      - Cloud Object Storage: ./cloud/storage.md
       - Virtual Private Cloud (VPC) in the Public Cloud: ./cloud/vpc.md
       - VPC Architectures: ./cloud/vpc-architecture.md
     - Extended Enterprise:
       - PowerVS: ./cloud/powervs.md
       - Deploy PowerVS: ./cloud/powervs-vpc.md
+      - PowerVS Demo Guide~: https://ibm.github.io/SalesEnablement-PowerVS-L3/
     - Bare Metal Servers: 
       - Overview: ./cloud/baremetal.md
       - Bare Metal Classic: ./cloud/baremetal-classic.md
@@ -23,13 +25,23 @@ nav:
       - Bare Metal Classic for VMware: ./cloud/baremetal-vmware.md
       - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
-  - PaaS:
-    - Key and Hyper Protect Services:
-      - Key Protect: ./security/keyprotect.md
-      - Key Protect tutorials: ./security/keyprotect-tutorials.md
-      - Hyper Protect Crypto Services: ./security/hyperprotect.md
-      - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
-      - Unified Key: ./security/unifiedkey.md
+  - Security:
+      - Key and Hyper Protect Services:
+        - Key Protect: ./security/keyprotect.md
+        - Key Protect tutorials: ./security/keyprotect-tutorials.md
+        - Hyper Protect Crypto Services: ./security/hyperprotect.md
+        - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
+        - Unified Key: ./security/unifiedkey.md
+  - Mainframe:
+      - Mainframe Modernization: ./mainframe/modernization.md
+      - Modernization scenarios:
+        - Sustainability: ./mainframe/sustainability.md
+        - Containers on Z: ./mainframe/containers.md
+      - Technical solutions:
+          - Enterprise DevOps: ./mainframe/devops.md
+          - API: ./mainframe/api.md
+          - Security: ./mainframe/security.md
+          - Refactor with generative AI: ./mainframe/watsonx.md
 extra_css:
   - stylesheets/extra.css
 theme: 

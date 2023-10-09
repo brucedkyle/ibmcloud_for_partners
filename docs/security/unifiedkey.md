@@ -67,3 +67,7 @@ The following diagram illustrates the use case:
 ## References
 
 - [Announcing Multicloud Key Management with IBM Cloud Hyper Protect Crypto Services](https://www.ibm.com/blog/announcement/announcing-multicloud-key-management-with-ibm-cloud-hyper-protect-crypto-services/)
+
+## TechZone
+
+For partners with access to TechZone, see [Use the Unified Key Orchestrator (UKO) to orchestrate keys across AWS and/or Azure](https://techzone.ibm.com/collection/use-the-unified-key-orchestrator-uko-to-orchestrate-keys-across-aws-andor-azure/resources) for a hands-on tutorial.
