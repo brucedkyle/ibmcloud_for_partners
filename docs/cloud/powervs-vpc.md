@@ -5,7 +5,6 @@
 
 You can quickly deploy a Power Systems Virtual Server to meet your specific business needs and easily control workload demands. This article points you to the steps on building out a landing zone for your PowerVS deployment.
 
-
 !!! tip
 
     If you are creating or configuring a Power Systems Virtual Server instance to support an SAP NetWeaver or SAP HANA workload, see [Planning your deployment](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-planning-items) and [Deploying IBM Cloud VPC infrastructure for Power Systems Virtual Server SAP workloads](https://cloud.ibm.com/docs/sap?topic=sap-power-vs-set-up-vpc-infrastructure). 
@@ -78,7 +77,7 @@ For more information and the Terraform code used to set up the Quick Start, see 
 
 ## Full stack architecture
 
-The **PowerVS workspace** option aka __full stack architecture_ that is shown as an option in the catalog deploys the infrastructure you need, but does not include the PowerVS instances. The architecture is based on best practices.
+The **PowerVS workspace** option aka _full stack architecture_ that is shown as an option in the catalog deploys the infrastructure you need, but does not include the PowerVS instances. The architecture is based on best practices.
 
 The following diagram shows the full-stack architecture.
 

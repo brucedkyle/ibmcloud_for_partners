@@ -41,7 +41,7 @@ IBM Cloud LinuxONE virtual servers for VPC gives fast-provisioning compute capac
 network speeds and most secure, software-defined networking resources available on the IBM Cloud. 
 This offering is built on IBM Cloud Virtual Private Cloud (VPC) and IBM LinuxONE processors
 
-## Sustainability actiom plan
+## Sustainability action plan
 
 !!! tip "Action plan"
 
