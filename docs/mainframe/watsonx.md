@@ -25,16 +25,7 @@ These solutions are powered by [IBM's watsonx.ai code model](https://www.ibm.com
 
 The watsonx Code Assistant product portfolio will extend over time to address other programming languages, to improve time to value for modernization and address growing skills challenges for developers.
 
-<center>
- <iframe width="560" 
-         height="315" 
-         src="https://youtu.be/FJr0iKXKr3M" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
+[![watsonx video](./media/watsonxvideo.png)](https://youtu.be/FJr0iKXKr3M)
 
 ## References
 
