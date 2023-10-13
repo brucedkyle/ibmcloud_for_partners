@@ -44,7 +44,7 @@ nav:
           - Enterprise DevOps: ./mainframe/devops.md
           - API: ./mainframe/api.md
           - Security: ./mainframe/security.md
-          - Hyper Protect Virtual Servers: ./cloud/hyper-protect-vs.m
+          - Hyper Protect Virtual Servers: ./mainframe/hyper-protect-vs.md
           - Refactor with generative AI: ./mainframe/watsonx.md
 extra_css:
   - stylesheets/extra.css
