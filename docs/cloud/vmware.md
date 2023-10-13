@@ -32,12 +32,21 @@ The following diagram offers a comparison:
 
 ![comparison](./media/vmware.png)
 
+## Secure VMware disks on IBM Cloud
+
+IBM Cloud offers integrated VMware solutions. Each virtual machine you stand up has storage coupled to it, which you may want to encrypt. These VMs may host applications and data that contain sensitive information, so you would need to lock it down.
+
+You can encrypt this storage via highly secure, industry-standard algorithms. But this can lead to a key management concern: Where do you keep the keys, and how do you secure them? You can now configure a tight integration between **IBM Cloud Hyper Protect Crypto Services (HPCS)** and VMware on IBM Cloud. 
+
+For more information, see the tutorial at [Use IBM Cloud Hyper Protect Crypto Services to encrypt VMware disks](https://developer.ibm.com/tutorials/use-hyper-protect-crypto-services-to-encrypt-vmware-disks/).
+
 ## Next steps
 
 See:
 
 - [IBM Cloud for VMware Solutions](https://ibm.github.io/SalesEnablement-VMware-L3/Shared/Introduction/) courseware.
 - Try the 15-minute labs at [IBM Cloud for VMware Solutions Hands-on Lab](https://customerconnect.vmware.com/en/evalcenter?p=ibm-cloud-hol-gen-22) at VMware.
+- Tutorial 
 
 See product documentation:
 

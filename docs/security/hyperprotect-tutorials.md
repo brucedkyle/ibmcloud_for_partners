@@ -39,6 +39,22 @@ The following diagram illustrates a scenario where Linux servers using LUKS encr
 
 ![LUKS encryption keys](./media/hpcs-for-luks-final.png)
 
+## Offload NGINX TLS tutorial
+
+Offloading TLS to a load balancer like NGINX allows for a single, centralized point of control and management.
+
+This tutorial explains how to use a container `nginx-tls-offload` to perform TLS offloading on an NGINX web server using private keys protected by IBM Cloud Hyper Protect Crypto Service.
+
+![SSL offload](./media/ssl-offload-with-hpcs-2.png)
+
+See [Use IBM Cloud Hyper Protect Crypto Services to offload NGINX TLS](https://developer.ibm.com/tutorials/use-hyper-protect-crypto-services-to-offload-nginx-tls/).
+
+## Encrypt VMware disks tutorial
+
+Encrypt disks in an existing IBM Cloud VMware estate using secure key storage and a KMIP instance.
+
+See [Use IBM Cloud Hyper Protect Crypto Services to encrypt VMware disks](https://developer.ibm.com/tutorials/use-hyper-protect-crypto-services-to-encrypt-vmware-disks/).
+
 ## How to use Hyper Protect Crypto Services
 
 See the documentation [Hyper Protect Crypto Services - How to](https://cloud.ibm.com/docs/hs-crypto?topic=hs-crypto-envelope-encryption). 

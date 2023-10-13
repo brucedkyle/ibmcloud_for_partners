@@ -96,6 +96,12 @@ The following diagram shows how you can set up highly available and isolated wor
 
 See [Deploy isolated workloads across multiple locations and zones](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-vpc-multi-region).
 
+## IBM Cloud Hyper Protect Virtual Servers for VPC
+
+Confidential computing is enabled on **LinuxONE** (s390x processor architecture) by using the **IBM Secure Execution for Linux** technology. This technology is part of the hardware of IBM z15 (z15) and IBM LinuxONE III generation systems. With IBM Secure Execution for Linux, you can securely deploy workloads in the cloud. It ensures the integrity and confidentiality of boot images, and server authenticity. Applications are isolated from the operating system, thus providing more privacy and security for the workload.
+
+See [Confidential computing with LinuxONE](https://cloud.ibm.com/docs/vpc?topic=vpc-about-se&interface=ui).
+
 ## Next steps
 
 See [Deploy VPC](./vpc-deployment.md).

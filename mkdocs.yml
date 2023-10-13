@@ -26,12 +26,15 @@ nav:
       - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
   - Security:
-      - Key and Hyper Protect Services:
+    - Key and Hyper Protect Services:
         - Key Protect: ./security/keyprotect.md
         - Key Protect tutorials: ./security/keyprotect-tutorials.md
         - Hyper Protect Crypto Services: ./security/hyperprotect.md
         - Hyper Protect tutorials: ./security/hyperprotect-tutorials.md
         - Unified Key: ./security/unifiedkey.md
+    - Cloud Security and Compliance:
+      - Security Architecture: https://cloud.ibm.com/docs/framework-financial-services?topic=framework-financial-services-about
+      - Cloud Security and Compliance Center: ./security/securityandcompliance.md
   - Mainframe:
       - Mainframe Modernization: ./mainframe/modernization.md
       - Modernization scenarios:
@@ -41,6 +44,7 @@ nav:
           - Enterprise DevOps: ./mainframe/devops.md
           - API: ./mainframe/api.md
           - Security: ./mainframe/security.md
+          - Hyper Protect Virtual Servers: ./cloud/hyper-protect-vs.m
           - Refactor with generative AI: ./mainframe/watsonx.md
 extra_css:
   - stylesheets/extra.css
