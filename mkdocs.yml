@@ -37,6 +37,7 @@ nav:
       - Cloud Security and Compliance Center: ./security/securityandcompliance.md
   - Mainframe:
       - Mainframe Modernization: ./mainframe/modernization.md
+      - Get started on mainframe: ./mainframe/getstarted.md
       - Modernization scenarios:
         - Sustainability: ./mainframe/sustainability.md
         - Containers on Z: ./mainframe/containers.md
