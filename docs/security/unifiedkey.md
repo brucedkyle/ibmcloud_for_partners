@@ -4,7 +4,7 @@ Managing keys in silos on-premises and across multiple clouds brings up challeng
 
 !!! tip "Use"
 
-    Built on the _Keep Your Own Key_ technology, **Unified Key Orchestrator** helps enterprises manage their data encryption keys across multiple key stores across multiple clouds environments, including keys managed on:
+    Built on the _Keep Your Own Key (KYOK)_ technology, **Unified Key Orchestrator** helps enterprises manage their data encryption keys across multiple key stores across multiple clouds environments, including keys managed on:
     
     - On-premises
     - IBM Cloud
@@ -63,6 +63,18 @@ See [Using Hyper Protect Crypto Services with Unified Key Orchestrator to manage
 The following diagram illustrates the use case:
 
 ![cloud satellite](./media/uko-kp-satellite.svg)
+
+## Hybrid cloud architecture with IBM Cloud
+
+Hyper Protect Crypto Service (HPCS) with Unified Key Orchestrator (UKO) removes the complexity of managing multiple types of key management services and help boost enterprise workload security using FIPS 140-2 Level 4 certified IBM Cloud centric HSM solution.
+
+When an enterprise application developed and deployed in IBM Cloud is extended as a hybrid multicloud application and could be combines with other cloud services and on-premises services, the data security of this application can be managed with HPCS service. 
+
+The following diagram shows how the key management enterprise applications deployed across this hybrid multicloud platform can be provided by HPCS/UKO service with single pane of glass.
+
+![hybrid cloud hpcs with uko](./media/hpcsanduko.png)
+
+In this case, the Hyper Protect Crypto Service with Unified Key Orchestrator work across multiple clouds, IBM Cloud VPCs, and even protects mainframe workloads. It demonstrated _Keep Your Own Key (KYOK)_ and _Bring Your Own Key (BYOK)_.
 
 ## References
 
