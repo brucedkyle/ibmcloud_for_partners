@@ -67,6 +67,22 @@ For more information, see
 - [Centralize communication through a VPC Transit Hub and Spoke architecture - Part one](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-vpc-transit1)
 - [Centralize communication through a VPC Transit Hub and Spoke architecture - Part two](https://cloud.ibm.com/docs/solution-tutorials?topic=solution-tutorials-vpc-transit2)
 
+## VPC with Red Hat OpenShift
+
+If you want to use containers, you can add [Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/openshift?topic=openshift-roks-overview) to your VPC. Except for the addition of Red Hat OpenShift on IBM Cloud, you use the same architectural patterns and components that were described for the [Single-region IBM Cloud for Financial Services reference architecture for VPC with Virtual Servers for VPC](https://cloud.ibm.com/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-detailed-vsi).
+
+The following diagram shows an example of a single region IBM Cloud for Financial Services reference architecture for VPC with Red Hat OpenShift on IBM Cloud.
+
+![openshift on vpc](./media/vpc-openshift.png)
+
+In this architecture, a transient gateway links the control plane VPC to the worker nodes VPC.
+
+!!! note "OpenShift deployment options"
+
+    You can choose to use Red Hat OpenShift on IBM Cloud alongside (or instead of) virtual servers in either or both VPCs. Even though it is shown in the diagram as an option, it is not required to put Red Hat OpenShift on IBM Cloud in your management VPC.
+
+For more information, see [Single-region IBM Cloud for Financial Services reference architecture for VPC with Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-detailed-openshift).
+
 ## Autoscaling
 
 The following diagram illustrates how you can scale workloads in shared and dedicated VPC environments.
@@ -109,3 +125,4 @@ See [Deploy VPC](./vpc-deployment.md).
 ## References
 
 - [Virtual private cloud reference architecture](https://www.ibm.com/cloud/architecture/architectures/virtual-private-cloud/reference-architecture)
+- [Single-region IBM Cloud for Financial Services reference architecture for VPC with Red Hat OpenShift on IBM Cloud](https://cloud.ibm.com/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-detailed-openshift).

@@ -20,7 +20,7 @@ Customize your bare metal server with over 11 million different configuration co
 ## Hardware options
 
 - [Intel Sapphire Rapids CPUs](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm#bm-sapphire-rapids-support)
-- [AMD Cpus](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm#bm-amd-procs). AMD EPYC® "Rome" generation CPUs are now an option.
+- [AMD CPUs](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm#bm-amd-procs). AMD EPYC® "Rome" generation CPUs are now an option.
 - [Intel Cascade Lake CPUs](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm#bm-cascade-lake-support)
 - [NVIDIA GPUs](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm#bm-gpu-support). Make sure that you install the appropriate drivers. See [NVIDIA drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
 
@@ -108,6 +108,14 @@ For more information, see [Getting started with VMware and IBM Cloud](https://cl
 
 The IBM Cloud® SAP-Certified Infrastructure gives you the flexibility to run your SAP workloads in the IBM Cloud when you need them, where you need them with over 60 IBM data centers worldwide. For more information, see [Getting started with SAP](https://cloud.ibm.com/docs/sap).
 
+## Landing zone for Virtual Server Instances
+
+A best practice landing zone architecture shows how to build virtual server instances (VSI) across multiple subnets with any number of block storage volumes that are connected by any number of load balancers, as shown in the following diagram.
+
+![vsi-lb](./media/vsi-lb.png)
+
+For more information and for the Terraform code to implement, see [IBM Secure Landing Zone VSI Module](https://github.com/terraform-ibm-modules/terraform-ibm-landing-zone-vsi).
+
 ## Next steps
 
 Learn how to:
@@ -119,6 +127,7 @@ Learn how to:
 - [Monitor](https://cloud.ibm.com/docs/cloud-infrastructure?topic=cloud-infrastructure-monitoring-iaas)
 - [Migration](https://cloud.ibm.com/docs/cloud-infrastructure?topic=cloud-infrastructure-about-migration-infra)
 
-## Reference
+## References
 
 - Product documentation [Bare Metal Servers for Classic](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-about-bm)
+- [IBM Secure Landing Zone VSI Module](https://github.com/terraform-ibm-modules/terraform-ibm-landing-zone-vsi)
