@@ -43,9 +43,7 @@ nav:
         - Containers on Z: ./mainframe/containers.md
         - Enterprise DevOps: ./mainframe/devops.md
         - API: ./mainframe/api.md
-        - Security: 
-          - Security overview: ./mainframe/security.md
-          - Hyper Protect Virtual Servers: ./mainframe/hyper-protect-vs.md
+        - Security: ./mainframe/security.md
         - Refactor with generative AI: ./mainframe/watsonx.md
       - Tooling:
         - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
@@ -57,7 +55,8 @@ nav:
           - Wazi Sandbox: ./mainframe/sandbox.md
           - Wazi Deploy: ./mainframe/deploy.md
           - Bring your own image: ./mainframe/imagebuilder.md
-
+          - DevOps using Wazi as a Service: ./mainframe/wazi-devops.md
+        - Hyper Protect Virtual Servers: ./mainframe/hyper-protect-vs.md
 extra_css:
   - stylesheets/extra.css
 theme: 

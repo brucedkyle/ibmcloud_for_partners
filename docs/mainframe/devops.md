@@ -37,6 +37,20 @@ Enterprise DevOps solution architectures can be implemented on IBM Cloud to help
 
     See [Mainframe Application Modernization with IBM Cloud and IBM zSystems](https://www.ibm.com/blog/mainframe-application-modernization-with-ibm-cloud-and-ibm-zsystems/) for specifics on these claims.
 
+## Enterprise DevOps pattern
+
+IBM zSystems® should be an integral part of the Enterprise DevOps strategy. DevOps is a way of working that drives a culture of continuous learning, continuous improvement, transparency, visibility, and trust. 
+
+A single heterogeneous pipeline can be used to orchestrate the development, integration, and deployment of an application across multiple target platforms and environments with the right security rules in place. This single pipeline should handle all stages of the process from build tasks such as compilation and binds through to artifact packaging, deployment, and larger scale Integration testing. 
+
+[![z-enterprise-devops-pattern.png](./media/z-enterprise-devops-pattern.png)](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern)
+
+For a deep dive, see [Enterprise DevOps pattern](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern). The article describes scenarios for:
+
+- Continuous integration
+- Continuous test
+- Test Environments and Infrastructure automation
+
 ## Create the pipeline
 
 Runs on Red Hat OpenShift. After you validate the modified code and debug it in the IDE, the CI/CD pipeline takes the committed code. Then, the CI/CD pipeline automatically builds, tests, qualifies, and deploys the code to the target z/OS system.
@@ -65,6 +79,7 @@ See:
 - For the IBM product page, see [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service).
 - For product documentation, see [IBM Wazi as a Service](https://www.ibm.com/docs/en/wazi-aas/1.0.0).
 - Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html).
+- [Enterprise DevOps pattern](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern).
 
 ## References
 
@@ -72,3 +87,4 @@ See:
 - [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=creating-cicd-pipeline-zos-applications)
 - Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html)
 - [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229)
+- [Enterprise DevOps pattern](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern)

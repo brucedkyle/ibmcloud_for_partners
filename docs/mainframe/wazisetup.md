@@ -46,7 +46,7 @@ Those choices will dictate your required tasks.
 | Standard virtualized z/OS | Web-based IBM Wazi | [Use case](#standard-virtualized-zos-with-web-based-ibm-wazi) |
 | Customized and virtualized z/OS | Wazi for VS Code | [Use case](#customized-and-virtualized-zos-with-ibm-wazi-for-vs-code) |
 | Customized and virtualized z/OS | Wazi for Eclipse | [Use case](#customized-and-virtualized-zos-with-ibm-wazi-for-eclipse) |
-| Customized and virtualized z/OS | Web-based IBM Wazi | [Use case]() |
+| Customized and virtualized z/OS | Web-based IBM Wazi | [Use case](#customized-and-virtualized-zos-with-web-based-ibm-wazi) |
 
 
 ### Standard virtualized z/OS with IBM Wazi for VS Code

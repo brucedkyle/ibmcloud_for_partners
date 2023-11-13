@@ -129,7 +129,6 @@ Containerized development on x86.
 
 Use use the pipeline capability to define the whole application lifecycle by automating the workflow, from the building stage to the provisioning and deploying stages. For more information about the pipeline capability, see [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/wazidoc/com.ibm.wazi.developer.pipeline/pipeline_intro.html).
 
-
 ## Next steps
 
 See video at [Overview of IBM Wazi as a Service](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=overview).
@@ -139,6 +138,14 @@ Next, learn how you can get started learning mainframe development:
 - [Developer fundamentals](#developer-fundamentals)
 - [IBM Redbooks publication](#ibm-redbooks-publication)
 - [Set up Wazi as a Service](#setup-wazi-as-a-service)
+
+### Get set up
+
+See the following documentation to get set up with Wazi as a Service:
+
+1. [Prerequisites](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=service-prerequisites)
+2. [Configuring access to services](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=service-configuring-access-services)
+3. [Wazi as a Service set up](./wazisetup.md)
 
 ### Developer fundamentals
 
