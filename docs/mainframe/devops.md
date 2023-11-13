@@ -37,16 +37,24 @@ Enterprise DevOps solution architectures can be implemented on IBM Cloud to help
 
     See [Mainframe Application Modernization with IBM Cloud and IBM zSystems](https://www.ibm.com/blog/mainframe-application-modernization-with-ibm-cloud-and-ibm-zsystems/) for specifics on these claims.
 
+## Create the pipeline
+
+Runs on Red Hat OpenShift. After you validate the modified code and debug it in the IDE, the CI/CD pipeline takes the committed code. Then, the CI/CD pipeline automatically builds, tests, qualifies, and deploys the code to the target z/OS system.
+
+See [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=creating-cicd-pipeline-zos-applications).
+
 ## DevOps next steps
 
 See:
 
 - For architecture, solution description, and steps to get started, see [Wazi as a Service](./wazi.md) article in _IBM Cloud for Partners_.
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
-- For the IBM product page, see [IBM Wazi as a Service](https://www.ibm.com/downloads/cas/Y3JDDJOD).
+- For the IBM product page, see [IBM Wazi as a Service](https://www.ibm.com/cloud/wazi-as-a-service).
 - For product documentation, see [IBM Wazi as a Service](https://www.ibm.com/docs/en/wazi-aas/1.0.0).
+- Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html).
 
 ## References
 
 - [Mainframe Application Modernization with IBM Cloud and IBM zSystems](https://www.ibm.com/blog/mainframe-application-modernization-with-ibm-cloud-and-ibm-zsystems/)
 - [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=creating-cicd-pipeline-zos-applications)
+- Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html)

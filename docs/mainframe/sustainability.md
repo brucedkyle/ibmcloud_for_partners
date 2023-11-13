@@ -32,14 +32,11 @@ An analysis that discovered that workloads running on 55 x86 servers could be co
 
 IBM Cloud is the only hyperscaler offering LinuxONE in virtual server and in bare metals.
 
-As IBM cloud offers LinuxONE platform in the public cloud, we are offering customers options to 
-remove their footprint from their data centers and adopt sustainability of IBM Cloud. Also, we are 
-offering LinuxONE platform options in IBM Cloud, we are offering industry-lead sustainable 
-platform deployment options via IBM Cloud.
+As IBM cloud offers LinuxONE platform in the public cloud, we are offering customers options to remove their footprint from their data centers and adopt sustainability of IBM Cloud. Also, we are offering LinuxONE platform options in IBM Cloud, we are offering industry-lead sustainable platform deployment options via IBM Cloud.
 
-IBM Cloud LinuxONE virtual servers for VPC gives fast-provisioning compute capacity with the highest 
-network speeds and most secure, software-defined networking resources available on the IBM Cloud. 
-This offering is built on IBM Cloud Virtual Private Cloud (VPC) and IBM LinuxONE processors
+IBM Cloud LinuxONE virtual servers for VPC gives fast-provisioning compute capacity with the highest network speeds and most secure, software-defined networking resources available on the IBM Cloud. 
+
+This offering is built on IBM Cloud Virtual Private Cloud (VPC) and IBM LinuxONE processors.
 
 ## Sustainability action plan
 

@@ -37,16 +37,26 @@ nav:
       - Cloud Security and Compliance Center: ./security/securityandcompliance.md
   - Mainframe:
       - Mainframe Modernization: ./mainframe/modernization.md
-      - Get started on mainframe: ./mainframe/getstarted.md
+      - Mainframe enablement roadmap: ./mainframe/getstarted.md
       - Modernization scenarios:
         - Sustainability: ./mainframe/sustainability.md
         - Containers on Z: ./mainframe/containers.md
-      - Technical solutions:
-          - Enterprise DevOps: ./mainframe/devops.md
-          - API: ./mainframe/api.md
-          - Security: ./mainframe/security.md
+        - Enterprise DevOps: ./mainframe/devops.md
+        - API: ./mainframe/api.md
+        - Security: 
+          - Security overview: ./mainframe/security.md
           - Hyper Protect Virtual Servers: ./mainframe/hyper-protect-vs.md
-          - Refactor with generative AI: ./mainframe/watsonx.md
+        - Refactor with generative AI: ./mainframe/watsonx.md
+      - Tooling:
+        - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
+        - IBM Wazi:
+          - IBM Wazi as a Service overview: ./mainframe/wazi.md
+          - Wazi as a Service setup: ./mainframe/wazisetup.md
+          - Wazi Code: ./mainframe/wazicode.md
+          - Wazi Analyze: ./mainframe/analyze.md
+          - Wazi Sandbox: ./mainframe/sandbox.md
+          - Bring your own image: ./mainframe/imagebuilder.md
+
 extra_css:
   - stylesheets/extra.css
 theme: 

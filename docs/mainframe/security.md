@@ -76,21 +76,12 @@ The following diagram shows high-level reference architecture of a modern mainfr
 
 The diagram illustrates:
 
-- Custom image built using **Wazi builder** to provision a z/OS VSI for dev/test within IBM Cloud 
-VPC is protected by Hyper Protect Crypto Service using KYOK
-- As the mainframe application brought from an on-premises LPAR which are used to develop 
-and test mainframe applications within IBM Cloud are encrypted using an encryption key 
-owned and managed exclusively by the enterprise owner which assures full data security
-- HPCS service can also be used to provide the additional protection through **TLS server certification offload** mechanism to help protect the mainframe application on the wire
-- The protection of mainframe application residing in databases and storage is done using 
-**HPCS integrations** to these services
-- The applications and data during compute runtime are also protected through Hyper Protect 
-services within IBM Cloud VPC, VPC may also include **VMWare** for IBM Cloud workloads,
-Container workloads and other virtual machine-based workloads
-- The compliance checks and validation of the solution can be done using IBM Cloud based 
-service called **Security and Compliance Center (SCC)**, both during development within IBM 
-Cloud VPC and during pre-prod testing of these enterprise applications in on-premises IBM 
-zSystem LPARs
+- Custom image built using **Wazi builder** to provision a z/OS VSI for dev/test within IBM Cloud VPC is protected by Hyper Protect Crypto Service using KYOK.
+- As the mainframe application brought from an on-premises LPAR which are used to develop and test mainframe applications within IBM Cloud are encrypted using an encryption key owned and managed exclusively by the enterprise owner which assures full data security.
+- HPCS service can also be used to provide the additional protection through **TLS server certification offload** mechanism to help protect the mainframe application on the wire.
+- The protection of mainframe application residing in databases and storage is done using **HPCS integrations** to these services.
+- The applications and data during compute runtime are also protected through Hyper Protect services within IBM Cloud VPC, VPC may also include **VMWare** for IBM Cloud workloads, container workloads and other virtual machine-based workloads.
+- The compliance checks and validation of the solution can be done using IBM Cloud based service called **Security and Compliance Center (SCC)**, both during development within IBM Cloud VPC and during pre-prod testing of these enterprise applications in on-premises IBM zSystem LPARs.
 
 For more information, see [Hyper Protect Crypto Services](../security/hyperprotect.md).
 

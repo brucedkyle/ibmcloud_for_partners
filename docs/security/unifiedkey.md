@@ -76,6 +76,8 @@ The following diagram shows how the key management enterprise applications deplo
 
 In this case, the Hyper Protect Crypto Service with Unified Key Orchestrator work across multiple clouds, IBM Cloud VPCs, and even protects mainframe workloads. It demonstrated _Keep Your Own Key (KYOK)_ and _Bring Your Own Key (BYOK)_.
 
+See [Secure mainframe applications and data in a hybrid multicloud platform](https://www.ibm.com/downloads/cas/XNNPE9OV) download.
+
 ## References
 
 - [Announcing Multicloud Key Management with IBM Cloud Hyper Protect Crypto Services](https://www.ibm.com/blog/announcement/announcing-multicloud-key-management-with-ibm-cloud-hyper-protect-crypto-services/)

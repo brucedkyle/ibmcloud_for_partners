@@ -97,9 +97,26 @@ For more information, see:
 - [API for Z workloads](./api.md)
 - [Containers on Z](./containers.md)
 
+## Next steps
+
+- [IBM Z Xplore](https://ibmzxplore.influitive.com/) provides a learning experience to upskill, reskill, and learn new skills as you begin a journey with IBM zSystems and enterprise computing. The experience is open to all, available at no charge and includes:
+
+    - IBM zSystem access
+    - Progressive learning paths
+    - Hands-on challenges
+    - Digital badging
+    - Rewards
+    - Leaderboard
+
+See [Mainframe enablement roadmap](./getstarted.md).
+
+- IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://mediacenter.ibm.com/playlist/details/1_5q5qeehb/)
+- Learn about [IBM Z and Cloud Modernization Stack](./stack.md)
+
 ## References
 
 - Product page [Mainframe application modernization on IBM Cloud](https://www.ibm.com/cloud/mainframe-app-modernization)
+- [IBM Wazi as a Service documentation overview](href="https://www.ibm.com/docs/en/wazi-aas/1.0.0)
 - [Application modernization for IBM Z architecture](https://www.ibm.com/cloud/architecture/architectures/application-modernization-mainframe/overview)
 - [IBM Z and Cloud Modernization Center](https://www.ibm.com/community/z-and-cloud/)
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)

@@ -88,6 +88,7 @@ See:
 
 - [Expose through APIs pattern](https://www.ibm.com/cloud/architecture/architectures/z-expose-apis-pattern). Access mainframe applications and data by using standards-based REST APIs with IBM® z/OS® Connect EE. Manage APIs by using industry-standard API management solutions, including solutions by IBM.
 - [Accelerate application modernization and IT automation with IBM Z and Cloud Modernization Stack](https://www.ibm.com/downloads/cas/A8DQ61MR)
+- Redbooks [Hybrid Cloud with IBM Z Redbook](https://www.redbooks.ibm.com/abstracts/sg248532.html)
 
 
 ## Reference
