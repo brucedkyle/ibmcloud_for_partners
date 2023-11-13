@@ -41,7 +41,20 @@ Enterprise DevOps solution architectures can be implemented on IBM Cloud to help
 
 Runs on Red Hat OpenShift. After you validate the modified code and debug it in the IDE, the CI/CD pipeline takes the committed code. Then, the CI/CD pipeline automatically builds, tests, qualifies, and deploys the code to the target z/OS system.
 
+The following diagram shows a generic implementation of a CI/CD Cloud-based development & test 
+environment for mainframe applications:
+
+![mainframe devops](./media/mainframe-devops.png)
+
 See [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=creating-cicd-pipeline-zos-applications).
+
+## DevOps for mainframe cookbook
+
+Learn more by reading a cookbook presenting different recipes to build and configure enterprise CI/CD pipelines for developing and testing mainframe applications on Cloud platforms, by leveraging the IBM Z & Cloud Modernization Stack offering. 
+
+The IBM Z & Cloud Modernization Stack includes various capabilities to modernize mainframe applications, based on the Red Hat OpenShift platform. For development and test purposes, this offering includes Wazi Code (formerly called DevSpaces), Wazi Analyze, Wazi Deploy and Wazi Sandbox. Together, these components provide mainframe developers with a Cloud-native experience with zero installation.
+
+Download the ebook at [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229).
 
 ## DevOps next steps
 
@@ -58,3 +71,4 @@ See:
 - [Mainframe Application Modernization with IBM Cloud and IBM zSystems](https://www.ibm.com/blog/mainframe-application-modernization-with-ibm-cloud-and-ibm-zsystems/)
 - [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=creating-cicd-pipeline-zos-applications)
 - Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html)
+- [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229)

@@ -55,6 +55,7 @@ nav:
           - Wazi Code: ./mainframe/wazicode.md
           - Wazi Analyze: ./mainframe/analyze.md
           - Wazi Sandbox: ./mainframe/sandbox.md
+          - Wazi Deploy: ./mainframe/deploy.md
           - Bring your own image: ./mainframe/imagebuilder.md
 
 extra_css:
