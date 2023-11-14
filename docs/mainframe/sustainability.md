@@ -20,7 +20,7 @@ With a unique architecture designed to meet the needs of mission-critical worklo
 !!! key "Keys"
 
     - IBM LinuxONE delivers a 59% savings in power consumption as compared to x86 running workloads with the same throughput.
-    - Average of 10:1 consolidation of cores for the same workload
+    - Average of 10:1 consolidation of cores for the same workload.
 
 The following diagram shows a concrete example of a large Asia Pacific Insurance company focused on decreasing data center costs and carbon emissions. 
 
@@ -42,7 +42,7 @@ This offering is built on IBM Cloud Virtual Private Cloud (VPC) and IBM LinuxONE
 
 !!! tip "Action plan"
 
-    - Consolidate of databases of both SQL (PostreSQL, DB2) and NoSQL (MongoDB) to improve total cost of ownership, benefit from qualities of service the platform provides. See [Databases and data analytics on Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/databases-and-data-analytics#why-deploy-databases-on-kubernetes)
+    - Consolidate of databases of both SQL (PostreSQL, DB2) and NoSQL (MongoDB) to improve total cost of ownership, benefit from qualities of service the platform provides. See [Databases and data analytics on Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift/databases-and-data-analytics#why-deploy-databases-on-kubernetes).
     - Containerize workloads running on Red Hat OpenShift provide economies of scale by maximizing compute resources. For more information see, [Container workloads on Z](./containers.md) and [DevOps for Z](./devops.md).
 
 ## Get started

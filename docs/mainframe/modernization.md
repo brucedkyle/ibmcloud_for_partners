@@ -116,7 +116,7 @@ See [Mainframe enablement roadmap](./getstarted.md).
 ## References
 
 - Product page [Mainframe application modernization on IBM Cloud](https://www.ibm.com/cloud/mainframe-app-modernization)
-- [IBM Wazi as a Service documentation overview](href="https://www.ibm.com/docs/en/wazi-aas/1.0.0)
+- [IBM Wazi as a Service documentation overview](https://www.ibm.com/docs/en/wazi-aas/1.0.0)
 - [Application modernization for IBM Z architecture](https://www.ibm.com/cloud/architecture/architectures/application-modernization-mainframe/overview)
 - [IBM Z and Cloud Modernization Center](https://www.ibm.com/community/z-and-cloud/)
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
