@@ -56,7 +56,10 @@ nav:
           - Wazi Deploy: ./mainframe/deploy.md
           - Bring your own image: ./mainframe/imagebuilder.md
           - DevOps using Wazi as a Service: ./mainframe/wazi-devops.md
-        - Hyper Protect Virtual Servers: ./mainframe/hyper-protect-vs.md
+        - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
+        - LinuxONE: ./mainframe/linuxone.md
+        - z/OS Connect: ./mainframe/zOSconnect.md
+        - z/OS Cloud Broker: ./mainframe/cloudbroker.md
 extra_css:
   - stylesheets/extra.css
 theme: 

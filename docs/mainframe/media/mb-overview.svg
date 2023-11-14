@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="328" viewBox="0 0 1400 328">
+  <defs>
+    <clipPath id="clip-_2021-08-25-the-vision_export">
+      <rect width="1400" height="328"/>
+    </clipPath>
+    <image id="image" width="32.16" height="32.16" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g id="_2021-08-25-the-vision_export" data-name="2021-08-25-the-vision – export" clip-path="url(#clip-_2021-08-25-the-vision_export)">
+    <rect width="1400" height="328" fill="#fff"/>
+    <g id="artwork">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(488 16)" fill="#fff" stroke="#1162fb" stroke-width="1">
+        <rect width="200" height="184" stroke="none"/>
+        <rect x="0.5" y="0.5" width="199" height="183" fill="none"/>
+      </g>
+      <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(492 16)" fill="none"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="4" height="48" transform="translate(488 16)" fill="#1162fb"/>
+      <path id="Path_24" data-name="Path 24" d="M26,18a4,4,0,0,0-3.858,3H18a3,3,0,0,1-3-3V14a4.951,4.951,0,0,0-1.026-3h8.168a4,4,0,1,0,0-2H9.858a4,4,0,1,0,0,2H10a3,3,0,0,1,3,3v4a5.006,5.006,0,0,0,5,5h4.142A3.993,3.993,0,1,0,26,18ZM26,8a2,2,0,1,1-2,2,2,2,0,0,1,2-2ZM6,12a2,2,0,1,1,2-2A2,2,0,0,1,6,12ZM26,24a2,2,0,1,1,2-2A2,2,0,0,1,26,24Z" transform="translate(500 24)"/>
+      <rect id="_Transparent_Rectangle_2" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" transform="translate(500 24)" fill="none"/>
+      <rect id="spacer" width="16" height="183" transform="translate(672 16)" fill="none"/>
+      <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(728 16)" fill="#fff" stroke="#1162fb" stroke-width="1">
+        <rect width="408" height="184" stroke="none"/>
+        <rect x="0.5" y="0.5" width="407" height="183" fill="none"/>
+      </g>
+      <rect id="_Transparent_Rectangle_3" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(732 16)" fill="none"/>
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="4" height="48" transform="translate(728 16)" fill="#1162fb"/>
+      <path id="Path_19" data-name="Path 19" d="M27,16.76V15.23l1.92-1.68A2,2,0,0,0,29.3,11L26.94,7a2.018,2.018,0,0,0-2.37-.9l-2.43.82a11.35,11.35,0,0,0-1.31-.75l-.51-2.52a2,2,0,0,0-2-1.61H13.64a2,2,0,0,0-2,1.61l-.51,2.52a11.48,11.48,0,0,0-1.32.75L7.43,6.06A2,2,0,0,0,6.79,6,2,2,0,0,0,5.06,7L2.7,11a2,2,0,0,0,.41,2.51L5,15.24v1.53L3.11,18.45A2,2,0,0,0,2.7,21l2.36,4a2.018,2.018,0,0,0,2.37.9l2.43-.82a11.35,11.35,0,0,0,1.31.75l.51,2.52a2,2,0,0,0,2,1.61H18.4a2,2,0,0,0,2-1.61l.51-2.52a11.48,11.48,0,0,0,1.32-.75l2.42.82a2.018,2.018,0,0,0,2.37-.9l2.28-4a2,2,0,0,0-.41-2.51ZM25.21,24l-3.43-1.16a8.86,8.86,0,0,1-2.71,1.57L18.36,28H13.64l-.71-3.55a9.36,9.36,0,0,1-2.7-1.57L6.79,24,4.43,20l2.72-2.4a8.9,8.9,0,0,1,0-3.13L4.43,12,6.79,8l3.43,1.16a8.86,8.86,0,0,1,2.71-1.57L13.64,4h4.72l.71,3.55a9.36,9.36,0,0,1,2.7,1.57L25.21,8l2.36,4-2.72,2.4a8.9,8.9,0,0,1,0,3.13L27.57,20Z" transform="translate(740 24)"/>
+      <path id="Path_20" data-name="Path 20" d="M16,22a6,6,0,1,1,6-6,5.94,5.94,0,0,1-6,6Zm0-10a3.91,3.91,0,0,0-4,4,3.91,3.91,0,0,0,4,4,3.91,3.91,0,0,0,4-4,3.91,3.91,0,0,0-4-4Z" transform="translate(740 24)"/>
+      <rect id="_Transparent_Rectangle_4" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" transform="translate(740 24)" fill="none"/>
+      <rect id="spacer-2" data-name="spacer" width="16" height="183" transform="translate(1120 16)" fill="none"/>
+      <g id="Rectangle_4-3" data-name="Rectangle 4" transform="translate(1176 16)" fill="#fff" stroke="#1162fb" stroke-width="1">
+        <rect width="208" height="184" stroke="none"/>
+        <rect x="0.5" y="0.5" width="207" height="183" fill="none"/>
+      </g>
+      <rect id="_Transparent_Rectangle_5" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(1180 16)" fill="none"/>
+      <rect id="Rectangle_8-3" data-name="Rectangle 8" width="4" height="48" transform="translate(1176 16)" fill="#1162fb"/>
+      <rect id="_Transparent_Rectangle_6" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" transform="translate(1188 24)" fill="none"/>
+      <path id="Path_36" data-name="Path 36" d="M21.25,1.75V6.335L9.438,19.845,6.9,22.75H21.25v3.5H3.75V21.665L15.563,8.155,18.1,5.25H3.75V1.75h17.5M23,0H2V7H14.25L2,21v7H23V21H10.75L23,7Z" transform="translate(1192 26)"/>
+      <rect id="spacer-3" data-name="spacer" width="16" height="183" transform="translate(1368 16)" fill="none"/>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(232 216)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(240 233)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">2</tspan></text>
+      <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(16 216)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <text id="_1" data-name="1" transform="translate(24 233)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">1</tspan></text>
+      <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(488 216)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(496 233)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">3</tspan></text>
+      <g id="Ellipse_1-4" data-name="Ellipse 1" transform="translate(728 216)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <text id="_4" data-name="4" transform="translate(736 233)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">4</tspan></text>
+      <g id="Ellipse_1-5" data-name="Ellipse 1" transform="translate(1176 216)" fill="#fff" stroke="#000" stroke-width="1">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11.5" fill="none"/>
+      </g>
+      <text id="_5" data-name="5" transform="translate(1184 233)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="0">5</tspan></text>
+      <g id="Rectangle_4-4" data-name="Rectangle 4" transform="translate(232 16)" fill="#fff" stroke="#1162fb" stroke-width="1">
+        <rect width="216" height="184" stroke="none"/>
+        <rect x="0.5" y="0.5" width="215" height="183" fill="none"/>
+      </g>
+      <rect id="_Transparent_Rectangle_7" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(236 16)" fill="none"/>
+      <rect id="Rectangle_8-4" data-name="Rectangle 8" width="4" height="48" transform="translate(232 16)" fill="#1162fb"/>
+      <path id="Path_17" data-name="Path 17" d="M26,24H6a2,2,0,0,1-2-2V8A2,2,0,0,1,6,6H26a2,2,0,0,1,2,2V22A2,2,0,0,1,26,24ZM6,8V22H26V8Z" transform="translate(244 24.005)"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="28" height="2" transform="translate(246 50)"/>
+      <rect id="_Transparent_Rectangle_8" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" transform="translate(244 24)" fill="none"/>
+      <rect id="spacer-4" data-name="spacer" width="16" height="183" transform="translate(432 16)" fill="none"/>
+      <g id="Rectangle_4-5" data-name="Rectangle 4" transform="translate(248 104)" fill="#f0ecff" stroke="#9f6eff" stroke-width="1">
+        <rect width="184" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="183" height="79" fill="none"/>
+      </g>
+      <rect id="spacer-5" data-name="spacer" width="16" height="77" transform="translate(416 104)" fill="none"/>
+      <g id="Rectangle_4-6" data-name="Rectangle 4" transform="translate(504 104)" fill="#f0ecff" stroke="#9f6eff" stroke-width="1">
+        <rect width="168" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="167" height="79" fill="none"/>
+      </g>
+      <rect id="spacer-6" data-name="spacer" width="16" height="77" transform="translate(656 104)" fill="none"/>
+      <rect id="_Transparent_Rectangle_9" data-name="&lt;Transparent Rectangle&gt;" width="48" height="64" transform="translate(508 104)" fill="none"/>
+      <rect id="Rectangle_8-5" data-name="Rectangle 8" width="4" height="48" transform="translate(504 104)" fill="#9f6eff"/>
+      <path id="Path_18" data-name="Path 18" d="M26,22a3.86,3.86,0,0,0-2,.57l-3.09-3.1a6,6,0,0,0,0-6.94L24,9.43A3.86,3.86,0,0,0,26,10a4,4,0,1,0-4-4,3.86,3.86,0,0,0,.57,2l-3.1,3.09a6,6,0,0,0-6.94,0L9.43,8A3.86,3.86,0,0,0,10,6a4,4,0,1,0-4,4,3.86,3.86,0,0,0,2-.57l3.09,3.1a6,6,0,0,0,0,6.94L8,22.57A3.86,3.86,0,0,0,6,22a4,4,0,1,0,4,4,3.86,3.86,0,0,0-.57-2l3.1-3.09a6,6,0,0,0,6.94,0L22.57,24A3.86,3.86,0,0,0,22,26a4,4,0,1,0,4-4ZM26,4a2,2,0,1,1-2,2A2,2,0,0,1,26,4ZM4,6A2,2,0,1,1,6,8,2,2,0,0,1,4,6ZM6,28a2,2,0,1,1,2-2A2,2,0,0,1,6,28Zm10-8a4,4,0,1,1,4-4A4,4,0,0,1,16,20Zm10,8a2,2,0,1,1,2-2A2,2,0,0,1,26,28Z" transform="translate(516 112)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="32" height="32" transform="translate(516 112)" fill="none"/>
+      <g id="Rectangle_4-7" data-name="Rectangle 4" transform="translate(744 104)" fill="#f0ecff" stroke="#9f6eff" stroke-width="1">
+        <rect width="168" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="167" height="79" fill="none"/>
+      </g>
+      <rect id="spacer-7" data-name="spacer" width="16" height="77" transform="translate(896 104)" fill="none"/>
+      <rect id="_Transparent_Rectangle_10" data-name="&lt;Transparent Rectangle&gt;" width="48" height="64" transform="translate(748 104)" fill="none"/>
+      <rect id="Rectangle_8-6" data-name="Rectangle 8" width="4" height="48" transform="translate(744 104)" fill="#9f6eff"/>
+      <path id="Path_18-2" data-name="Path 18" d="M26,22a3.86,3.86,0,0,0-2,.57l-3.09-3.1a6,6,0,0,0,0-6.94L24,9.43A3.86,3.86,0,0,0,26,10a4,4,0,1,0-4-4,3.86,3.86,0,0,0,.57,2l-3.1,3.09a6,6,0,0,0-6.94,0L9.43,8A3.86,3.86,0,0,0,10,6a4,4,0,1,0-4,4,3.86,3.86,0,0,0,2-.57l3.09,3.1a6,6,0,0,0,0,6.94L8,22.57A3.86,3.86,0,0,0,6,22a4,4,0,1,0,4,4,3.86,3.86,0,0,0-.57-2l3.1-3.09a6,6,0,0,0,6.94,0L22.57,24A3.86,3.86,0,0,0,22,26a4,4,0,1,0,4-4ZM26,4a2,2,0,1,1-2,2A2,2,0,0,1,26,4ZM4,6A2,2,0,1,1,6,8,2,2,0,0,1,4,6ZM6,28a2,2,0,1,1,2-2A2,2,0,0,1,6,28Zm10-8a4,4,0,1,1,4-4A4,4,0,0,1,16,20Zm10,8a2,2,0,1,1,2-2A2,2,0,0,1,26,28Z" transform="translate(756 112)"/>
+      <rect id="Rectangle_16-2" data-name="Rectangle 16" width="32" height="32" transform="translate(756 112)" fill="none"/>
+      <path id="Polygon_1" data-name="Polygon 1" d="M4,0,8,8H0Z" transform="translate(504 132) rotate(90)"/>
+      <line id="Line_14" data-name="Line 14" x2="64" transform="translate(432 136)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Polygon_1-2" data-name="Polygon 1" d="M4,0,8,8H0Z" transform="translate(248 132) rotate(90)"/>
+      <line id="Line_14-2" data-name="Line 14" x2="48" transform="translate(192 136)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Polygon_1-3" data-name="Polygon 1" d="M4,0,8,8H0Z" transform="translate(744 136) rotate(90)"/>
+      <line id="Line_14-3" data-name="Line 14" x2="64" transform="translate(672 140)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Polygon_1-4" data-name="Polygon 1" d="M4,0,8,8H0Z" transform="translate(1192 140) rotate(90)"/>
+      <line id="Line_14-4" data-name="Line 14" x2="64" transform="translate(1120 144)" fill="none" stroke="#000" stroke-width="1"/>
+      <path id="Polygon_1-5" data-name="Polygon 1" d="M4,0,8,8H0Z" transform="translate(944 140) rotate(90)"/>
+      <line id="Line_14-5" data-name="Line 14" x2="24" transform="translate(912 144)" fill="none" stroke="#000" stroke-width="1"/>
+      <g id="Rectangle_4-8" data-name="Rectangle 4" transform="translate(944 104)" fill="#d3f5f5" stroke="#009794" stroke-width="1">
+        <rect width="176" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="175" height="79" fill="none"/>
+      </g>
+      <rect id="spacer-8" data-name="spacer" width="16" height="80" transform="translate(1104 104)" fill="none"/>
+      <rect id="_Transparent_Rectangle_11" data-name="&lt;Transparent Rectangle&gt;" width="48" height="32" transform="translate(948 104)" fill="none"/>
+      <rect id="Rectangle_8-7" data-name="Rectangle 8" width="4" height="48" transform="translate(944 104)" fill="#009794"/>
+      <use id="Rectangle_20" data-name="Rectangle 20" transform="translate(956 112)" xlink:href="#image"/>
+      <path id="Path_31" data-name="Path 31" d="M20,22H12a2,2,0,0,1-2-2V12a2,2,0,0,1,2-2h8a2,2,0,0,1,2,2v8A2,2,0,0,1,20,22ZM12,12l0,8,8,0,0-8Z" transform="translate(956.08 112)" fill="#161616"/>
+      <g id="Rectangle_4-9" data-name="Rectangle 4" transform="translate(1192 104)" fill="#d3f5f5" stroke="#009794" stroke-width="1">
+        <rect width="176" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="175" height="79" fill="none"/>
+      </g>
+      <rect id="spacer-9" data-name="spacer" width="16" height="80" transform="translate(1352 104)" fill="none"/>
+      <rect id="_Transparent_Rectangle_12" data-name="&lt;Transparent Rectangle&gt;" width="48" height="32" transform="translate(1196 104)" fill="none"/>
+      <rect id="Rectangle_8-8" data-name="Rectangle 8" width="4" height="48" transform="translate(1192 104)" fill="#009794"/>
+      <use id="Rectangle_20-2" data-name="Rectangle 20" transform="translate(1204 112)" xlink:href="#image"/>
+      <path id="Path_31-2" data-name="Path 31" d="M20,22H12a2,2,0,0,1-2-2V12a2,2,0,0,1,2-2h8a2,2,0,0,1,2,2v8A2,2,0,0,1,20,22ZM12,12l0,8,8,0,0-8Z" transform="translate(1204.08 112)" fill="#161616"/>
+      <g id="Rectangle_4-10" data-name="Rectangle 4" transform="translate(16 104)" fill="#fff" stroke="#1162fb" stroke-width="1">
+        <rect width="176" height="96" stroke="none"/>
+        <rect x="0.5" y="0.5" width="175" height="95" fill="none"/>
+      </g>
+      <rect id="_Transparent_Rectangle_13" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(20 104)" fill="none"/>
+      <rect id="Rectangle_8-9" data-name="Rectangle 8" width="4" height="48" transform="translate(16 104)" fill="#1162fb"/>
+      <path id="Path_4" data-name="Path 4" d="M25.7,9.3l-7-7A.908.908,0,0,0,18,2H8A2.006,2.006,0,0,0,6,4V28a2.006,2.006,0,0,0,2,2H24a2.006,2.006,0,0,0,2-2V10a.908.908,0,0,0-.3-.7ZM18,4.4,23.6,10H18ZM24,28H8V4h8v6a2.006,2.006,0,0,0,2,2h6Z" transform="translate(28 112)"/>
+      <rect id="_Transparent_Rectangle_14" data-name="&lt;Transparent Rectangle&gt;" width="32" height="32" transform="translate(28 112)" fill="none"/>
+      <rect id="spacer-10" data-name="spacer" width="16" height="96" transform="translate(176 104)" fill="none"/>
+      <rect id="_Transparent_Rectangle_15" data-name="&lt;Transparent Rectangle&gt;" width="48" height="48" transform="translate(252 104)" fill="none"/>
+      <rect id="Rectangle_8-10" data-name="Rectangle 8" width="4" height="48" transform="translate(248 104)" fill="#9f6eff"/>
+      <path id="Path_18-3" data-name="Path 18" d="M26,22a3.86,3.86,0,0,0-2,.57l-3.09-3.1a6,6,0,0,0,0-6.94L24,9.43A3.86,3.86,0,0,0,26,10a4,4,0,1,0-4-4,3.86,3.86,0,0,0,.57,2l-3.1,3.09a6,6,0,0,0-6.94,0L9.43,8A3.86,3.86,0,0,0,10,6a4,4,0,1,0-4,4,3.86,3.86,0,0,0,2-.57l3.09,3.1a6,6,0,0,0,0,6.94L8,22.57A3.86,3.86,0,0,0,6,22a4,4,0,1,0,4,4,3.86,3.86,0,0,0-.57-2l3.1-3.09a6,6,0,0,0,6.94,0L22.57,24A3.86,3.86,0,0,0,22,26a4,4,0,1,0,4-4ZM26,4a2,2,0,1,1-2,2A2,2,0,0,1,26,4ZM4,6A2,2,0,1,1,6,8,2,2,0,0,1,4,6ZM6,28a2,2,0,1,1,2-2A2,2,0,0,1,6,28Zm10-8a4,4,0,1,1,4-4A4,4,0,0,1,16,20Zm10,8a2,2,0,1,1,2-2A2,2,0,0,1,26,28Z" transform="translate(260 112)"/>
+      <rect id="Rectangle_16-3" data-name="Rectangle 16" width="32" height="32" transform="translate(260 112)" fill="none"/>
+    </g>
+    <g id="text">
+      <text id="Source_code_management" data-name="Source code management" transform="translate(540 31)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">Source code </tspan><tspan x="0" y="32">management</tspan></text>
+      <text id="Build_process" data-name="Build process" transform="translate(780 31)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">Build process</tspan></text>
+      <text id="IBM_Z" data-name="IBM Z" transform="translate(1228 31)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">IBM Z</tspan></text>
+      <text id="API_developer_develops_tests_and_debugs_z_OS_Connect_API_project._" data-name="API developer develops, tests, and debugs z/OS Connect API project. " transform="translate(232 256)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API developer develops, tests, </tspan><tspan x="0" y="32">and debugs z/OS Connect API </tspan><tspan x="0" y="50">project. </tspan></text>
+      <text id="API_developer_imports_an_OpenAPI_3.0_definition_into_the_z_OS_Connect_tooling._" data-name="API developer imports an OpenAPI 3.0 definition into the z/OS Connect tooling. " transform="translate(16 256)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API developer imports an </tspan><tspan x="0" y="32">OpenAPI 3.0 definition into </tspan><tspan x="0" y="50">the z/OS Connect tooling. </tspan></text>
+      <text id="API_developer_checks_the_API_project_into_source_code_management_SCM_." data-name="API developer checks the API project into source code management (SCM)." transform="translate(488 256)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API developer checks the API </tspan><tspan x="0" y="32">project into source code </tspan><tspan x="0" y="50">management (SCM).</tspan></text>
+      <text id="Build_process_creates_a_z_OS_Connect_API_image_from_the_API_project_that_can_be_run_in_a_IBM_Z_container_environment." data-name="Build process creates a z/OS Connect API image from the API project that can be run in a IBM Z container environment." transform="translate(728 256)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">Build process creates a z/OS Connect API image from the API </tspan><tspan x="0" y="32">project that can be run in a IBM Z container environment.</tspan></text>
+      <text id="z_OS_Connect_server_container_is_run_in_a_container_runtime_as_a_micro_service_API._" data-name="z/OS Connect server container is run in a container runtime as a micro service API. " transform="translate(1176 256)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">z/OS Connect server container is </tspan><tspan x="0" y="32">run in a container runtime as a </tspan><tspan x="0" y="50">micro service API. </tspan></text>
+      <text id="Web_based_tooling" data-name="Web based tooling" transform="translate(284 31)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">Web based tooling</tspan></text>
+      <text id="API_project" data-name="API project" transform="translate(300 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API project</tspan></text>
+      <text id="API_project-2" data-name="API project" transform="translate(556 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API project</tspan></text>
+      <text id="API_project-3" data-name="API project" transform="translate(796 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">API project</tspan></text>
+      <text id="z_OS_Connect_API_image" data-name="z/OS Connect API image" transform="translate(996 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">z/OS Connect </tspan><tspan x="0" y="32">API image</tspan></text>
+      <text id="z_OS_Connect_API_container" data-name="z/OS Connect API container" transform="translate(1244 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">z/OS Connect </tspan><tspan x="0" y="32">API container</tspan></text>
+      <text id="OpenAPI_3.0_definition" data-name="OpenAPI 3.0 definition" transform="translate(68 119)" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">OpenAPI 3.0 </tspan><tspan x="0" y="32">definition</tspan></text>
+      <text id="Running_container" data-name="Running container" transform="translate(1192 84)" fill="#697077" font-size="14" font-family="IBMPlexSans, IBM Plex Sans"><tspan x="0" y="14">Running container</tspan></text>
+    </g>
+  </g>
+</svg>

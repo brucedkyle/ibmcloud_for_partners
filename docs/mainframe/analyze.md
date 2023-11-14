@@ -1,8 +1,19 @@
 # Wazi Analyze
 
-Use **IBM® Wazi Analyze** to create rapid, graphical analysis in an installation-free and configuration-free web UI. With Wazi Analyze, developers can discover the relationships among their z/OS® application artifacts and quickly understand the impact of any changes they make.
+<img style="float: right; width: 25%; padding: 0px 0px 1% 1% "  alt="wazi analyze logo" src="../media/wazi-analyze.png" />
+Use **IBM® Wazi Analyze** to create rapid, graphical analysis in an installation-free and configuration-free web UI.
 
-You can choose one of the following Wazi Analyze containers to deploy and use.
+!!! Key
+
+    Use Wazi Analyze developers to discover the relationships among their z/OS application artifacts and quickly understand the impact of changes they want to make.
+
+The following illustration shows a screenshot of the demo application GenAppC.
+
+![wazi analyze screenshot](./media/wazi-analyze-screenshot.png)
+
+## Deployment
+
+Choose one of the following Wazi Analyze containers to deploy and use.
 
 - Wazi Analyze container on Linux®
 - Wazi Analyze container on Linux on IBM Z®
@@ -23,6 +34,19 @@ You can install Docker and load the Wazi Analyze Docker container on your deskto
 - [Exporting analysis results](https://www.ibm.com/docs/en/SSRR9Q_6.1.2/com.ibm.wazi.analyze.doc/topics/export_impact_analysis_results.html). Check the following instructions and learn how to export the analysis results into a JSON file, a PDF file, or a YAML file.
 
 For more information, see [IBM Wazi Analyze User Guide](https://www.ibm.com/docs/en/addi/6.1.2?topic=wazi-analyze-user-guide).
+
+## Checklist
+
+As a web-based application that is pre-installed and delivered in a container running on Linux®, Wazi Analyze is available as the following options:
+
+- An IBM Wazi for Dev Spaces stack in the OpenShift Container Platform environment
+- A stand-alone container that can be run using Docker or Podman
+
+See [Checklist for getting started](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-wazi-analyze).
+
+## Next steps
+
+See [Introducing IBM® Wazi Analyze](https://mediacenter.ibm.com/media/Introducing+IBM%C2%AE+Wazi+Analyze+/1_n6v6smr4/189012293) video.
 
 ## Tutorials
 

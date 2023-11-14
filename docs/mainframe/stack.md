@@ -19,6 +19,10 @@
 - **Cloud-native development**. Develop and modernize IBM® z/OS® applications with a cloud-native approach, increasing speed and agility for greater developer productivity.
 - **The z/OS PaaS experience**. Use simple and automated z/OS software management for self-serve access to z/OS environments for developers.
 
+The following illustration shows The IBM Z and Cloud Modernization Stack delivers a full-stack developer experience.
+
+![full stack experience](./media/full-stack.png)
+
 ## Use cases
 
 - **Enable low-code Open APIs in minutes**. Implement and test new APIs in isolation using an OpenAPI 3 specification and API first mapping.

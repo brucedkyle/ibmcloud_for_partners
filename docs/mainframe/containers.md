@@ -12,13 +12,10 @@ With a unique architecture designed to meet the needs of mission-critical worklo
 
 The primary advantage of containers, especially as compared to a VM, is that they provide a level of abstraction that makes them lightweight and portable. Their primary benefits include:
 
-**Lightweight**: Containers share the machine OS kernel, eliminating the need for a full OS instance per application and making container files small and easy on resources. Their smaller size, especially compared to VMs, means containers can spin up quickly and better support [cloud-native](https://www.ibm.com/topics/cloud-native?_ga=2.63447084.220443453.1680552572-1232242216.1680552572) applications that scale horizontally.
-
-**Portable and platform-independent**: Containers carry all their dependencies with them, meaning that software can be written once and then run without needing to be re-configured across laptops, cloud and on-premises computing environments.
-
-**Supports modern development and architecture**: Due to a combination of their deployment portability/consistency across platforms and their small size, containers are an ideal fit for modern development and application patterns—such as DevOps, serverless and microservices—that are built using regular code deployments in small increments.
-
-**Improves utilization**: Like VMs before them, containers enable developers and operators to improve CPU and memory utilization of physical machines. Where containers go even further is that because they also enable microservices architecture, application components can be deployed and scaled more granularly—an attractive alternative to having to scale up an entire monolithic application because a single component is struggling with its load.
+- **Lightweight**: Containers share the machine OS kernel, eliminating the need for a full OS instance per application and making container files small and easy on resources. Their smaller size, especially compared to VMs, means containers can spin up quickly and better support [cloud-native](https://www.ibm.com/topics/cloud-native?_ga=2.63447084.220443453.1680552572-1232242216.1680552572) applications that scale horizontally.
+- **Portable and platform-independent**: Containers carry all their dependencies with them, meaning that software can be written once and then run without needing to be re-configured across laptops, cloud and on-premises computing environments.
+- **Supports modern development and architecture**: Due to a combination of their deployment portability/consistency across platforms and their small size, containers are an ideal fit for modern development and application patterns—such as DevOps, serverless and microservices—that are built using regular code deployments in small increments.
+- **Improves utilization**: Like VMs before them, containers enable developers and operators to improve CPU and memory utilization of physical machines. Where containers go even further is that because they also enable microservices architecture, application components can be deployed and scaled more granularly—an attractive alternative to having to scale up an entire monolithic application because a single component is struggling with its load.
 
 In a recent [IBM survey](https://www.ibm.com/downloads/cas/VG8KRPRM?_ga=2.100147485.220443453.1680552572-1232242216.1680552572), developers and IT executives reported many other benefits of using containers.
 

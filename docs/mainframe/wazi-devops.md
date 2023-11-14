@@ -1,6 +1,10 @@
 # DevOps on Wazi as a Service
 
-One of the key aspects of digital transformation is the ability to deliver new business functions and changes to the existing functions at cloud scale. To support this, enterprises are adopting secure DevOps and GitOps practices embracing open source tools and standard processes to help development, test and operations teams work together while modernizing the workloads.
+One of the key aspects of digital transformation is the ability to deliver new business functions and changes to the existing functions at cloud scale. To support this, enterprises are adopting secure [DevOps](https://www.ibm.com/topics/devops) and [GitOps](https://developer.ibm.com/articles/use-gitops-to-combine-infrastructure-and-application-services/) practices embracing open source tools and standard processes to help development, test and operations teams work together while modernizing the workloads.
+
+!!! quote
+
+    The most effective organizations include IBM z/OS® applications alongside cloud-native applications, treating [IBM Z](https://www.ibm.com/z) as another platform that can be leveraged. This approach empowers teams to use a single pipeline to orchestrate the development, integration and deployment of an application across multiple target platforms and environments with the right security rules in place.
 
 IBM Cloud is designed for enterprise workloads and offers the IBM zSystems virtual server compute (both z/OS and LinuxONE) available in IBM Cloud VPC in the catalog. IBM Cloud can be combined with x86 development environments, dev test, and deployment to on premises mainframe for production using common DevOps practices.
 
@@ -52,6 +56,7 @@ See:
 
 - [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229)
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
+- [DevOps for IBM Z](https://www.ibm.com/z/devops)
 
 ## Contributors
 
