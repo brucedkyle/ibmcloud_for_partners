@@ -20,21 +20,13 @@ In this article, learn the roadmap for how to create and configure IBM z/OS virt
     - Training exercises or dry runs, especially to experiment with new tools or approaches
     - Projects of short duration requiring z/OS hardware
 
-## Need for automation
+## Referemce architecture
 
-When using z/OS on IBM Cloud, you will want to automate provisioning and deprovisioning your instances.
+The following diagram shows best practices architecture for installing an isolated z/OS Wazi as a Service development environment on IBM Cloud.
 
-!!! tip "Reasons for testing automation"
+![ibm architecture](./media/ibm-cloud-architecture.png)
 
-    Automation of end-to-end test execution, especially for regression testing, provides repeatable scenarios for testing, experimentation, and training.  With Wazi as-a-Service z/OS images and the IBM Cloud CLI, Ansible Collection, Terraform provider, and REST APIs, you can completely automate the lifecycle aspects of the z/OS images under test, such as:
-    
-        1. Provision z/OS instances and the software stack that will run in them
-        2. Then taking certain actions
-        3. Check for expected system behaviors
-        4. Restart z/OS or its components when failures occur
-        5. Deprovision the instances and their data when finished.
-    
-    The programmatic ways in which you can now manage z/OS test instances makes it easy to integrate automation to develop and test your  applications. **Ansible for IBM Cloud** and **Ansible for z/OS collections** are two of the tools that you can use to target the Wazi as-a-Service z/OS images for you test application development and test.
+This particular architecture shows z/OS Wazi as a Service development environment on IBM Cloud, with the option to deploy Wazi for Dev Spaces on any existing OpenShift cluster. It creates a virtual private cloud, creates a Wazi as a Service VSI in that VPC, creates and configures a VPN for accessing resources within that VPC, optionally creates a new OpenShift cluster and automatically deploys Wazi for Dev Spaces for you, and configures your environment with appropriate logging and monitoring services.
 
 ## Steps
 
@@ -52,7 +44,7 @@ You will need to create a VPC, SSH keys, a subnet and floating IP, security grou
 
     Review and implement [Security best practices for z/OS virtual server instances](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=vpc-security-best-practices-zos-virtual-server-instances).
 
-### Automated provisioning of the VSI
+### Automated provisioning of the VSI using Ansible
 
 Michael Cohoon wrote an article, [Automated Provisioning of z/OS in the IBM Cloud](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/michael-cohoon1/2022/12/09/automated-provisioning-of-zos-in-the-ibm-cloud?CommunityKey=2a2f855c-5950-4a9d-8485-86645982646a), that provides code that his team used to automate the configuration of IBM Cloud resources and the provisioning of a z/OS VSI. In the article, he explains how to:
 
@@ -85,7 +77,7 @@ Next, use Wazi as a Service to further configure your settings. See [Configuring
 
 ### System Modification Program/Extended (SMP/E)
 
-You can use the System Modification Program/Extended (SMP/E) database, which is also called the consolidated software inventory (CSI), to query preinstalled products and services in the z/OS stock images. See [Viewing products and services in z/OS stock images](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=vpc-viewing-products-services-in-zos-stock-images) for the commands.
+You can use the System Modification Program/Extended (SMP/E) database, which is also called _consolidated software inventory (CSI)_, to query preinstalled products and services in the z/OS stock images. See [Viewing products and services in z/OS stock images](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=vpc-viewing-products-services-in-zos-stock-images) for the commands.
 
 ### IBM Z Hypervisor as a Service (zHYPaaS)
 
@@ -94,6 +86,31 @@ The zHYPaaS host control program creates a virtual machine (VM) runtime environm
 ### Bring your own image
 
 Use **IBM® Wazi Image Builder** to create and manage custom images from an existing Z platform. See [Bringing your own image with Wazi Image Builder](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=bringing-your-own-image-wazi-image-builder).
+
+## Automation of IBM Cloud z/OS Development Reference Architecture
+
+When using z/OS on IBM Cloud, you will want to automate provisioning and deprovisioning your instances.
+
+!!! tip "Reasons for testing automation"
+
+    Automation of end-to-end test execution, especially for regression testing, provides repeatable scenarios for testing, experimentation, and training.  With Wazi as-a-Service z/OS images and the IBM Cloud CLI, Ansible Collection, Terraform provider, and REST APIs, you can completely automate the lifecycle aspects of the z/OS images under test, such as:
+    
+        1. Provision z/OS instances and the software stack that will run in them
+        2. Then taking certain actions
+        3. Check for expected system behaviors
+        4. Restart z/OS or its components when failures occur
+        5. Deprovision the instances and their data when finished.
+    
+    The programmatic ways in which you can now manage z/OS test instances makes it easy to integrate automation to develop and test your  applications. **Ansible for IBM Cloud** and **Ansible for z/OS collections** are two of the tools that you can use to target the Wazi as-a-Service z/OS images for you test application development and test.
+
+Best practices have been implemented and published to set up **IBM Wazi for Dev Spaces** onto an existing OpenShift cluster, or to provision IBM Z, Virtual Servers and/or OpenShift clusters.
+
+The automation supports the provisioning of an IBM Cloud z/OS Development Environment using isolated VPC networks and OpenShift with a set of developer tools formulated an SDLC for native z/OS development with CICS and DB2.
+
+Within this repository you will find a set of Terraform template bundles that embody best practices for provisioning and configuring cloud resources in an IBM Cloud cloud account. We recommend using this with an IBM Cloud Enterprise sub-account.
+
+See the code [TechZone Automation - IBM Cloud z/OS Development Reference Architecture](https://github.com/IBM/automation-ibmcloud-infra-zos-dev) on GitHub.
+
 
 ## Next steps
 
@@ -104,3 +121,4 @@ For a deeper dive, see the product documentation [Creating z/OS VSIs in IBM Clou
 - IBM Wazi as a Service documentation [Creating z/OS VSIs in IBM Cloud VPC](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=creating-zos-vsis-in-cloud-vpc).
 - [Provisioning z/OS in the IBM Cloud](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/michael-cohoon1/2022/11/01/provisioning-zos-in-the-ibm-cloud)
 - [z/OS software configuration in a WAZI as a Service Environment](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/michael-grtzner1/2022/12/06/zos-software-configuration-in-an-wazi-as-a-service)
+- GitHub [TechZone Automation - IBM Cloud z/OS Development Reference Architecture](https://github.com/IBM/automation-ibmcloud-infra-zos-dev)
