@@ -35,31 +35,38 @@ nav:
     - Cloud Security and Compliance:
       - Security Architecture: https://cloud.ibm.com/docs/framework-financial-services?topic=framework-financial-services-about
       - Cloud Security and Compliance Center: ./security/securityandcompliance.md
-  - Mainframe:
-      - Mainframe Modernization: ./mainframe/modernization.md
+  - Z:
+      - Mainframe modernization: ./mainframe/modernization.md
       - Mainframe enablement roadmap: ./mainframe/getstarted.md
       - Modernization scenarios:
-        - Sustainability: ./mainframe/sustainability.md
-        - Containers on Z: ./mainframe/containers.md
+        - App Modernization:
+            - Discovery: ./mainframe/discovery.md
+            - Refactor using Generative AI: ./mainframe/genai.md
+            - Containers on Z: ./mainframe/containers.md
+            - API: ./mainframe/api.md
         - Enterprise DevOps: ./mainframe/devops.md
-        - API: ./mainframe/api.md
         - Security: ./mainframe/security.md
-        - Refactor with generative AI: ./mainframe/watsonx.md
+        - Sustainability: ./mainframe/sustainability.md
       - Tooling:
+        - LinuxONE: ./mainframe/linuxone.md
+        - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
         - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
         - IBM Wazi:
-          - IBM Wazi as a Service overview: ./mainframe/wazi.md
-          - Wazi as a Service setup: ./mainframe/wazisetup.md
-          - Wazi Code: ./mainframe/wazicode.md
-          - Wazi Analyze: ./mainframe/analyze.md
-          - Wazi Sandbox: ./mainframe/sandbox.md
-          - Wazi Deploy: ./mainframe/deploy.md
-          - Bring your own image: ./mainframe/imagebuilder.md
-          - DevOps using Wazi as a Service: ./mainframe/wazi-devops.md
-        - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
-        - LinuxONE: ./mainframe/linuxone.md
+            - IBM Wazi as a Service overview: ./mainframe/wazi.md
+            - Wazi Code: ./mainframe/wazicode.md
+            - Wazi Analyze: ./mainframe/analyze.md
+            - Wazi Sandbox: ./mainframe/sandbox.md
+            - Wazi Deploy: ./mainframe/deploy.md
+            - Wazi Image Builder: ./mainframe/imagebuilder.md
+            - DevOps using Wazi: ./mainframe/wazi-devops.md
+            - Wazi as a Service setup: ./mainframe/wazisetup.md
         - z/OS Connect: ./mainframe/zOSconnect.md
         - z/OS Cloud Broker: ./mainframe/cloudbroker.md
+        - z/OS on IBM Cloud: ./mainframe/ibmcloud.md
+      - Refactor tooling:
+          - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
+          - watsonx Code Assistant for Z: ././mainframe/watsonxcodeassist.md
+
 extra_css:
   - stylesheets/extra.css
 theme: 

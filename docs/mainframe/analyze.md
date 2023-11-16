@@ -1,11 +1,22 @@
 # Wazi Analyze
 
-<img style="float: right; width: 25%; padding: 0px 0px 1% 1% "  alt="wazi analyze logo" src="../media/wazi-analyze.png" />
-Use **IBM® Wazi Analyze** to create rapid, graphical analysis in an installation-free and configuration-free web UI.
+<img style="float: right; width: 10%; padding: 0px 0px 1% 1% "  alt="wazi analyze logo" src="../media/wazi-analyze.png" />
+Use **IBM® Wazi Analyze** to create rapid, graphical analysis in an installation-free and configuration-free web UI. It is a containerized component that brings rapid analysis capability to developers to help them discover the relationships between the components of their z/OS applications and to understand the impact of potential changes. It provides a graphical visualization of COBOL application artifact dependencies in a web user interface. 
 
 !!! Key
 
     Use Wazi Analyze developers to discover the relationships among their z/OS application artifacts and quickly understand the impact of changes they want to make.
+
+Anticipating the potential impact of changes and reducing the risks before they actually happen could be essential for increasing the productivity and agility of developers. Developers need to do rapid scans for analysis of an application and assess the impact of changes. This is where IBM Wazi Analyze comes in.
+
+ Wazi Analyze is available as a containerized component that helps you understand the impact of programs and files changes through graphical analysis. With this web-based and pre-installed application that is delivered in a Docker container, you can rapidly scan your source files and view the impact analysis through an easy-to-use web user interface.
+
+## Impact analysis
+
+Wazi Analyze supports the following types of impact analysis.
+
+- Program call references that display the call relationship between COBOL programs.
+- Source file references that display the relationship between COBOL files and COBOL included files.
 
 The following illustration shows a screenshot of the demo application GenAppC.
 
@@ -46,9 +57,13 @@ See [Checklist for getting started](https://www.ibm.com/docs/en/cloud-paks/z-mod
 
 ## Next steps
 
+Learn more about Wazi Analyze.
+
+### Video
+
 See [Introducing IBM® Wazi Analyze](https://mediacenter.ibm.com/media/Introducing+IBM%C2%AE+Wazi+Analyze+/1_n6v6smr4/189012293) video.
 
-## Tutorials
+### Tutorials
 
 - [Tutorial: Performing impact analysis of GenAppC, a demo project](https://www.ibm.com/docs/en/SSRR9Q_6.1.2/com.ibm.wazi.analyze.doc/topics/view_the_sample_project_genapp.html). Wazi Analyze provides GenAppC as a demo project that you can easily scan to view its analysis results. Learn how to get started with GenAppC and perform the analysis of the GenAppC scanned results.
 - [Tutorial: Updating the scan options for the GenAppC project](https://www.ibm.com/docs/en/SSRR9Q_6.1.2/com.ibm.wazi.analyze.doc/topics/tutorial_update_scan_options_for_genapp.html). Learn how to update a scan option for the GenAppC project and then observe the changes to the scan results after your update.
@@ -56,3 +71,4 @@ See [Introducing IBM® Wazi Analyze](https://mediacenter.ibm.com/media/Introduci
 ## References
 
 - [IBM Wazi Analyze User Guide](https://www.ibm.com/docs/en/addi/6.1.2?topic=wazi-analyze-user-guide)
+- [Accelerating your application discovery and analysis with IBM ADDI](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/fiona-wang1/2021/03/19/whats-new-in-ibm-addi-v600)

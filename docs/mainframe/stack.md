@@ -28,7 +28,7 @@ The following illustration shows The IBM Z and Cloud Modernization Stack deliver
 - **Enable low-code Open APIs in minutes**. Implement and test new APIs in isolation using an OpenAPI 3 specification and API first mapping.
 - **Edit, debug, build and Deploy z/OS applications using cloud native tools**. Use industry-standard tools common across platforms for application development.
 - **Employ rapid application analysis**. Plan your code changes and generate an impact analysis graph to view the dependencies.
--** Enhance apps with Open Enterprise languages**. Add new microservices or application enhancements using the open enterprise language of your own choosing.
+- **Enhance apps with Open Enterprise languages**. Add new microservices or application enhancements using the open enterprise language of your own choosing.
 - **Self-service management of your z/OS environment**. Experience z/OS platform as a service (PaaS) by extending Red Hat OpenShift with preconfigured software packaging.
 - **Use on-demand z/OS environments and resources**. Increase developer and systems programmer productivity with on-demand provisioning of z/OS resources using industry standard skills and practices.
 

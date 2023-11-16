@@ -10,6 +10,20 @@ Organizations continue to rely on core applications and data on IBM Z. Transacti
 
 In this article, learn the ways IBM recommends steps partners can take to drive your customers' application modernization. And learn the business reasons that can drive your customer modernization efforts.
 
+## Modernization strategy
+
+In a recent IBM Institute for Business Value study, 71% of executives say mainframe-based applications are central to their business strategy[^1]. Four out of five respondents say their organizations need to rapidly transform to keep up with competition, which includes modernizing mainframe-based apps and adopting a more open approach. The report confirms that executives view modernizing mainframe-based applications — and connecting them with new applications through a hybrid cloud environment — as crucial to driving a holistic digital transformation strategy across the mainframe and cloud.
+
+## Business-aligned continuous approach
+
+IBM recommends a business-aligned continuous approach to application modernization that allows businesses to build on existing investments, targeting only required application changes. Why rewrite 100% of your entire application portfolio if only 20% needs to be modernized? IBM’s approach starts by building on your current foundation.
+
+Optimize [hardware and software costs](https://www.ibm.com/it-infrastructure/z/pricing-tailored-fit) while streamlining application performance and management. By integrating IBM Z into a [hybrid cloud platform](https://www.ibm.com/hybrid-cloud) to fully leverage [cloud-native](https://www.ibm.com/cloud/learn/cloud-native) development, you’ll unlock additional revenue by increasing access to mainframe data for analytics and [AI](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence) through an API and data-modernization strategy.
+
+As a result, you’re more empowered to increase business agility by moving from a [waterfall development](https://www.ibm.com/cloud/blog/agile-vs-waterfall) to an [enterprise DevOps](https://www.ibm.com/z/devops) process and an automated continuous [CI/CD pipeline](https://www.ibm.com/cloud/blog/ci-cd-pipeline) that is fully aligned to business priorities and is open and standard across the business, allowing for greater sharing of tools, skills and expertise.
+
+And finally, reduce time-to-value with proven [application modernization patterns](https://www.ibm.com/cloud/architecture/architectures/application-modernization-mainframe/patterns), acceleration tools and best practices that include prescriptive “how-to” guides and showcases for modernizing and deploying on IBM z/OS and zLinux, IBM LinuxONE and public clouds together.
+
 ## Business drivers
 
 Growth in value is driven by key areas of differentiation on IBM Z:
@@ -47,17 +61,18 @@ IBM Cloud extends mainframe application modernization options with several patte
 
 | Solution Pattern | Digital Transformation Solution | Consulting Potental |  |
 | - | - | - | - |
+| **Discovery** | Identify targets for transformation that provide significant business value | :fontawesome-regular-square-check: | [Discovery](./discovery.md) |
 | **DevOps** | Improve business agility and provide a modern DevOps platform |  :fontawesome-regular-square-check: | [DevOps Pipeline for Mainframe](./devops.md) [DevOps for Mainframe tooling](./wazi.md) |
 | **Sustainability** | Achieve greater sustainability with IBM LinuxOne and IBM Cloud | :fontawesome-regular-square-check: | [Sustainability for Z on IBM Cloud](./sustainability.md) |
-| **API Integration** | Simplify access to mainframe application with API strategy | :fontawesome-regular-square-check: | |
+| **API Integration** | Simplify access to mainframe application with API strategy | :fontawesome-regular-square-check: | [API for Z workloads](./api.md) |
 | **Security** | Secure enterprise workloads in a hybrid multicloud platform | |  |
 | **Financial Services Cloud** | Build hybrid cloud platform for mainframe centric regulated workloads | | [Financial Services Cloud](../financial-services.md) |
 | **Data** | Unlock and monetize mainframe data through a hybrid cloud | :fontawesome-regular-square-check: | |
 | **Observability/SRE** | Provide seamless automation and observability involving mainframe and cloud native applications in hybrid cloud | :fontawesome-regular-square-check: | |
-| **AI** | Infuse AI into mainframe workloads | :fontawesome-regular-square-check: | [] |
+| **AI** | Infuse AI into mainframe workloads | :fontawesome-regular-square-check: |  |
 | **Colo** | Resolve application latency issues with mainframe centric hybrid cloud platforms | | [Collocate applications pattern](https://www.ibm.com/cloud/architecture/architectures/z-collocate-applications-pattern/) |
-| **Containerization** | Develop and deploy containerized applications on mainframe | :fontawesome-regular-square-check: | |
-| **Refactor** | Refactor traditional mainframe workloads into microservices without rip and replace | :fontawesome-regular-square-check: | [Generative AI for refactoring Z apps](./watsonx.md) |
+| **Containerization** | Develop and deploy containerized applications on mainframe | :fontawesome-regular-square-check: | [Containers](./containers.md) |
+| **Refactor** | Refactor traditional mainframe workloads into microservices without rip and replace | :fontawesome-regular-square-check: | [Generative AI for refactoring Z apps](./watsonxcodeassist.md) |
 
 ## Why IBM Cloud
 
@@ -90,28 +105,35 @@ For more information, see [Sustainability for Z](./sustainability.md).
 
 - Direct integration and support for IBM Cloud Paks and Red Hat OpenShift running on IBM LinuxONE offerings and in co=location models
 - Native IBM zSystems security can be expanded across the enterprise
-- Wealth of experience and patters with IBM partners
-
-For more information, see:
-
-- [API for Z workloads](./api.md)
-- [Containers on Z](./containers.md)
+- Wealth of experience and patterns with IBM partners
 
 ## Next steps
 
-- [IBM Z Xplore](https://ibmzxplore.influitive.com/) provides a learning experience to upskill, reskill, and learn new skills as you begin a journey with IBM zSystems and enterprise computing. The experience is open to all, available at no charge and includes:
+Learn more about mainframe modernization.
 
-    - IBM zSystem access
-    - Progressive learning paths
-    - Hands-on challenges
-    - Digital badging
-    - Rewards
-    - Leaderboard
+### Mainframe modernization basics
+
+<img style="float: right; width: 15%; padding: 0px 0px 1% 1% "  alt="Application Modernization on IBM Z Sales Badge" src="../media/Application_Modernization_on_IBM_Z_Sales_Foundation.png" />
+
+[Application Modernization on IBM Z Sales Badge](https://yourlearning.ibm.com/activity/PLAN-5F912B2BB02B). Learn how mainframe Application Modernization with IBM Z and Cloud together can bring more value to clients. Learn best practices to help clients accelerate their application modernization journey.  The curriculum looks at some of the key drivers and challenges associated with mainframe application modernization. What industry analysts are recommending, what clients are doing today, and a walk-through of IBM’s prescriptive approach to continuously modernize applications with hybrid cloud leveraging IBM technology and expertise.
+
+### Learn mainframe development
+
+[IBM Z Xplore](https://ibmzxplore.influitive.com/) provides a learning experience to upskill, reskill, and learn new skills as you begin a journey with IBM zSystems and enterprise computing. The experience is open to all, available at no charge and includes:
+
+- IBM zSystem access
+- Progressive learning paths
+- Hands-on challenges
+- Digital badging
+- Rewards
+- Leaderboard
 
 See [Mainframe enablement roadmap](./getstarted.md).
 
-- IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://mediacenter.ibm.com/playlist/details/1_5q5qeehb/)
-- Learn about [IBM Z and Cloud Modernization Stack](./stack.md)
+### Video series on mainframe DevOps
+
+See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://mediacenter.ibm.com/playlist/details/1_5q5qeehb/)
+
 
 ## References
 
@@ -121,3 +143,7 @@ See [Mainframe enablement roadmap](./getstarted.md).
 - [IBM Z and Cloud Modernization Center](https://www.ibm.com/community/z-and-cloud/)
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
 - [watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)
+- [Lower Costs and Increase ROI with Application Modernization on a Hybrid Cloud](https://www.ibm.com/blog/lower-costs-and-increase-roi-with-application-modernization-on-a-hybrid-cloud/)
+
+[^1]:
+    IBM Business Value Report [Application modernization on the mainframe](https://www.ibm.com/thought-leadership/institute-business-value/report/application-modernization-mainframe)

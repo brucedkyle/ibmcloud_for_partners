@@ -4,7 +4,9 @@
 
 You can self provision z/OS runtimes and databases and provides a fully virtual z/OS environment that enables development and testing of z/OS applications on OpenShift running on x86_64 hardware. 
 
-Develop and test z/OS application components without requiring IBM Z hardware, then deploy the code to either the sandbox testing stage on IBM Cloud or IBM Z for production.
+!!! key
+
+    Develop and test z/OS application components without requiring IBM Z hardware, then deploy the code to either the sandbox testing stage on Z on IBM Cloud VPC or IBM Z for production.
 
 ## Features
 

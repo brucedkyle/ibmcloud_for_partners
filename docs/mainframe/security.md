@@ -103,6 +103,16 @@ For more information, see [IBM Cloud Security and Compliance Center](https://www
 
 To get started, sign in to your IBM Cloud account to [Manage the security and compliance of your workloads](https://cloud.ibm.com/security-compliance/overview).
 
+## Quantum-safe crytopgraphy
+
+As cyberattacks continue to increase, the cost and reputation impacts of data breaches remain a top concern across all enterprises. Even if sensitive data is encrypted and is of no use now, cybercriminals are harvesting that data because they might gain access to a quantum computer that can break classical cryptographic algorithms sometime in the future. Therefore, organizations must start protecting their sensitive data today by using quantum-safe cryptography.
+
+This **IBM® Redbooks®** publication reviews some potential threats to classical cryptography by way of quantum computers and how to make best use of today’s quantum-safe capabilities on the IBM Z platform. This book also provides guidance about how to get started on a quantum-safe journey and step-by-step examples for deploying IBM Z® quantum-safe capabilities.
+
+This publication is intended for IT managers, IT architects, system programmers, security administrators, and anyone who needs to plan for, deploy, and manage quantum-safe cryptography on the IBM Z platform. The reader is expected to have a basic understanding of IBM Z security concepts.
+
+See Redbook: [Transitioning to Quantum-Safe Cryptography on IBM Z](https://www.redbooks.ibm.com/abstracts/sg248525.html?Open)
+
 ## Next steps
 
 See:
