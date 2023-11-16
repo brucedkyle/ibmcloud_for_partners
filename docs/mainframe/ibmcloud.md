@@ -1,20 +1,28 @@
-# z/OS in IBM Cloud VPC
+# z/OS on IBM Cloud VPC
 
 If you already use the **IBM Cloud** today, you may be familiar with both the process of provisioning a **Virtual Server Instance (VSI)** and the extensive catalog of services and products. With **IBM Wazi as-a-Service** in the IBM Cloud, the z/OS operating system is now an option when provisioning VSIs within the **Virtual Private Cloud (VPC)**. 
 
 VPC provides a dedicated and isolated environment within the IBM Cloud to easily create VSIs, subnets, cloud object storage, security groups, and more, all within a protected space. The z/OS stock image benefits from the VPC features and comes with a pre-configured and customized software stack, but custom images can also be created with the **Wazi Image Builder**. 
 
+!!! important
+
+    With **Wazi as-a-Service** z/OS images in the IBM Cloud, you can provision your specific z/OS software stack for the area of z/OS under test, within minutes. You use the mainframe for the time required for the duration of the test, after which the test images can be deprovisioned.
+
 In this article, learn the roadmap for how to create and configure IBM z/OS virtual server instances in IBM Cloud Virtual Private Cloud (VPC) from the cloud console.
+
+## Use cases
 
 !!! key "Use cases"
 
     - Performance testing
     - Regression testing
     - Scheduling and collaboration from many testers working hands-on
-    - Training exercises or dry runs, especially as we experiment with new tools or approaches
+    - Training exercises or dry runs, especially to experiment with new tools or approaches
     - Projects of short duration requiring z/OS hardware
 
-With **Wazi as-a-Service** z/OS images in the IBM Cloud you can provision with the necessary z/OS software stack for the area of z/OS under test, within minutes. You use the mainframe for the time required for the duration of the test, after which the test images can be deprovisioned.
+## Need for automation
+
+When using z/OS on IBM Cloud, you will want to automate provisioning and deprovisioning your instances.
 
 !!! tip "Reasons for testing automation"
 
@@ -57,9 +65,9 @@ Also see [Red Hat Ansible Certified Content for IBM Z](https://www.ibm.com/suppo
 
 ### Use Wazi aaS to configure your z/OS instance
 
-Use Wazi as a Service to 
+Use Wazi as a Service to configure either stock images or custom images.
 
-## Configure of stock images
+### Configure of stock images
 
 <img style="float: right; width: 20%; padding: 0px 0px 1% 1% "  alt="zos stock images" src="../media/zOS-stock-images.png" />
 You can select the content you want from a stock image. The illustration to the right shows choices you can make in provisioning the stock images as of the time of this writing.
@@ -83,7 +91,7 @@ You can use the System Modification Program/Extended (SMP/E) database, which is 
 
 The zHYPaaS host control program creates a virtual machine (VM) runtime environment for each guest operating system (OS) and can host many guests at the same time. For more information, see [IBM Z Hypervisor as a Service (zHYPaaS) overview](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=vpc-z-hypervisor-as-service-zhypaas-overview).
 
-## Bring your own image
+### Bring your own image
 
 Use **IBM® Wazi Image Builder** to create and manage custom images from an existing Z platform. See [Bringing your own image with Wazi Image Builder](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=bringing-your-own-image-wazi-image-builder).
 
