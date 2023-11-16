@@ -20,7 +20,7 @@ In this article, learn the roadmap for how to create and configure IBM z/OS virt
     - Training exercises or dry runs, especially to experiment with new tools or approaches
     - Projects of short duration requiring z/OS hardware
 
-## Referemce architecture
+## Reference architecture
 
 The following diagram shows best practices architecture for installing an isolated z/OS Wazi as a Service development environment on IBM Cloud.
 
@@ -52,6 +52,8 @@ Michael Cohoon wrote an article, [Automated Provisioning of z/OS in the IBM Clou
 2. Create IBM Cloud resources
 3. Provision a z/OS Virtual Server Instance
 4. Deprovision the z/OS VSI
+
+The programmatic ways in which you can now manage z/OS test instances makes it easy to integrate automation to develop and test your  applications. **Ansible for IBM Cloud** and **Ansible for z/OS collections** are two of the tools that you can use to target the Wazi as-a-Service z/OS images for you test application development and test.
 
 Also see [Red Hat Ansible Certified Content for IBM Z](https://www.ibm.com/support/z-content-solutions/ansible/).
 
@@ -95,13 +97,11 @@ When using z/OS on IBM Cloud, you will want to automate provisioning and deprovi
 
     Automation of end-to-end test execution, especially for regression testing, provides repeatable scenarios for testing, experimentation, and training.  With Wazi as-a-Service z/OS images and the IBM Cloud CLI, Ansible Collection, Terraform provider, and REST APIs, you can completely automate the lifecycle aspects of the z/OS images under test, such as:
     
-        1. Provision z/OS instances and the software stack that will run in them
-        2. Then taking certain actions
-        3. Check for expected system behaviors
-        4. Restart z/OS or its components when failures occur
-        5. Deprovision the instances and their data when finished.
-    
-    The programmatic ways in which you can now manage z/OS test instances makes it easy to integrate automation to develop and test your  applications. **Ansible for IBM Cloud** and **Ansible for z/OS collections** are two of the tools that you can use to target the Wazi as-a-Service z/OS images for you test application development and test.
+    1. Provision z/OS instances and the software stack that will run in them
+    2. Then taking certain actions
+    3. Check for expected system behaviors
+    4. Restart z/OS or its components when failures occur
+    5. Deprovision the instances and their data when finished.
 
 Best practices have been implemented and published to set up **IBM Wazi for Dev Spaces** onto an existing OpenShift cluster, or to provision IBM Z, Virtual Servers and/or OpenShift clusters.
 
@@ -110,7 +110,6 @@ The automation supports the provisioning of an IBM Cloud z/OS Development Enviro
 Within this repository you will find a set of Terraform template bundles that embody best practices for provisioning and configuring cloud resources in an IBM Cloud cloud account. We recommend using this with an IBM Cloud Enterprise sub-account.
 
 See the code [TechZone Automation - IBM Cloud z/OS Development Reference Architecture](https://github.com/IBM/automation-ibmcloud-infra-zos-dev) on GitHub.
-
 
 ## Next steps
 
