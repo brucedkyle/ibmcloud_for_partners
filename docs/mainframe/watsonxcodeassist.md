@@ -15,6 +15,41 @@ With watsonx Code Assistant for Z, clients will be able to leverage generative A
 - Common tools and operating models across platforms
 - Accelerated code development, developer productivity and time to value with application modernization
 
-## Contributors
+## Prerequisites
 
-- Max Weiss
+Prior to use watsonx Code Assistant for Z, you should:
+
+- Read and understand IBM Redbook [Accelerate Mainframe Application Modernization with Hybrid Cloud](https://www.redbooks.ibm.com/redpapers/pdfs/redp5705.pdf)
+- Have earned the [Application Modernization on IBM Z Sales Foundation Badge](https://yourlearning.ibm.com/activity/PLAN-5F912B2BB02B)
+
+These topics provide the best practices to help clients accelerate their application modernization journey.  The curriculum looks at some of the key drivers and challenges associated with mainframe application modernization. What industry analysts are recommending, what clients are doing today, and a walk-through of IBM’s prescriptive approach to continuously modernize applications with hybrid cloud leveraging IBM technology and expertise.
+
+## Architecture
+
+
+
+## Next steps
+
+IBM Learning course: [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
+
+The following topics are covered in this course:
+- Technical deep dive
+- Pilot software request guide
+- IBM watsonx Code Assistant for Z cookbook
+- IBM Application Discovery and Delivery Intelligence (ADDI) cookbook
+- Architecture walkthrough
+- Integrated pipelines and automated testing
+- COBOL/java interoperability for batch environments walkthrough
+- IBM watsonx Code Assistant for Z cloud component
+- Pilot scoping guide and java landing zones
+- TechZone demo walkthrough
+
+## References
+
+- Product documentation [IBM watsonx Code Assistant for Z](https://www.ibm.com/docs/en/watsonx-code-assistant-4z/1.0)
+
+### For IBM partners
+
+- [IBM watsonx Code Assistant](https://techzone.ibm.com/collection/6537cf277220880017d7ac0d) on TechZone
+- [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
+

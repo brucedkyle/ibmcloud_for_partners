@@ -6,8 +6,7 @@
 
 The IBM Cloud for Financial Services is a platform and ecosystem program designed to enable financial institutions and their partners to confidently host applications and workloads in the public cloud. IBM Cloud for Financial Services is not a separate cloud from IBM’s public cloud offering, but a platform and set of capabilities IBM has implemented on IBM Cloud on a framework of security and compliance that enables financial institutions to move to the cloud with confidence. 
 
-IBM Cloud for Financial Services is comprised of IBM Cloud catalog services and [ISV applications]
-(https://cloud.ibm.com/catalog?search=label%3Asupport_third_party) that comply with the IBM Cloud Framework for Financial Services. All products and services offered through IBM Cloud for Financial Services must be from validated sources. Only ISVs, SaaS providers, and other vendors that have demonstrated compliance with the IBM Cloud Framework for Financial Services are eligible to deliver their offerings through IBM Cloud for Financial Services.
+IBM Cloud for Financial Services is comprised of IBM Cloud catalog services and [ISV applications](https://cloud.ibm.com/catalog?search=label%3Asupport_third_party) that comply with the IBM Cloud Framework for Financial Services. All products and services offered through IBM Cloud for Financial Services must be from validated sources. Only ISVs, SaaS providers, and other vendors that have demonstrated compliance with the IBM Cloud Framework for Financial Services are eligible to deliver their offerings through IBM Cloud for Financial Services.
 
 ## IBM Financial Services Cloud Council
 
@@ -43,7 +42,6 @@ The report addresses controls for all Focus Areas of the IBM Cloud Framework for
 The following diagram shows a representative regulatory, industry and global standards driven by program roadmap.
 
 ![regs](./media/regs.png)
-
 
 ## Next steps
 

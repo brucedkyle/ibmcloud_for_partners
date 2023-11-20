@@ -2,6 +2,7 @@ site_name: IBM Cloud® for Partners
 nav:
   - Home: 
     - Home page: index.md
+    - Getting started: ./cloud/getstarted.md
     - Financial Services Cloud: ./financial-services.md
     - About: about.md
   - Storage:
@@ -51,21 +52,20 @@ nav:
         - LinuxONE: ./mainframe/linuxone.md
         - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
         - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
-        - IBM Wazi:
-            - IBM Wazi as a Service overview: ./mainframe/wazi.md
-            - Wazi Code: ./mainframe/wazicode.md
-            - Wazi Analyze: ./mainframe/analyze.md
-            - Wazi Sandbox: ./mainframe/sandbox.md
-            - Wazi Deploy: ./mainframe/deploy.md
-            - Wazi Image Builder: ./mainframe/imagebuilder.md
-            - DevOps using Wazi: ./mainframe/wazi-devops.md
-            - Wazi as a Service setup: ./mainframe/wazisetup.md
+        - IBM Wazi as a Service overview: ./mainframe/wazi.md
+        - Wazi Code: ./mainframe/wazicode.md
+        - Wazi Analyze: ./mainframe/analyze.md
+        - Wazi Sandbox: ./mainframe/sandbox.md
+        - Wazi Deploy: ./mainframe/deploy.md
+        - Wazi Image Builder: ./mainframe/imagebuilder.md
+        - DevOps using Wazi: ./mainframe/wazi-devops.md
+        - Wazi as a Service setup: ./mainframe/wazisetup.md
         - z/OS Connect: ./mainframe/zOSconnect.md
         - z/OS Cloud Broker: ./mainframe/cloudbroker.md
         - z/OS on IBM Cloud: ./mainframe/ibmcloud.md
       - Refactor tooling:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
-          - watsonx Code Assistant for Z: ././mainframe/watsonxcodeassist.md
+          - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
 
 extra_css:
   - stylesheets/extra.css

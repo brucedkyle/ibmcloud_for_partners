@@ -89,6 +89,8 @@ The zHYPaaS host control program creates a virtual machine (VM) runtime environm
 
 Use **IBM® Wazi Image Builder** to create and manage custom images from an existing Z platform. See [Bringing your own image with Wazi Image Builder](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=bringing-your-own-image-wazi-image-builder).
 
+Also see [Deploying images to a Wazi as a Service target environment](https://www.ibm.com/docs/en/wazi-aas/1.0.0?topic=builder-deploying-images-wazi-as-service-target-environment).
+
 ## Automation of IBM Cloud z/OS Development Reference Architecture
 
 When using z/OS on IBM Cloud, you will want to automate provisioning and deprovisioning your instances.

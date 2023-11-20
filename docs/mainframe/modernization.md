@@ -138,12 +138,17 @@ See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://me
 ## References
 
 - Product page [Mainframe application modernization on IBM Cloud](https://www.ibm.com/cloud/mainframe-app-modernization)
+- Blog [Mainframe Application Modernization with IBM Cloud and IBM zSystems](https://www.ibm.com/blog/mainframe-application-modernization-with-ibm-cloud-and-ibm-zsystems/)
 - [IBM Wazi as a Service documentation overview](https://www.ibm.com/docs/en/wazi-aas/1.0.0)
 - [Application modernization for IBM Z architecture](https://www.ibm.com/cloud/architecture/architectures/application-modernization-mainframe/overview)
 - [IBM Z and Cloud Modernization Center](https://www.ibm.com/community/z-and-cloud/)
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
 - [watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)
 - [Lower Costs and Increase ROI with Application Modernization on a Hybrid Cloud](https://www.ibm.com/blog/lower-costs-and-increase-roi-with-application-modernization-on-a-hybrid-cloud/)
+
+### For IBM Partners
+
+- [Accelerate application modernization with IBM Z and Cloud](https://ibm.seismic.com/Link/Content/DCR4jCd9G2J348M2HV38mccjFpBB)
 
 [^1]:
     IBM Business Value Report [Application modernization on the mainframe](https://www.ibm.com/thought-leadership/institute-business-value/report/application-modernization-mainframe)
