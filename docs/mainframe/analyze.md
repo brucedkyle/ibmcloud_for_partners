@@ -9,7 +9,7 @@ Use **IBM® Wazi Analyze** to create rapid, graphical analysis in an installatio
 
 Anticipating the potential impact of changes and reducing the risks before they actually happen could be essential for increasing the productivity and agility of developers. Developers need to do rapid scans for analysis of an application and assess the impact of changes. This is where IBM Wazi Analyze comes in.
 
- Wazi Analyze is available as a containerized component that helps you understand the impact of programs and files changes through graphical analysis. With this web-based and pre-installed application that is delivered in a Docker container, you can rapidly scan your source files and view the impact analysis through an easy-to-use web user interface.
+Wazi Analyze is available as a containerized component that helps you understand the impact of programs and files changes through graphical analysis. With this web-based and pre-installed application that is delivered in a Docker container, you can rapidly scan your source files and view the impact analysis through an easy-to-use web user interface.
 
 ## Impact analysis
 
@@ -46,14 +46,17 @@ You can install Docker and load the Wazi Analyze Docker container on your deskto
 
 For more information, see [IBM Wazi Analyze User Guide](https://www.ibm.com/docs/en/addi/6.1.2?topic=wazi-analyze-user-guide).
 
-## Checklist
+## Checklists
 
 As a web-based application that is pre-installed and delivered in a container running on Linux®, Wazi Analyze is available as the following options:
 
 - An IBM Wazi for Dev Spaces stack in the OpenShift Container Platform environment
 - A stand-alone container that can be run using Docker or Podman
 
-See [Checklist for getting started](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-wazi-analyze).
+See [Checklist for getting started](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-wazi-analyze). 
+
+- [Checklist for Wazi Analysis for Dev Spaces on OpenShift](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/wazidoc/com.ibm.wazi.analyze.doc/topics/get_started.html#getstarted__sidecar)
+- [Checklist for Wazi Analysis for desktop container](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-wazi-analyze#getstarted__docker)
 
 ## Next steps
 

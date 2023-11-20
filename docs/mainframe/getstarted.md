@@ -116,6 +116,8 @@ This IBM Redbooks® publication provides information for IT Architects, IT Speci
 
 ## Tutorials
 
+The following are hands on tutorials with mainframe and cloud security features. 
+
 ### Containers on Z
 
 Learn how to launch a simple NGINX web server container from a Dockerfile using the OpenShift Container Platform on the LinuxONE Community Cloud.
