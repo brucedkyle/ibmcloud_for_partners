@@ -38,7 +38,7 @@ nav:
       - Cloud Security and Compliance Center: ./security/securityandcompliance.md
   - Z:
       - Mainframe modernization: ./mainframe/modernization.md
-      - Mainframe enablement roadmap: ./mainframe/getstarted.md
+      - Getting started with mainframe: ./mainframe/getstarted.md
       - Modernization scenarios:
         - App Modernization:
             - Discovery: ./mainframe/discovery.md

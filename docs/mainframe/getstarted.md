@@ -6,6 +6,15 @@ This article describes the steps you can take to learn how to get started learni
 - [Learning Wazi concepts](#learn-wazi-concepts)
 - [Learn DevOps](#learn-devops-as-a-service)
 - [Mainframe development pattern](#ibm-redbooks-mainframe-application-modernization-patterns-for-hybrid-cloud)
+- [Tutorials](#tutorials)
+
+    - [Containers on Z](#containers-on-z)
+    - [IBM Z and Cloud Modernization Stack](#hyper-protect-visual-server-for-vpc)
+
+- [Hands on trials](#trials)
+
+    - [OpenShift on LinuxONE](#try-openshift-on-linuxone)
+    - [IBM Z and Cloud Modernization Stack](#checklist-for-ibm-z-and-cloud-modernization-stack)
 
 ## Hands-on mainframe coding
 
@@ -13,9 +22,9 @@ This article describes the steps you can take to learn how to get started learni
 
 You will learn: 
 
-- **Fundamentals and concepts:** Learn about data sets and coding languages such as JCL, Python, and USS using the VS Code modern application. Get introduced to IBM Z security, enterprise scalability and more.
-- **Advanced:** Get hands-on learning around REXX, COBOL, Linux®, VSAM, REGEX, JCL, Python, Db2® and more.
-- **Extended:** Expand your skills with hands-on learning around TSO/ISPF, Node.js, machine learning, Ansible® and more.
+- **Fundamentals and concepts**. Learn about data sets and coding languages such as JCL, Python, and USS using the VS Code modern application. Get introduced to IBM Z security, enterprise scalability and more.
+- **Advanced**. Get hands-on learning around REXX, COBOL, Linux®, VSAM, REGEX, JCL, Python, Db2® and more.
+- **Extended**. Expand your skills with hands-on learning around TSO/ISPF, Node.js, machine learning, Ansible® and more.
 
 The following illustration maps out the fundamental journey.
 
