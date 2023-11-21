@@ -54,10 +54,9 @@ See set of 17 videos each shorter than 10 minutes, that describe ADDI, Wazi anal
 
 ### Online courses
 
-<img style="float: right; width: 15%; padding: 0px 0px 1% 1%"  alt="addi essentials badge" src="../media/addi-essentials.png" />
+<img style="float: right; width: 17%; padding: 0px 0px 1% 1%"  alt="addi essentials badge" src="../media/addi-essentials.png" />
 
 [Application Discovery & Delivery Intelligence (ADDI) Essentials](https://learn.ibm.com/course/view.php?id=7680). This badge earner understands foundational knowledge of ADDI (IBM Application Discovery and Delivery Intelligence) - a static source analysis solution for application modernization. The earner has gained key insights on how It uses cognitive technologies to analyze mainframe applications to quickly discover, as well as the inter-dependencies and impacts of change.
-
 
 [Accelerator - Application Discovery & Delivery Intelligence (ADDI)](https://community.ibm.com/community/user/ibmz-and-linuxone/groups/community-home/librarydocuments/viewdocument?DocumentKey=4cb329ed-1515-45f1-8ec3-9c72df457ced) shows how to use ADDI, Wazi Analyze, and provides link to ADDI trial to work through scenarios.
 

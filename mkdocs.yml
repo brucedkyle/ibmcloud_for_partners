@@ -63,7 +63,7 @@ nav:
         - z/OS Connect: ./mainframe/zOSconnect.md
         - z/OS Cloud Broker: ./mainframe/cloudbroker.md
         - z/OS on IBM Cloud: ./mainframe/ibmcloud.md
-      - Refactor tooling:
+      - Refactoring:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
 

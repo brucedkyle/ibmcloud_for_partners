@@ -1,6 +1,6 @@
 # IBM watsonx Code Assistant for Z (AI-assisted Mainframe Application Modernization)
 
-<img style="float: right; width: 10%; padding: 0px 0px 1% 1% "  alt="watsonx code assist logo" src="../media/watsonxCodeAssistantforZ.png" />
+<img style="float: right; width: 25%; padding: 0px 0px 1% 1% "  alt="watsonx code assist logo" src="../media/watsonxCodeAssistantforZ.png" />
 **IBM watsonx Code Assistant for Z** provides engineers with a domain-specific generative AI-powered software development product. IBM watsonx Code Assistant is fine-tuned to enterprise-specific needs, allowing developers to generate code more quickly and accurately. This will allow organizations to accelerate application modernization efforts to improve business outcomes. At the same time, managers can expand their talent pool available to work on more initiatives across their IT organizations.
 
 !!! important "What it does"
@@ -111,9 +111,10 @@ Streamlined and accelerate testing of new code.
 
 ## Next steps
 
-IBM Learning course: [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
+IBM Learning course: [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014).
 
 The following topics are covered in this course:
+
 - Technical deep dive
 - Pilot software request guide
 - IBM watsonx Code Assistant for Z cookbook
@@ -131,9 +132,11 @@ The following topics are covered in this course:
 
 ### For IBM partners
 
-- [IBM watsonx Code Assistant](https://techzone.ibm.com/collection/6537cf277220880017d7ac0d) on TechZone
+- [IBM watsonx Code Assistant](https://techzone.ibm.com/collection/6537cf277220880017d7ac0d) on TechZone, including:
+
     - Solution workshops: Technical Overview of watsonx Code Assistant for Z
     - Pilots: Pilot Scoping Guide and Landing Zone Guidance
     - watsonx Code Assistance for Z Cookbook
+    
 - [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
 

@@ -201,7 +201,7 @@ See:
 - [Containers on LinuxONE](./containers.md)
 - [Bringing up Container based Workloads on LinuxONE zVSI](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/divya-k-konoor1/2023/11/20/bringing-up-container-based-workloads-on-zvsi)
 
-### Cookbook
+### OpenShift Cookbook
 
 [Red Hat OpenShift Container Platform on IBM Z and LinuxONE](https://www.redbooks.ibm.com/abstracts/redp5711.html) provides a basic understanding of Red Hat OpenShift Container Platform on IBM Z and LinuxONE, discusses architectural considerations for implementation as well as resource considerations, basic deployment examples and some best practices to move forwards in your own implementations. It has been written for IT architects and IT specialists.
 
