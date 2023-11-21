@@ -56,10 +56,12 @@ See [Developing with IBM Wazi for Dev Spaces](https://www.ibm.com/docs/en/cloud-
 ## Checklists
 
 All the IDE options provided by IBM Wazi are built on the client/server architecture:
-The client side provides the user interface that communicates with the server.
-The server side is a set of z/OS host components.
+
+- The client side provides the user interface that communicates with the server.
+- The server side is a set of z/OS host components.
 
 For checklists in setting up your dev environment on developer computers and hosts, see [Checklists](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=code-checklists).
+
 
 
 ## References

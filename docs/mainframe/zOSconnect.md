@@ -103,7 +103,11 @@ Study [Mainframe Application Modernization Patterns for Hybrid Cloud](https://ww
 
 Learn about how to use z/OS Connect Images in production. See [z/OS Connect Images](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=introduction-overview-zos-connect#overview__title__8).
 
-See [Getting started checklist](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=introduction-getting-started-checklist).
+See [Getting started checklist](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=introduction-getting-started-checklist) for:
+
+- [z/OS Connect Designer](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-zos-connect#getting_started_checklist__designer)
+- [Developing API-First](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-zos-connect#getting_started_checklist__section_API-First)
+- [IBM z/OS Connect server](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-zos-connect#getting_started_checklist__container_server)
 
 Learn about and join [z/OS Connect Design Partnership Program](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=introduction-zos-connect-design-partnership-program).
 

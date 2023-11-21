@@ -35,7 +35,10 @@ For more information, see [Managing development and test environments with Sandb
 
 ## Next steps
 
-See the two-minute video [IBM Wazi - Using the Sandbox](https://mediacenter.ibm.com/media/IBM+Wazi+Developer+-+Using+the+Sandbox/1_h3q592tu).
+See:
+
+- Two-minute video [IBM Wazi - Using the Sandbox](https://mediacenter.ibm.com/media/IBM+Wazi+Developer+-+Using+the+Sandbox/1_h3q592tu).
+- The recommended role-based roadmap [Getting started with Wazi Sandbox](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=started-getting-wazi-sandbox)
 
 ## References
 
