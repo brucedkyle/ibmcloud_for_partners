@@ -83,7 +83,7 @@ The lists in this section provide steps to get started with a product in IBM Z a
 - [Getting started with Open Enterprise SDK for Go](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/golang/zstack_get_start.html)
 - [Getting started with Z Open Automation Utilities](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_getting_started_zoau.html)
 
-### Checklist
+### Checklists
 
 The lists in this section provide checklists to get started with a product in IBM Z and Cloud Modernization Stack.
 
@@ -118,3 +118,7 @@ See [Installing products](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zstack/in
 - [IBM Z and Cloud Modernization Stack](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=overview) overview
 - [What's in IBM Z and Cloud Modernization Stack?](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=overview-whats-in-z-cloud-modernization-stack)
 - IBM Z and Cloud Modernization Stack [How it works](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=overview-how-it-works#understanding-the-components)
+
+### IBM Partners
+
+- [IBM Z and Cloud Modernization Stack Overview](https://ibm.seismic.com/Link/Content/DC2HhMccRpHjTGmJcgCFpWRgQp8V)

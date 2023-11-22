@@ -80,6 +80,23 @@ The following diagram shows and example how hybrid workloads and multiple Red Ha
 
 IBM Partners can access a deep dive presentation, [Red Hat OpenShift with IBM Z and LinuxONE](https://ibm.seismic.com/Link/Content/DC9gFmFP4GmDj822Q64Fd7JbpXMV).
 
+### Linux containers on Z
+
+Containers, an increasingly popular technology for deploying and running software on Linux, can run on IBM LinuxONE™ and IBM Z®.
+
+With containers, you can run multiple encapsulated workloads on a single Linux instance. Docker is a leading software container platform. Docker uses copy-on-write and overlay file system technology, to efficiently deploy and run workloads in containers. For isolation it uses Linux resource scoping mechanisms.
+
+On an IBM® mainframe, Linux instances with Docker containers can run in LPAR mode or as a guest of z/VM® or KVM. The Docker CLI and REST API are identical across hardware systems, including the mainframe.
+
+The following diagram shows configurations for containers on mainframe.
+
+![docker on mainframe](./media/ldvd_hostloc.jpg)
+
+For a deeper dive, see:
+
+- [Linux Containers](https://www.ibm.com/it-infrastructure/linuxone/capabilities/linux-containers)
+- [Docker basics on Z](https://www.ibm.com/docs/en/linux-on-systems?topic=linuxonibm/com.ibm.linux.z.ldvd/ldvd_c_docker.htm)
+
 ### Co-location pattern
 
 You can co-locate workloads on IBM Z &dash; meaning Linux workloads run side-by-side with IBM z/OS®, IBM z/VSE®, IBM z/TPF, or container workloads, such as applications on the Red Hat® OpenShift Container Platform.
@@ -105,6 +122,8 @@ The co-location approach is the same for applications and data running on z/OS a
 Together, application-centric patterns provide many options for addressing the scope of application modernization required while maintaining deployment flexibility, optimizing cost, and lowering risk.
 
 Existing applications and data can be exposed via APIs. Extending or enhancing an existing application involves implementing a new containerized service, based on Red Hat OpenShift with a high-speed connection to the data, and then consuming that new service from the original application. 
+
+For more information, see [Collocate applications pattern](https://www.ibm.com/cloud/architecture/architectures/z-collocate-applications-pattern/).
 
 ### AI
 
@@ -183,7 +202,7 @@ For those who have or are interested in similar deployments on-premises, this op
 
 The following illustrates how you can select LinuxONE virtual server instance from the IBM Cloud catalog.
 
-<img src="../media/f1856f89-c334-4592-b04e-309ae250b806-L.Png" style="width: 60%; height: 60%"/>​
+<a href="https://cloud.ibm.com/vpc-ext/provision/vs" ><img src="../media/f1856f89-c334-4592-b04e-309ae250b806-L.png" alt="LinuxONE virtual server instance from the IBM Cloud catalog" style="width: 60%; height: 60%"/></a>​
 
 ## Get started
 

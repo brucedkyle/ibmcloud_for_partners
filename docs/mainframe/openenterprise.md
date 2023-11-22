@@ -27,12 +27,9 @@ Build new and efficient, or modernize applications using no-charge license Pytho
 
 Integrate AI/ML for advanced data analysis
 
-
 ### Try it
 
-This free edition provides a secure and efficient approach to 
-experience the benefits of the popular Python language, and develop 
-new applications the same way you would on any other platform. 
+This free edition provides a secure and efficient approach to experience the benefits of the popular Python language, and develop new applications the same way you would on any other platform. 
 
 ### Tutorials
 

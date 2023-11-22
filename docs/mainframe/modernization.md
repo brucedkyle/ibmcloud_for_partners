@@ -8,7 +8,12 @@ Organizations continue to rely on core applications and data on IBM Z. Transacti
     
     A hybrid cloud transformation that integrates IBM Z can extend beyond two and a half times the value of a public cloud alone
 
-In this article, learn the ways IBM recommends steps partners can take to drive your customers' application modernization. And learn the business reasons that can drive your customer modernization efforts.
+In this article, learn:
+
+- Ways IBM recommends steps partners can take to drive your customers' application modernization. 
+- The business reasons that can drive your customer modernization efforts.
+- Scenerios that support your business and the steps you can take for scenarios you select.
+- Training materials to get started in your application migration efforts.
 
 ## Modernization strategy
 
@@ -70,7 +75,7 @@ IBM Cloud extends mainframe application modernization options with several patte
 | **Data** | Unlock and monetize mainframe data through a hybrid cloud | :fontawesome-regular-square-check: | |
 | **Observability/SRE** | Provide seamless automation and observability involving mainframe and cloud native applications in hybrid cloud | :fontawesome-regular-square-check: | |
 | **AI** | Infuse AI into mainframe workloads | :fontawesome-regular-square-check: |  |
-| **Colo** | Resolve application latency issues with mainframe centric hybrid cloud platforms | | [Collocate applications pattern](https://www.ibm.com/cloud/architecture/architectures/z-collocate-applications-pattern/) |
+| **Colo** | Resolve application latency issues with mainframe centric hybrid cloud platforms | :fontawesome-regular-square-check: | [Collocate applications pattern](https://www.ibm.com/cloud/architecture/architectures/z-collocate-applications-pattern/) |
 | **Containerization** | Develop and deploy containerized applications on mainframe | :fontawesome-regular-square-check: | [Containers](./containers.md) |
 | **Refactor** | Refactor traditional mainframe workloads into microservices without rip and replace | :fontawesome-regular-square-check: | [Generative AI for refactoring Z apps](./watsonxcodeassist.md) |
 
@@ -103,9 +108,20 @@ For more information, see [Sustainability for Z](./sustainability.md).
 
 ### Integration with cloud native application
 
-- Direct integration and support for IBM Cloud Paks and Red Hat OpenShift running on IBM LinuxONE offerings and in co=location models
+- Direct integration and support for IBM Cloud Paks and Red Hat OpenShift running on IBM LinuxONE offerings and in co-location models
 - Native IBM zSystems security can be expanded across the enterprise
 - Wealth of experience and patterns with IBM partners
+
+For more information, see [LinuxONE](./linuxone.md).
+
+### Refactoring applications using generative AI
+
+- **Understand**. Visualize and auto-document your COBOL application at the enterprise level.
+- **Refactor**. Discover programs and data needed for a refactored business service within a large application.
+- **Transform**. AI assistant to generate Java code in minutes, not months.
+- **Validate**. Streamlined and accelerate testing of new code.
+
+For more information, see [IBM Application Discovery and Delivery Intelligence (ADDI)](./addi.md) and [Generative AI for refactoring Z apps](./watsonxcodeassist.md).
 
 ## Next steps
 
@@ -115,7 +131,9 @@ Learn more about mainframe modernization.
 
 <img style="float: right; width: 15%; padding: 0px 0px 1% 1% "  alt="Application Modernization on IBM Z Sales Badge" src="../media/Application_Modernization_on_IBM_Z_Sales_Foundation.png" />
 
-[Application Modernization on IBM Z Sales Badge](https://yourlearning.ibm.com/activity/PLAN-5F912B2BB02B). Learn how mainframe Application Modernization with IBM Z and Cloud together can bring more value to clients. Learn best practices to help clients accelerate their application modernization journey.  The curriculum looks at some of the key drivers and challenges associated with mainframe application modernization. What industry analysts are recommending, what clients are doing today, and a walk-through of IBM’s prescriptive approach to continuously modernize applications with hybrid cloud leveraging IBM technology and expertise.
+[Application Modernization on IBM Z Sales Badge](https://yourlearning.ibm.com/activity/PLAN-5F912B2BB02B). Learn how mainframe Application Modernization with IBM Z and Cloud together can bring more value to clients. Learn best practices to help clients accelerate their application modernization journey.
+
+The curriculum looks at some of the key drivers and challenges associated with mainframe application modernization. What industry analysts are recommending, what clients are doing today, and a walk-through of IBM’s prescriptive approach to continuously modernize applications with hybrid cloud leveraging IBM technology and expertise.
 
 ### Learn mainframe development
 

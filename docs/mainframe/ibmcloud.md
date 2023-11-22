@@ -1,5 +1,6 @@
 # z/OS on IBM Cloud VPC
 
+<img style="float: right; width: 15%; padding: 0px 0px 1% 1% "  alt="IBM Cloud" src="../media/ibmcloud.png" />
 If you already use the **IBM Cloud** today, you may be familiar with both the process of provisioning a **Virtual Server Instance (VSI)** and the extensive catalog of services and products. With **IBM Wazi as-a-Service** in the IBM Cloud, the z/OS operating system is now an option when provisioning VSIs within the **Virtual Private Cloud (VPC)**. 
 
 VPC provides a dedicated and isolated environment within the IBM Cloud to easily create VSIs, subnets, cloud object storage, security groups, and more, all within a protected space. The z/OS stock image benefits from the VPC features and comes with a pre-configured and customized software stack, but custom images can also be created with the **Wazi Image Builder**. 
@@ -63,7 +64,7 @@ Use Wazi as a Service to configure either stock images or custom images.
 
 ### Configure of stock images
 
-<img style="float: right; width: 20%; padding: 0px 0px 1% 1% "  alt="zos stock images" src="../media/zOS-stock-images.png" />
+<img style="float: right; width: 30%; padding: 0px 0px 1% 1% "  alt="zos stock images" src="../media/zOS-stock-images.png" />
 You can select the content you want from a stock image. The illustration to the right shows choices you can make in provisioning the stock images as of the time of this writing.
 
 Select a set of components for each of the following:
