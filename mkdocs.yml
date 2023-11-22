@@ -26,6 +26,8 @@ nav:
       - Bare Metal Classic for VMware: ./cloud/baremetal-vmware.md
       - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
+  - PaaS:
+      - Red Hat OpenShift on IBM Cloud: ./paas/openshift.md
   - Security:
     - Key and Hyper Protect Services:
         - Key Protect: ./security/keyprotect.md

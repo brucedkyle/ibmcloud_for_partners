@@ -4,9 +4,9 @@ Organizations continue to rely on core applications and data on IBM Z. Transacti
 
 !!! Key
 
-    Modernize applications faster with less cost and risk by using hybrid cloud
+    Modernize applications faster with less cost and risk by using hybrid cloud.
     
-    A hybrid cloud transformation that integrates IBM Z can extend beyond two and a half times the value of a public cloud alone
+    A hybrid cloud transformation that integrates IBM Z can extend beyond two and a half times the value of a public cloud alone.
 
 In this article, learn:
 
@@ -75,13 +75,19 @@ IBM Cloud extends mainframe application modernization options with several patte
 | **Data** | Unlock and monetize mainframe data through a hybrid cloud | :fontawesome-regular-square-check: | |
 | **Observability/SRE** | Provide seamless automation and observability involving mainframe and cloud native applications in hybrid cloud | :fontawesome-regular-square-check: | |
 | **AI** | Infuse AI into mainframe workloads | :fontawesome-regular-square-check: |  |
-| **Colo** | Resolve application latency issues with mainframe centric hybrid cloud platforms | :fontawesome-regular-square-check: | [Collocate applications pattern](https://www.ibm.com/cloud/architecture/architectures/z-collocate-applications-pattern/) |
+| **Colo** | Resolve application latency issues with mainframe centric hybrid cloud platforms | :fontawesome-regular-square-check: | [Co-location pattern](./linuxone.md#co-location-pattern) |
 | **Containerization** | Develop and deploy containerized applications on mainframe | :fontawesome-regular-square-check: | [Containers](./containers.md) |
 | **Refactor** | Refactor traditional mainframe workloads into microservices without rip and replace | :fontawesome-regular-square-check: | [Generative AI for refactoring Z apps](./watsonxcodeassist.md) |
 
 ## Why IBM Cloud
 
-Here's a sample of differentiators of IBM Cloud for Z over other hyperscalers:
+Here's a sample of differentiators for IBM Cloud for Z:
+
+- [Enterprise DevOps](#enterprise-devops)
+- [Secure enterprise workloads](#secure-enterprise-workloads)
+- [Sustainable computing](#sustainable-computing)
+- [Integration with cloud native applications](#integration-with-cloud-native-applications)
+- [Refactoring applications using generative AI](#refactoring-applications-using-generative-ai)
 
 ### Enterprise DevOps
 
@@ -106,7 +112,7 @@ For more information, see [Security for Z](./security.md).
 
 For more information, see [Sustainability for Z](./sustainability.md).
 
-### Integration with cloud native application
+### Integration with cloud native applications
 
 - Direct integration and support for IBM Cloud Paks and Red Hat OpenShift running on IBM LinuxONE offerings and in co-location models
 - Native IBM zSystems security can be expanded across the enterprise
@@ -151,7 +157,6 @@ See [Mainframe enablement roadmap](./getstarted.md).
 ### Video series on mainframe DevOps
 
 See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://mediacenter.ibm.com/playlist/details/1_5q5qeehb/)
-
 
 ## References
 

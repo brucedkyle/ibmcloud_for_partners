@@ -30,7 +30,7 @@ For more information, see [LinuxONE Security](./linuxone.md#security) in this wi
 
 Cloud-native applications can be located close to existing workloads to improve throughput and reduce latency, empowering organizations to integrate and modernize without disrupting current services along their cloud-native journey.
 
-See [LinuxONE Co-location pattern](./linuxone.md#co-location-pattern) article in this wiki for more information.
+For more information, see [LinuxONE Co-location pattern](./linuxone.md#co-location-pattern) article in this wiki.
 
 ## Infrastructure and installation
 
