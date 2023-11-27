@@ -1,14 +1,34 @@
-# watsonx Generative AI Capabilities
+# Generative AI Capabilities
 
 IBM is designing this product to refactor, transform, and validate COBOL code to help speed time-to-value and augment skills for critical application modernization on IBM Z.
 
-The product will be enabled by a 20 billion parameter large language model (LLM) for code.
+!!! quote
+
+    64% of executives say they need to modernize apps to use generative AI. And at the same time, generative AI has the power to transform app modernization. Two sides of the same coin.
+
+## What an exec needs to know about Generative AI
+
+The IBM Institute for Business Value has identified three things every leader needs to know:
+
+1. [Combined, generative AI and app modernization fuel a virtuous cycle of increased agility and revenue growth](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
+2. [Generative AI presents an opportunity for businesses to retire their technical debt once and for all](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
+3. [Generative AI is closing the gap between IT and the business—finally](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
+
+Business leaders expect generative AI to break down traditional barriers to app modernization. More than half of executives cite financial or technical challenges as hurdles to delivering strategic outcomes with modernization projects. 
+
+## What you need to do
+
+1. [Grab low-hanging fruit by applying generative AI to apps that have already been modernized](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
+2. [Go after opportunities that were previously “off limits”—such as applications and processes in core systems](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
+3. [Stop measuring business and IT goals separately—explicitly prioritize IT projects with the strongest links to business value](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
 
 ## Generative AI and automated tooling
 
 Leverage tailor-made foundation models to populate AI-code recommendations to accelerate your business.
 
 **IBM watsonx Code Assistant** is a solution that leverages generative AI to accelerate code generation and increase developer productivity. Purpose-built for targeted use cases, watsonx Code Assistant uses AI to support Application Modernization and IT Automation.
+
+The product will be enabled by a 20 billion parameter large language model (LLM) for code.
 
 See [watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant).
 
@@ -29,5 +49,6 @@ The watsonx Code Assistant product portfolio will extend over time to address ot
 
 ## References
 
+- [The CEO's guide to Generative AI: Application modernization](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ceo-generative-ai/application-modernization)
 - [IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization](https://newsroom.ibm.com/2023-08-22-IBM-Unveils-watsonx-Generative-AI-Capabilities-to-Accelerate-Mainframe-Application-Modernization)
 - Product page [IBM watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)

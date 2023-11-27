@@ -4,6 +4,10 @@ Organizations continue to rely on core applications and data on IBM Z. Transacti
 
 !!! Key
 
+    The need for transformation places significant demands on existing applications and data, which necessitates modernization and integration. No wonder CEOs ranked **Tech Modernization** as a top priority for their organizations in 2023. &dash; _[IBM IBV 2023 CEO study](https://www.ibm.com/thought-leadership/institute-business-value/c-suite-study/ceo)_
+
+    67% of executives say the mainframe-based applications in their organizations need to be modernized. &dash; _IBM IBV 2023 Mainframe executive pulse survey_
+
     Modernize applications faster with less cost and risk by using hybrid cloud.
     
     A hybrid cloud transformation that integrates IBM Z can extend beyond two and a half times the value of a public cloud alone.
@@ -40,13 +44,45 @@ Growth in value is driven by key areas of differentiation on IBM Z:
 
     The IBM approach uses industry standard tools and includes an operating model shift that embraces enterprise-wide tooling to significantly improve ROI with less overall risk to business.
 
+!!! important
+
+    In a study by the IBM Institute of Business Value: 
+    
+    We found that most executives know where their modernization programs need to go and are charting a course to get there &dash; but only a few have really put the wheels in motion. Only 27% say their organization has modernized many of the necessary workflows, including the related applications, data, and systems.
+
+    Leaders are focused on operational objectives and incremental improvements, rather than the strategic outcomes that will allow you to thrive in the business landscape of tomorrow.
+
+## Action guide
+
+The IBM Institute of Business value recommends the following steps:
+
+1. **Adopt an iterative approach**. As part of your plan to integrate new and existing environments, factor in your industry and workload attributes. Partner with your business counterparts to co-create a business case and a “best-fit” roadmap designed to meet your strategic goals. Adopt an incremental and continuous approach to modernization instead of a big bang rip and replace. 
+2. **Assess your portfolio and build your roadmap**. Examine the capabilities that define the role of the mainframe in your enterprise today and how those capabilities tie into the greater hybrid cloud technology ecosystem. In addition, prioritize cross-skilling within the organization and lean on your partners to make up for new or existing talent and resource gaps. 
+3. **Leverage multiple application modernization entry points**. Enable easy access to existing mainframe applications and data by using APIs. Provide a common developer experience by integrating open-source tools and a streamlined process for agility. Develop cloud native applications on the mainframe and containerize applications.
+
+## Hybrid approach
+
+A hybrid best-fit approach that includes mainframes and cloud supports the integration and deployment of applications; which maximizes business agility and addresses client pain points.
+
+- **Reduce the talent gap** with common tools and operating models across platforms
+- **Accelerate time to market** with a consistent DevOps experience for cloud and mainframes, that includes repeatable patterns and reference architecture
+- **Easily access mission-critical data** on the mainframe without moving off-platform
+- **Optimize costs** with a tailored-fit-pricing  model on the mainframe
+
+!!! quote
+
+    "Part of our transformation was driven by the desire, and the need, to improve data-sharing across teams, so each line of business has 
+the necessary information to deliver rapid support," says Jacqui Leggetter, Head of Integration (Deputy Director), DWP Digital, Department for Work and Pensions.
+
+To learn more, download the report [Modernizing applications on hybrid cloud: Essentials to accelerate digital transformation](https://w3.ibm.com/services/lighthouse/documents/200719),
+
 ## Fit for purpose &dash; modernization
 
 Enterprises want to deliver digital innovation without sacrificing performance, resilience, or security.
 
 !!! quote
 
-    _Fit for purpose_ alignment of workloads around IBM zSystems is what we call _modernization_
+    _Fit for purpose_ alignment of workloads around IBM zSystems is what we call _modernization_.
 
 Choosing the right platform based on workload requirements is critical first step to modernization. 
 
@@ -59,6 +95,7 @@ The following illustration illustrates workloads and fit-for-purpose platforms.
 IBM Z is fully enabled for the hybrid cloud as shown in the following illustration.
 
 ![hybrid cloud](./media/hybrid-cloud-ai-solutions-ibm-z.png)
+
 
 ## Solution patterns
 
@@ -168,6 +205,7 @@ See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://me
 - [Improve business agility and provide modern DevOps platform for mainframe applications with IBM Cloud](https://www.ibm.com/downloads/cas/Y3JDDJOD)
 - [watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)
 - [Lower Costs and Increase ROI with Application Modernization on a Hybrid Cloud](https://www.ibm.com/blog/lower-costs-and-increase-roi-with-application-modernization-on-a-hybrid-cloud/)
+- [Modernizing applications on hybrid cloud](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/application-modernization-hybrid-cloud)
 
 ### For IBM Partners
 

@@ -28,6 +28,7 @@ nav:
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
   - PaaS:
       - Red Hat OpenShift on IBM Cloud: ./paas/openshift.md
+      - Learning Kubernetes: ./paas/gettingstartedk8s.md
   - Security:
     - Key and Hyper Protect Services:
         - Key Protect: ./security/keyprotect.md
@@ -44,7 +45,8 @@ nav:
       - Modernization scenarios:
         - App Modernization:
             - Discovery: ./mainframe/discovery.md
-            - Refactor using Generative AI: ./mainframe/genai.md
+            - DevTest: ./mainframe/devtest.md
+            - Generative AI: ./mainframe/genai.md
             - Containers on Z: ./mainframe/containers.md
             - API: ./mainframe/api.md
         - Enterprise DevOps: ./mainframe/devops.md
@@ -69,6 +71,7 @@ nav:
       - Refactoring:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
+          - IBM Open Enterprise SDKs: ./mainframe/openenterprise.md
 
 extra_css:
   - stylesheets/extra.css
