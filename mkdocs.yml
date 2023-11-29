@@ -52,22 +52,24 @@ nav:
         - Enterprise DevOps: ./mainframe/devops.md
         - Security: ./mainframe/security.md
         - Sustainability: ./mainframe/sustainability.md
+        - AI: ./mainframe/ai.md
       - Tooling:
-        - LinuxONE: ./mainframe/linuxone.md
-        - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
-        - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
-        - IBM Wazi as a Service overview: ./mainframe/wazi.md
-        - Wazi Code: ./mainframe/wazicode.md
-        - Wazi Analyze: ./mainframe/analyze.md
-        - Wazi Sandbox: ./mainframe/sandbox.md
-        - Wazi Deploy: ./mainframe/deploy.md
-        - Wazi Image Builder: ./mainframe/imagebuilder.md
-        - DevOps using Wazi: ./mainframe/wazi-devops.md
-        - Wazi as a Service setup: ./mainframe/wazisetup.md
-        - z/OS Connect: ./mainframe/zOSconnect.md
-        - z/OS Cloud Broker: ./mainframe/cloudbroker.md
-        - z/OS on IBM Cloud: ./mainframe/ibmcloud.md
-        - Red Hat OpenShift on Z: ./mainframe/openshift.md
+          - LinuxONE: ./mainframe/linuxone.md
+          - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
+          - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
+          - IBM Wazi as a Service overview: ./mainframe/wazi.md
+          - Wazi Code: ./mainframe/wazicode.md
+          - Wazi Analyze: ./mainframe/analyze.md
+          - Wazi Sandbox: ./mainframe/sandbox.md
+          - Wazi Deploy: ./mainframe/deploy.md
+          - Wazi Image Builder: ./mainframe/imagebuilder.md
+          - DevOps using Wazi: ./mainframe/wazi-devops.md
+          - Wazi as a Service setup: ./mainframe/wazisetup.md
+          - z/OS Connect: ./mainframe/zOSconnect.md
+          - z/OS Cloud Broker: ./mainframe/cloudbroker.md
+          - z/OS on IBM Cloud: ./mainframe/ibmcloud.md
+          - Red Hat OpenShift on Z: ./mainframe/openshift.md
+          - AI tools on Z: ./mainframe/aitools.md
       - Refactoring:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md

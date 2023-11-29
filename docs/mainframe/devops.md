@@ -2,6 +2,10 @@
 
 Deliver new business functions and changes to the existing functions at cloud scale. Enterprises are adopting secure DevOps and GitOps practices embracing Open Source tools and standard processes to help development, test and operations teams work together while modernizing the workloads.
 
+!!! key
+
+    The most effective organizations include IBM z/OS® applications alongside cloud-native applications, treating IBM Z as another platform that can be leveraged. This approach empowers teams to use a single pipeline to orchestrate the development, integration and deployment of an application across multiple target platforms and environments with the right security rules in place.
+
 ## DevOps business drivers
 
 IBM zSystems becomes just another platform for an organization adopting DevOps across the enterprise. 
@@ -64,11 +68,45 @@ See [Creating a CI/CD pipeline for z/OS applications](https://www.ibm.com/docs/e
 
 ## DevOps for mainframe cookbook
 
-Learn more by reading a cookbook presenting different recipes to build and configure enterprise CI/CD pipelines for developing and testing mainframe applications on Cloud platforms, by leveraging the IBM Z & Cloud Modernization Stack offering. 
+Learn more by reading a cookbook presenting different recipes to build and configure enterprise CI/CD pipelines for developing and testing mainframe applications on Cloud platforms, by leveraging the **IBM Z & Cloud Modernization Stack** offering. 
 
 The IBM Z & Cloud Modernization Stack includes various capabilities to modernize mainframe applications, based on the Red Hat OpenShift platform. For development and test purposes, this offering includes Wazi Code (formerly called DevSpaces), Wazi Analyze, Wazi Deploy and Wazi Sandbox. Together, these components provide mainframe developers with a Cloud-native experience with zero installation.
 
 Download the ebook at [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229).
+
+### Discover and plan
+
+Work smarter and minimize risk by [discovering application and data dependencies](https://www.ibm.com/support/z-content-solutions/discovery-plan/). Leverage tools to collaborate more effectively during the development lifecycle.
+
+See:
+
+- Work smarter. Explore the [architectural discovery pattern](https://www.ibm.com/cloud/architecture/architectures/z-application-discovery-pattern)
+- [Discover API candidates](https://www.ibm.com/products/app-discovery-and-delivery-intelligence)
+- [Manage workflows](https://www.ibm.com/products/ibm-engineering-workflow-management)
+
+### Continuous integration
+
+Develop, incrementally and continuously integrate code, and test it in parallel.
+
+- Get the [modern cloud development experience](https://www.ibm.com/products/z-and-cloud-modernization-stack)
+- Drive [faster to market](https://www.ibm.com/cloud/wazi-as-a-service)
+
+### Continuous testing
+
+Detect defects early in the delivery lifecycle through automation and best practices for testing.
+
+- [Shift-left testing](https://www.ibm.com/products/z-virtual-test-platform)
+- [Provisioning environments](https://www.ibm.com/products/virtual-dev-and-test-zos) on IBM Cloud
+- [Unit testing](https://www.ibm.com/products/developer-for-zos)
+
+### Continuous delivery
+
+Deliver audited, controlled deployments with modern tools.
+
+- [IBM Wazi Deploy](https://www.ibm.com/docs/en/developer-for-zos/16.0?topic=deploying-zos-wazi-deploy)
+- [Automated deployments](https://www.ibm.com/cloud/urbancode)
+- Provision to [multi-cloud](https://www.ibm.com/support/z-content-solutions/ansible)
+
 
 ## DevOps next steps
 
@@ -80,6 +118,8 @@ See:
 - For product documentation, see [IBM Wazi as a Service](https://www.ibm.com/docs/en/wazi-aas/1.0.0).
 - Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html).
 - [Enterprise DevOps pattern](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern).
+- MIT Technology Review Insights [A catalyst for transformation](https://www.ibm.com/downloads/cas/BLLBBLGO)
+- Ebook [Enterprise bug busting](https://www.ibm.com/downloads/cas/AX4OVQLV)
 
 ## References
 
@@ -88,3 +128,5 @@ See:
 - Redbooks [Mainframe Application Modernization Patterns for Hybrid Cloud](https://www.redbooks.ibm.com/abstracts/sg248532.html)
 - [Building enterprise CI/CD pipelines for mainframe applications using the IBM Z & Cloud Modernization Stack](https://www.ibm.com/support/pages/node/6960229)
 - [Enterprise DevOps pattern](https://www.ibm.com/cloud/architecture/architectures/z-enterprise-devops-pattern)
+- Product page [DevOps for IBM Z](https://www.ibm.com/z/devops)
+- [z/OS Containers - Understanding z/OS Automation](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/juergen-holtz1/2022/04/07/zos-containers-understanding-zos-automation)

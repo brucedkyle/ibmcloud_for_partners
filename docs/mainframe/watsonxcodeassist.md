@@ -128,6 +128,7 @@ The following topics are covered in this course:
 
 ## References
 
+- Product page [watsonx Code Assistant for Z](https://www.ibm.com/products/watsonx-code-assistant-z)
 - Product documentation [IBM watsonx Code Assistant for Z](https://www.ibm.com/docs/en/watsonx-code-assistant-4z/1.0)
 
 ### For IBM partners
@@ -137,6 +138,6 @@ The following topics are covered in this course:
     - Solution workshops: Technical Overview of watsonx Code Assistant for Z
     - Pilots: Pilot Scoping Guide and Landing Zone Guidance
     - watsonx Code Assistance for Z Cookbook
-    
+
 - [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
 

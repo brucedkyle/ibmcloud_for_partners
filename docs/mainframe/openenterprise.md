@@ -2,21 +2,22 @@
 
 **IBM Open Enterprise SDK** provide you with the capability for:
 
-**Modernization** 
+- Modernization
 
-- Refactor elements of an existing IBM zSystems application into discrete services
-- Co-locate data and your applications on IBM zSystems to improve performance and take advantage of the inherent security of IBM zSystems 
+    - Refactor elements of an existing IBM zSystems application into discrete services
+    - Co-locate data and your applications on IBM zSystems to improve performance and take advantage of the inherent security of IBM zSystems 
 
-**API Orchestration**
+- API Orchestration
 
-- Expose applications and data through APIs to interoperate with new applications
-- Implement REST services for report generation using data from Db2 on z/OS
+    - Expose applications and data through APIs to interoperate with new applications
+    - Implement REST services for report generation using data from Db2 on z/OS
 
-**Application development**
+- Application development
 
-- Extend existing core applications on z/OS with cloud-native applications
-- Application developers on z/OS® can now use one of the fastest growing programming languages natively on the platform
-- Take advantage of rich ecosystem of modules and packages to develop new applications
+    - Extend existing core applications on z/OS with cloud-native applications
+    - Application developers on z/OS® can now use one of the fastest growing programming languages natively on the platform
+    - Take advantage of rich ecosystem of modules and packages to develop new applications
+
 
 ## IBM Open Enterprise SDK for Python
 

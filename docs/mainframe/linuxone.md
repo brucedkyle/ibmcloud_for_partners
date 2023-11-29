@@ -208,6 +208,23 @@ The following illustrates how you can select LinuxONE virtual server instance fr
 
 Provisioning, deployment and management all occur through the standard [IBM Cloud Virtual Servers for VPC catalog page](https://cloud.ibm.com/vpc-ext/provision/vs). Check out the [VPC documentation](https://cloud.ibm.com/docs/vpc?topic=vpc-getting-started) for additional help.
 
+### Developer resources
+
+See [Developer resources for building your open source app for Linux on IBM Z and LinuxONE](https://developer.ibm.com/blogs/developer-resources-for-building-your-open-source-app-for-linux-on-ibm-z-and-linuxone/) for information about:
+
+- LinuxONE Community Cloud
+- Oregon State University Open Source Lab IBM Z Continuous Integration
+- openSUSE Build Service
+- Launchpad Personal Package Archives
+- Travis CI build service for IBM Z
+- CircleCI’s self-hosted runner
+- Open Mainframe Project
+- Programming languages
+
+To find out how your enterprise can benefit from this private, secure, and resilient hybrid multicloud environment, see [IBM zSystems fundamentals: An introductory Q&A](https://developer.ibm.com/articles/what-is-ibm-z/).
+
+[Opportunities galore for IBM Z developers](https://developer.ibm.com/blogs/opportunities-galore-for-ibm-z-developers)
+
 ### Try out LinuxONE
 
 [![openshift on linuxone](./media/openshift-on-linux-one.png)](https://linuxone.cloud.marist.edu/#/register?flag=OCP) 
@@ -228,7 +245,7 @@ See:
 
 This github page is designed to help you get jump started on leveraging AI. It features information on how to leverage the best of the open source ecosystem on IBM Z and LinuxONE, as well as pointers to community edition and freely available software that can help you quickly get started. It additionally provides example use cases, code samples, and other content to serve as a technical resource for your AI on Z journey.
 
-See [Getting started with AI on IBM Z and LinuxONE systems](https://ibm.github.io/ai-on-z-101/).
+See [Getting started with AI on IBM Z and LinuxONE systems](https://ibm.github.io/ai-on-z-101/) on GitHub.
 
 ### Labs
 
@@ -247,6 +264,11 @@ See:
 - Product documenation [Confidential computing with LinuxONE](https://cloud.ibm.com/docs/vpc?topic=vpc-about-se)
 - [LinuxONE for Dummies](https://www.ibm.com/account/reg/us-en/signup?formid=urx-36404&cm_sp=ibmdev-_-developer-articles-_-ibmcom)
 - [IBM Cloud Pak for Data on IBM Z Redbook](https://www.redbooks.ibm.com/abstracts/redp5695.html) for those interested in building AI and ML models by using core transactional data, which results in decreased latency and increased throughput.
+
+For IBM Partners:
+
+- IDC research paper [IBM's Rackmount z16 and LinuxONE 4: Hybrid Is Also About Expanding Options for all Cloud Customers](https://ibm.seismic.com/Link/Content/DCBMM2QhWm343GhPpJF9XmMdm6dP)
+- [Why AI for Business with IBM Z](https://ibm.seismic.com/Link/Content/DC33PGgX39J4gG2R7c4hV2MFBjg3)
 
 ## References
 

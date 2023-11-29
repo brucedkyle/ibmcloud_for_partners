@@ -28,3 +28,4 @@ See [Use the Red Hat OpenShift Container Platform on the IBM LinuxONE Community 
 ## References
 
 - [IBM and Red Hat bring OpenShift to IBM Z and LinuxONE](https://cloud.redhat.com/blog/ibm-and-red-hat-bring-openshift-to-ibm-z-and-linuxone)
+- [Containers on z/OS and why you should care](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/juergen-holtz1/2022/01/27/containers-on-zos-and-why-you-should-care)
