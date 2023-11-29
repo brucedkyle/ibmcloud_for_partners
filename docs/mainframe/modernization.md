@@ -86,6 +86,10 @@ Enterprises want to deliver digital innovation without sacrificing performance, 
 
 Choosing the right platform based on workload requirements is critical first step to modernization. 
 
+!!! key
+
+    Modernize and run an enterprise application on IBM Z in as little as half the OPEX of running the same application on Public Clouds[^2].
+
 IBM zSystems delivers scalability and availability required for core business. Cloud brings innovation for digital channels and analytics for business insights.
 
 The following illustration illustrates workloads and fit-for-purpose platforms.
@@ -195,6 +199,17 @@ See [Mainframe enablement roadmap](./getstarted.md).
 
 See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://mediacenter.ibm.com/playlist/details/1_5q5qeehb/)
 
+### Analysts
+
+- IDC [The Business Value of the Transformative Mainframe](https://www.ibm.com/account/reg/us-en/signup?formid=urx-40081)
+- Gartner [Fit Your Mainframe Into Your Modernization Plans](https://www.gartner.com/doc/reprints?id=1-2BZVN3H0&ct=221213&st=sb)
+- Deloitte [Connect and extend: Mainframe modernization hits its stride](https://www2.deloitte.com/us/en/insights/focus/tech-trends/2023/future-mainframe-technology-latest-trends.html)
+- TechChannel [Moving Mainframe Apps to the Cloud: Should You Stay or Should You Go?](https://techchannel.com/Trends/11/2022/mainframe-apps-cloud)
+- IBM Institute of Business Value [Application modernization on the mainframe](https://www.ibm.com/thought-leadership/institute-business-value/report/application-modernization-mainframe)
+- Forbes [The 6 Most Important Tech Trend Predictions For 2023](https://www.forbes.com/sites/bernardmarr/2023/01/20/the-6-most-important-tech-trendpredictions-for-2023/?sh=411f975c4c74)
+- Forrester [Successful Enterprise Application Modernization Requires Hybrid Cloud Infrastructure](https://www.ibm.com/account/reg/us-en/signup?formid=urx-50527)
+- Thomas Klinect [The Realities of Mainframe Application Migration](https://www.ibm.com/downloads/cas/V4GVELOQ)
+
 ## References
 
 - Product page [Mainframe application modernization on IBM Cloud](https://www.ibm.com/cloud/mainframe-app-modernization)
@@ -207,9 +222,17 @@ See IBM Media Center videos: [Cloud Native IBM Z DevOps as a Service](https://me
 - [Lower Costs and Increase ROI with Application Modernization on a Hybrid Cloud](https://www.ibm.com/blog/lower-costs-and-increase-roi-with-application-modernization-on-a-hybrid-cloud/)
 - [Modernizing applications on hybrid cloud](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/application-modernization-hybrid-cloud)
 
+### White paper
+
+[Application modernization on IBM zSystems and IBM LinuxONE](https://www.ibm.com/downloads/cas/E65RZ5JV)
+
+
 ### For IBM Partners
 
 - [Accelerate application modernization with IBM Z and Cloud](https://ibm.seismic.com/Link/Content/DCR4jCd9G2J348M2HV38mccjFpBB)
+- [How to customize your Application Modernization](https://ibm.seismic.com/Link/Content/DC4V3D73273F9GfF7hqpGHVQfHq8)
 
 [^1]:
     IBM Business Value Report [Application modernization on the mainframe](https://www.ibm.com/thought-leadership/institute-business-value/report/application-modernization-mainframe)
+[^2]:
+    IBM IT Economics Consulting & Research report [Tailored Fit Pricing for IBM Z Offers Cost Effective Workload Growth Compared to Three Public Cloud Examples](https://www.ibm.com/downloads/cas/XAR2QOBD)

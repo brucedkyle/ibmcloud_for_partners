@@ -17,7 +17,9 @@ With watsonx Code Assistant for Z, you will be able to use generative AI and aut
 
 ## Overview
 
-Watsonx Code Assistant for Z is more than just a code translator, it is a solution to support accelerated mainframe application modernization by providing tools to accomplish the following goals:
+Watsonx Code Assistant for Z is more than just a code translator, it is a solution to support accelerated mainframe application modernization.
+
+![code assistant z](./media/codeassistantforz.png)
 
 The steps:
 
@@ -140,4 +142,4 @@ The following topics are covered in this course:
     - watsonx Code Assistance for Z Cookbook
 
 - [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
-
+- [Application Modernization entry points](https://ibm.seismic.com/Link/Content/DCqPfg2PDGPhQGCC37gFbFC9bMPd)
