@@ -19,7 +19,7 @@ Store unlimted volume of data, such as images, videos and documents in any forma
         - FIPS 140-2 Level 4-certified with IBM Cloud Hyper Protect Crypto Services 
         - Support for your compliances with ISO, SOC2, PCI, and others
     - [Resiliancy](#resilience-choices) across multiple regions as needed; no charge for network bandwidth transfers across IBM Cloud
-    - [Immutable storage](#immutable-storage-to-protect-buckets) and [versioning[(#versioning)] for compliance, security
+    - [Immutable storage](#immutable-storage-to-protect-buckets) and [versioning](#versioning) for compliance, security
     - [Access restrictions](#access-policies)
     - [Activity tracking and monitoring](#track-activity-monitoring-metrics)
     - Developer features: 
