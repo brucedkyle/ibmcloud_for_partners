@@ -26,6 +26,7 @@ nav:
       - Bare Metal Classic for VMware: ./cloud/baremetal-vmware.md
       - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
+      - VMware Cloud Foundation on IBM Cloud: ./cloud/vmware-cloud-foundation.md
   - PaaS:
       - Red Hat OpenShift on IBM Cloud: ./paas/openshift.md
       - Learning Kubernetes: ./paas/gettingstartedk8s.md
