@@ -27,6 +27,7 @@ nav:
       - VMware on Virtual Private Cloud (VPC): ./cloud/baremetal-vpc-vmware.md
       - VMware Regulated Workloads on IBM Cloud: ./cloud/vmware-regulated.md
       - VMware Cloud Foundation on IBM Cloud: ./cloud/vmware-cloud-foundation.md
+      - VMware Solutions Shared: ./cloud/vmware-shared.md
   - PaaS:
       - Red Hat OpenShift on IBM Cloud: ./paas/openshift.md
       - Learning Kubernetes: ./paas/gettingstartedk8s.md
@@ -54,6 +55,7 @@ nav:
         - Security: ./mainframe/security.md
         - Sustainability: ./mainframe/sustainability.md
         - AI: ./mainframe/ai.md
+      - Modernization patterns: ./mainframe/appmodpatterns.md
       - Tooling:
           - LinuxONE: ./mainframe/linuxone.md
           - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md

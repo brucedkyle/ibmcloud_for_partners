@@ -80,8 +80,6 @@ responding to other enterprise application events through event-based model
 
 This reference architecture describes application centric pattern and help guide enterprise developers to securely integrate cloud native applications with core mainframe applications through unique development and test features available in IBM Cloud.
 
-
-
 ## Next steps
 
 See:

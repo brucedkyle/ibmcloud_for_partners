@@ -8,7 +8,20 @@ This stack provides customers with consistent infrastructure and operations in a
 
 ## Overview
 
-VMware Cloud Foundation deployments provide a complete set of software-defined services for compute, storage, network security, Kubernetes management, and cloud management. It includes VMware vSphere® with VMware Tanzu™, VMware vSAN™, VMware NSX™ Data Center and is managed though vCenter, SDDC manager, HCX, and VMware Aria® Suite (formerly known as VMware vRealize® Suite). The VMware Cloud Foundation management capabilities offer consistent VMware operations across private and public cloud deployments. To select an optimal IBM Cloud for VMware Cloud Foundation solution for your needs, you can select between VMware Cloud Editions Advanced or Enterprise that provide you access to a unique set of VMware Cloud Foundation capabilities in a bundled form.
+VMware Cloud Foundation deployments provide a complete set of software-defined services for compute, storage, network security, Kubernetes management, and cloud management. It includes:
+
+- VMware vSphere® with VMware Tanzu™
+- VMware vSAN™
+- VMware NSX™ Data Center
+
+and is managed though
+
+- vCenter
+- SDDC manager
+- HCX
+- VMware Aria® Suite (formerly known as VMware vRealize® Suite) 
+
+The VMware Cloud Foundation management capabilities offer consistent VMware operations across private and public cloud deployments. To select an optimal IBM Cloud for VMware Cloud Foundation solution for your needs, you can select between **VMware Cloud Editions Advanced or Enterprise** that provide you access to a unique set of VMware Cloud Foundation capabilities in a bundled form.
 
 The following diagram provides an overview of IBM Cloud for VMware Cloud Foundation.
 
