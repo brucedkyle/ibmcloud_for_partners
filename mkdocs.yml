@@ -46,6 +46,7 @@ nav:
       - Getting started with mainframe: ./mainframe/getstarted.md
       - Modernization scenarios:
         - App Modernization:
+            - Modernization patterns: ./mainframe/appmodernpatterns.md
             - Discovery: ./mainframe/discovery.md
             - DevTest: ./mainframe/devtest.md
             - Generative AI: ./mainframe/genai.md
@@ -55,7 +56,6 @@ nav:
         - Security: ./mainframe/security.md
         - Sustainability: ./mainframe/sustainability.md
         - AI: ./mainframe/ai.md
-      - Modernization patterns: ./mainframe/appmodpatterns.md
       - Tooling:
           - LinuxONE: ./mainframe/linuxone.md
           - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
@@ -77,7 +77,6 @@ nav:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
           - IBM Open Enterprise SDKs: ./mainframe/openenterprise.md
-
 extra_css:
   - stylesheets/extra.css
 theme: 
