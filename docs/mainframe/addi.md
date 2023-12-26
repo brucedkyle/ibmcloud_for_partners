@@ -64,6 +64,10 @@ See set of 17 videos each shorter than 10 minutes, that describe ADDI, Wazi anal
 
 See [IBM Application Discovery and Delivery Intelligence (ADDI) IBM Z Trial](https://early-access.ibm.com/software/support/trial/cst/welcomepage.wss?siteId=924&tabId=2188&w=1).
 
+### Installation and setup
+
+See [Installing and setting up IBM ADDI Extension with ADDI installer](https://www.ibm.com/docs/en/adi/5.1.0?topic=setup-installing-setting-up-addi-extension-addi-installer).
+
 ## References
 
 - [IBM Application Discovery and Delivery Intelligence](https://www.ibm.com/products/app-discovery-and-delivery-intelligence). This course is designed to provide the audience with an introduction to IBM Application Discovery and Delivery Intelligence (ADDI).
@@ -73,6 +77,7 @@ See [IBM Application Discovery and Delivery Intelligence (ADDI) IBM Z Trial](htt
 ### IBM Partners
 
 - [ADDI Solution Brief](https://ibm.seismic.com/Link/Content/DCB79QfdDF2948TH729dgWpB2q8d)
+- [IBM Application Discovery and Delivery Intelligence Cookbook](https://ibm.seismic.com/Link/Content/DCT7WMMVTMhWc82X7pWc6PRdmG88)
 
 ## Contributors
 

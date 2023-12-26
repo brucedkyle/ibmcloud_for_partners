@@ -76,6 +76,7 @@ nav:
       - Refactoring:
           - Application Discovery and Delivery Intelligence (ADDI): ./mainframe/addi.md
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
+          - watsonx Code Assistant for Z architecture: ./mainframe/watsonxcodeassistarchitecture.md
           - IBM Open Enterprise SDKs: ./mainframe/openenterprise.md
 extra_css:
   - stylesheets/extra.css

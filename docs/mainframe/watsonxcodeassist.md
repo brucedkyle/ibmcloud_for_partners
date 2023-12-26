@@ -38,22 +38,6 @@ The following diagram shows the transformation with a best-fit approach.
 
 ![best fit](./media/best-fit.png)
 
-## Architecture
-
-Watsonx Code Assistant for Z comprises components that run on-premises and in IBM Cloud.
-
-First, to understand COBOL applications, an architect uses the functions of Application Discovery and Delivery Intelligence (ADDI). This tool enables an Architect to perform different tasks, including visualizing the relationships between different programs, run reports, and search code. 
-
-The COBOL developer can use Refactoring Assistant to start extracting the COBOL business service that the Architect identified from a monolith application. 
-
-If the modernization strategy involves converting the COBOL service to Java, the COBOL developer can commit the service into a source code management repository (SCM) such as Git. 
-
-The Java developer uses Z Open Editor in Visual Studio Code (VS Code) to connect to the watsonx Code Assistant for Z service in IBM Cloud. 
-
-The following diagram shows the architecture for the solution.
-
-[![wcaz](./media/wcaz-architecture.svg)](https://www.ibm.com/docs/en/watsonx-code-assistant-4z/1.0?topic=overview-solution-architecture)
-
 ## Prerequisites
 
 Prior to use watsonx Code Assistant for Z, you should:
@@ -143,3 +127,5 @@ The following topics are covered in this course:
 
 - [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
 - [Application Modernization entry points](https://ibm.seismic.com/Link/Content/DCqPfg2PDGPhQGCC37gFbFC9bMPd)
+- [WCA4Z Cookbook](https://ibm.seismic.com/Link/Content/DCCBqG4bgPWFdGCXH8Jqcj7hp9QP) and [IBM Application Discovery and Delivery Intelligence Cookbook](https://ibm.seismic.com/Link/Content/DCT7WMMVTMhWc82X7pWc6PRdmG88)
+- [watsonx Code Assistant for Z Architecture Walkthrough](https://ibm.seismic.com/Link/Content/DCHR3WRXJCGH4GmQ7DTP3TgDQM88)
