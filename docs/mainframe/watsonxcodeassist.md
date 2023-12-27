@@ -129,3 +129,4 @@ The following topics are covered in this course:
 - [Application Modernization entry points](https://ibm.seismic.com/Link/Content/DCqPfg2PDGPhQGCC37gFbFC9bMPd)
 - [WCA4Z Cookbook](https://ibm.seismic.com/Link/Content/DCCBqG4bgPWFdGCXH8Jqcj7hp9QP) and [IBM Application Discovery and Delivery Intelligence Cookbook](https://ibm.seismic.com/Link/Content/DCT7WMMVTMhWc82X7pWc6PRdmG88)
 - [watsonx Code Assistant for Z Architecture Walkthrough](https://ibm.seismic.com/Link/Content/DCHR3WRXJCGH4GmQ7DTP3TgDQM88)
+- TechZone collection [IBM watsonX Code Assistant for Z](https://techzone.ibm.com/collection/watsonx-code-assistant-for-z)
