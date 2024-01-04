@@ -97,7 +97,9 @@ Streamlined and accelerate testing of new code.
 
 ## Next steps
 
-IBM Learning course: [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014).
+See video demo: [Generative AI-assisted mainframe application modernization](https://mediacenter.ibm.com/media/1_afnkvmte)
+
+IBM Learning course: [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
 
 The following topics are covered in this course:
 
@@ -119,14 +121,24 @@ The following topics are covered in this course:
 
 ### For IBM partners
 
+- [Application Modernization entry points](https://ibm.seismic.com/Link/Content/DCqPfg2PDGPhQGCC37gFbFC9bMPd)
+- [watsonx Code Assistant for Z Architecture Walkthrough](https://ibm.seismic.com/Link/Content/DCHR3WRXJCGH4GmQ7DTP3TgDQM88)
+
+TechZone:
+
+- TechZone collection [IBM watsonX Code Assistant for Z](https://techzone.ibm.com/collection/watsonx-code-assistant-for-z)
 - [IBM watsonx Code Assistant](https://techzone.ibm.com/collection/6537cf277220880017d7ac0d) on TechZone, including:
 
     - Solution workshops: Technical Overview of watsonx Code Assistant for Z
     - Pilots: Pilot Scoping Guide and Landing Zone Guidance
     - watsonx Code Assistance for Z Cookbook
 
+Cookbooks:
+
+- [WCA4Z Cookbook](https://ibm.seismic.com/Link/Content/DCCBqG4bgPWFdGCXH8Jqcj7hp9QP) 
+- [IBM Application Discovery and Delivery Intelligence Cookbook](https://ibm.seismic.com/Link/Content/DCT7WMMVTMhWc82X7pWc6PRdmG88)
+
+Your Learning Plan:
+
 - [IBM watsonx Code Assistant for Z Technical Deep Dive](https://yourlearning.ibm.com/activity/PLAN-7AEEB533C014)
-- [Application Modernization entry points](https://ibm.seismic.com/Link/Content/DCqPfg2PDGPhQGCC37gFbFC9bMPd)
-- [WCA4Z Cookbook](https://ibm.seismic.com/Link/Content/DCCBqG4bgPWFdGCXH8Jqcj7hp9QP) and [IBM Application Discovery and Delivery Intelligence Cookbook](https://ibm.seismic.com/Link/Content/DCT7WMMVTMhWc82X7pWc6PRdmG88)
-- [watsonx Code Assistant for Z Architecture Walkthrough](https://ibm.seismic.com/Link/Content/DCHR3WRXJCGH4GmQ7DTP3TgDQM88)
-- TechZone collection [IBM watsonX Code Assistant for Z](https://techzone.ibm.com/collection/watsonx-code-assistant-for-z)
+- [IBM watsonx Code Assistant for Z Level 2](https://yourlearning.ibm.com/activity/PLAN-3A95B9E1CBA3?focuslmsId=AB-EC47F53F4E7F)
