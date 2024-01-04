@@ -78,6 +78,8 @@ nav:
           - watsonx Code Assistant for Z: ./mainframe/watsonxcodeassist.md
           - watsonx Code Assistant for Z architecture: ./mainframe/watsonxcodeassistarchitecture.md
           - IBM Open Enterprise SDKs: ./mainframe/openenterprise.md
+  - watsonx:
+      - watsonx as a service: ./watsonx/watsonxai.md
 extra_css:
   - stylesheets/extra.css
 theme: 
