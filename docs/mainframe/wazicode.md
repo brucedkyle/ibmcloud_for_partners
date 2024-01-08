@@ -35,13 +35,19 @@ For more information, see [Developing applications with Wazi Code](https://www.i
 
     For a deep dive into the similarities and differences in the two enviornments, see [Why do instructions for Wazi for VS Code also apply to Wazi for Dev Spaces?](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=code-choosing-ide-client#choosing-an-ide__explanation__title__1)
 
+## Choosing and installing a client
+
+IBM® Developer for z/OS® supports an IDE (integrated development environment) built on the Eclipse platform. If your site licensed **IBM Developer for z/OS Enterprise Edition** you have the choice of three IDEs that you can work in.
+
+- The **Developer for z/OS Eclipse client** is installed on a Windows, macOS, or Linux® workstation. It offers a robust and extensible suite of end-to-end tools for developing, analyzing, debugging, testing, and building z/OS applications. It supports development of source code from a variety of traditional mainframe and modern cloud-native sources, such as z/OS, z/OS UNIX System Services, Git, and Jazz®.
+- The **Wazi for VS Code** web-based IDE, which extends the functions of VS Code to provide z/OS developers with a familiar and straightforward edit, build, and debug experience. IBM Wazi for VS Code consists of the IBM Z® Open Editor and IBM Z Open Debug VS Code extensions.
+- **IBM Wazi for Dev Spaces** provides the z/OS application development capabilities in the OpenShift® Container Platform environment. IBM Wazi for Dev Spaces is a development environment that provides an in-browser IDE that you can use to code, build, test, debug, and run applications from any machine.
+
+To install a _Developer for z/OS client_, follow the instructions listed in [Choosing and installing a client](https://www.ibm.com/docs/en/developer-for-zos/16.0?topic=choosing-installing-client).
+
 ### Wazi for VS Code
 
-Runs on desktop. It provides a set of Microsoft VS Code extensions to extend VS Code to deliver a simple and familiar edit, build, and debug experience.
-
-VS Code is a popular desktop editor among many current and next generation developers. IBM Enterprise language support in VS Code makes enterprise programming more attractive and productive by allowing developers to use this popular editor, with the option to integrate numerous other extensions from the VS Code Marketplace.
-
-See [Developing with IBM Wazi for VS Code](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=code-option-1-developing-wazi-vs).
+See [Wazi for VS Code](./waziforvscode.md) in this wiki.
 
 ### Wazi for Dev Spaces
 
@@ -62,10 +68,8 @@ All the IDE options provided by IBM Wazi are built on the client/server architec
 
 For checklists in setting up your dev environment on developer computers and hosts, see [Checklists](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=code-checklists).
 
-
-
 ## References
 
-- [Developing applications with Wazi Code](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=wazi-developing-applications-code)
+- [Introducing IBM Z Open Debug](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/blog-entry1/2020/06/12/introducing-ibm-z-open-debug)
 - [Choosing an IDE client](https://www.ibm.com/docs/en/cloud-paks/z-modernization-stack/2023.4?topic=code-choosing-ide-client).
-- [End-to-end workflow](https://www.ibm.com/docs/en/wdfrhcw/1.4.0?topic=overview-end-end-workflow)
+- [Tutorial overview](https://www.ibm.com/docs/en/developer-for-zos/16.0?topic=code-tutorial)

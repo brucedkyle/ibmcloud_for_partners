@@ -61,7 +61,9 @@ nav:
           - Hyper Protect Virtual Servers for VPC on LinuxONE: ./mainframe/hyper-protect-vs.md
           - IBM Z and Cloud Modernization Stack: ./mainframe/stack.md
           - IBM Wazi as a Service overview: ./mainframe/wazi.md
-          - Wazi Code: ./mainframe/wazicode.md
+          - Wazi Code:
+            - Overview: ./mainframe/wazicode.md
+            - Wazi for VS Code: ./mainframe/waziforvscode.md
           - Wazi Analyze: ./mainframe/analyze.md
           - Wazi Sandbox: ./mainframe/sandbox.md
           - Wazi Deploy: ./mainframe/deploy.md
