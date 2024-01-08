@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 741 753" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>z-API-devops</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.7846 0.2915 14.904 0.2915 14.904 14 0.7846 14"></polygon>
+    </defs>
+    <g id="z-API-devops" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ENTERPRISE-NETWORK" transform="translate(41.500000, 38.000000)" fill="#457AB9" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold">
+            <g id="Group">
+                <text id="ENTERPRISE-NETWORK">
+                    <tspan x="0.6027" y="14.9991">ENTERPRISE NETWORK</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="LEGEND_4_" transform="translate(32.500000, 614.000000)">
+            <rect id="Rectangle" fill="#E6BD21" fill-rule="nonzero" x="1.4" y="18.9" width="19.5" height="9"></rect>
+            <rect id="Rectangle" fill="#F37A3C" fill-rule="nonzero" x="1.4" y="49.9" width="19.5" height="9"></rect>
+            <g id="Group" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <text id="LEGEND">
+                    <tspan x="0.8031" y="11.2384">LEGEND</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(24.000000, 14.000000)">
+                <rect id="Rectangle" x="0.371311475" y="3.4" width="74.3860656" height="9.3"></rect>
+                <g id="Application" fill="#457AB9" font-family="IBMPlexSans, IBM Plex Sans" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0.401140164" y="10.8124">Application</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(24.000000, 31.000000)">
+                <rect id="Rectangle" x="0.3" y="3.4" width="60.1" height="9.3"></rect>
+                <g id="Management" fill="#457AB9" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0.3241" y="10.8239">Management</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(24.000000, 46.000000)">
+                <rect id="Rectangle" x="0.3" y="3.5" width="60.1" height="9.3"></rect>
+                <g id="DevOps" fill="#457AB9" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0.3241" y="10.9183">DevOps</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(24.000000, 63.000000)">
+                <rect id="Rectangle" x="0.3" y="3" width="60.1" height="9.3"></rect>
+                <g id="Security" fill="#457AB9" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0.3241" y="10.4506">Security</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#DF2834" fill-rule="nonzero" x="1.4" y="65.5" width="19.5" height="9"></rect>
+            <g id="Group" transform="translate(24.000000, 79.000000)">
+                <rect id="Rectangle" x="0.3" y="3.5" width="60.1" height="9.3"></rect>
+                <g id="Z-Tools" fill="#457AB9" font-family="Helvetica" font-size="10" font-weight="normal">
+                    <text>
+                        <tspan x="0.3241" y="10.9454">Z Tools</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#573374" fill="#F3A024" fill-rule="nonzero" x="1.4" y="82" width="19.5" height="9"></rect>
+            <rect id="Rectangle" fill="#00AD9A" fill-rule="nonzero" x="1.4" y="34.4" width="19.5" height="9"></rect>
+        </g>
+        <g id="COLLOBORATIVE_DEV_ICON" transform="translate(305.500000, 131.000000)">
+            <g id="Group" transform="translate(0.000000, 53.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="COLLABORATIVE">
+                    <text>
+                        <tspan x="0.2787" y="11.8944">COLLABORATIVE</tspan>
+                    </text>
+                </g>
+                <g id="DEVELOPMENT" transform="translate(4.000000, 14.000000)">
+                    <g id="Group">
+                        <text id="DEVELOPMENT">
+                            <tspan x="0.7787" y="11.0943">DEVELOPMENT</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(13.000000, 0.000000)" fill-rule="nonzero">
+                <g id="Layer_2_100_" fill="#F37A3C">
+                    <circle id="devops_collaboration_1_" cx="27.5" cy="28.3" r="27.5"></circle>
+                </g>
+                <g transform="translate(11.000000, 10.000000)" fill="#FFFFFF">
+                    <path d="M7.2,24.7 C10.4,24.7 13,22.1 13,18.9 C13,15.7 10.4,13.1 7.2,13.1 C4,13.1 1.4,15.7 1.4,18.9 C1.4,22.1 4,24.7 7.2,24.7 Z M7.2,14.3 C9.8,14.3 11.8,16.4 11.8,18.9 C11.8,21.4 9.7,23.5 7.2,23.5 C4.6,23.5 2.6,21.4 2.6,18.9 C2.6,16.4 4.7,14.3 7.2,14.3 Z" id="Shape"></path>
+                    <path d="M20,18.9 C20,22.1 22.6,24.7 25.8,24.7 C29,24.7 31.6,22.1 31.6,18.9 C31.6,15.7 29,13.1 25.8,13.1 C22.6,13.1 20,15.7 20,18.9 Z M25.7,14.3 C28.3,14.3 30.3,16.4 30.3,18.9 C30.3,21.4 28.2,23.5 25.7,23.5 C23.1,23.5 21.1,21.4 21.1,18.9 C21.1,16.4 23.2,14.3 25.7,14.3 Z" id="Shape"></path>
+                    <path d="M22.3,6.2 C22.3,3 19.7,0.4 16.5,0.4 C13.3,0.4 10.7,3 10.7,6.2 C10.7,9.4 13.3,12 16.5,12 C19.7,12 22.3,9.4 22.3,6.2 Z M16.5,10.8 C13.9,10.8 11.9,8.7 11.9,6.2 C11.9,3.6 14,1.6 16.5,1.6 C19.1,1.6 21.1,3.7 21.1,6.2 C21.1,8.8 19,10.8 16.5,10.8 Z" id="Shape"></path>
+                    <path d="M11.9,27 L2.6,27 C1.3,27 0.3,28 0.3,29.3 L0.3,32.8 L14.2,32.8 L14.2,29.3 C14.2,28.1 13.1,27 11.9,27 Z" id="Path"></path>
+                    <path d="M30.4,27 L21.1,27 C19.8,27 18.8,28 18.8,29.3 L18.8,32.8 L32.7,32.8 L32.7,29.3 C32.7,28.1 31.6,27 30.4,27 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+        <g id="APPLICATION_IOCN" transform="translate(310.500000, 523.000000)">
+            <g id="APPLICATION" transform="translate(0.000000, 54.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="Group">
+                    <text id="APPLICATION">
+                        <tspan x="0.7357" y="11.8989">APPLICATION</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(8.000000, 0.000000)" fill-rule="nonzero">
+                <circle id="devops_application_1" fill="#E9BE1F" cx="27.5" cy="28.2" r="27.5"></circle>
+                <path d="M33,18.2 L30.6,18.2 C30.6,19.9 30.3,21.5 29.6,23.2 L22.1,19.6 C22.5,18 22.2,16.2 20.9,14.9 C19.3,13.3 17,13.1 15.2,14.2 L13.4,12.4 L11.7,14.1 L13.5,15.9 C12.5,17.7 12.7,20.1 14.2,21.6 C15.4,22.8 17.2,23.3 18.9,22.7 L29.2,43.9 L30.2,43.4 L24.6,31.9 C26.1,31.2 27.3,30.2 28.4,29.1 C29.5,28 30.5,26.7 31.2,25.3 L42.8,30.9 L43.3,29.9 L31.7,24.3 C32.6,22.2 33,20.3 33,18.2 Z M16.8,17.4 C17.2,17 18,17 18.5,17.4 C18.9,17.8 18.9,18.6 18.5,19.1 C18.1,19.5 17.3,19.5 16.8,19.1 C16.3,18.6 16.3,17.9 16.8,17.4 Z M23.6,29.7 L20,22.2 C20.3,22 20.6,21.8 20.9,21.5 C21.2,21.2 21.4,20.9 21.6,20.6 L29.1,24.2 C27.9,26.5 25.9,28.5 23.6,29.7 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <rect id="Rectangle" stroke="#477AB9" x="303.4" y="437.9" width="85" height="234"></rect>
+        <g id="SECURITY_ICON_4_" transform="translate(318.500000, 446.000000)">
+            <g id="SECURITY" transform="translate(2.000000, 55.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="Group">
+                    <text id="SECURITY">
+                        <tspan x="0.9821" y="11.0239">SECURITY</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" fill-rule="nonzero">
+                <circle id="devops_security_1_" fill="#E02833" cx="27.5" cy="27.7" r="27.5"></circle>
+                <path d="M37,19.5 C37,14.4 32.6,10 27.5,10 C22.4,10 18,14.4 18,19.5 L18,23.8 C16,26 14.8,28.9 14.8,32.1 C14.8,39.1 20.5,44.8 27.5,44.8 C34.5,44.8 40.2,39.1 40.2,32.1 C40.2,28.9 39,26 37,23.8 L37,19.5 Z M21.1,19.5 C21.1,16.1 24.1,13.2 27.4,13.2 C30.7,13.2 33.7,16.2 33.7,19.5 L33.7,21.2 C31.8,20.1 29.7,19.5 27.4,19.5 C25.1,19.5 22.9,20.1 21.1,21.2 L21.1,19.5 Z M25.1,39.1 L19.2,33.2 L21.4,31 L25,34.6 L33.4,26.2 L35.6,28.4 L25.1,39.1 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+        <g id="DEPLOYMENT_ORCH_ICON" transform="translate(440.500000, 472.000000)">
+            <g id="Group" transform="translate(0.000000, 52.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="DEPLOYMENT" transform="translate(10.000000, 0.000000)">
+                    <g id="Group">
+                        <text id="DEPLOYMENT">
+                            <tspan x="0.627" y="11.8286">DEPLOYMENT</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="ORCHESTRATION" transform="translate(0.000000, 14.000000)">
+                    <g id="Group">
+                        <text id="ORCHESTRATION">
+                            <tspan x="0.9965" y="11.0286">ORCHESTRATION</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(17.000000, 0.000000)" fill-rule="nonzero">
+                <g id="Layer_2_99_" fill="#F37A3C">
+                    <circle id="devops_deployment_orchestration_1_" cx="28.4" cy="27.5" r="27.5"></circle>
+                </g>
+                <g transform="translate(14.000000, 12.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" transform="translate(1.704504, 26.475257) rotate(-52.238581) translate(-1.704504, -26.475257) " x="-0.145571772" y="25.9752574" width="3.70015192" height="1"></rect>
+                    <rect id="Rectangle" transform="translate(2.668863, 28.679623) rotate(-45.105338) translate(-2.668863, -28.679623) " x="0.268881696" y="28.179623" width="4.79996208" height="1"></rect>
+                    <rect id="Rectangle" transform="translate(4.990512, 29.693083) rotate(-37.838298) translate(-4.990512, -29.693083) " x="3.14061818" y="29.193083" width="3.69978845" height="1"></rect>
+                    <path d="M29.3,2 C29.3,2 22.6,-3.6 12.1,11.5 C11.7,12.1 11.3,12.6 10.9,13.2 L10.9,13.2 C4.8,12.9 1.4,19.1 1.4,19.1 L6,20.3 C5.5,21 5.2,21.5 4.9,21.9 L4.9,22 L4.9,22 C4.9,22 4.5,22.5 6.4,24.7 L6.5,24.8 L6.7,25 C8.4,26.4 9.1,26.5 9.2,26.4 L9.4,26.3 C9.8,26 10.3,25.7 11,25.2 L12.3,30 C12.3,30 18.5,26.6 18.2,20.5 C18.2,20.4 18.2,20.3 18.2,20.3 C18.7,20 19.2,19.6 19.7,19.2 C34.9,8.7 29.3,2 29.3,2 Z M20.7,13.7 C19.1,13.7 17.7,12.4 17.7,10.7 C17.7,9 19,7.7 20.7,7.7 C22.3,7.7 23.7,9 23.7,10.7 C23.7,12.4 22.3,13.7 20.7,13.7 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+        <g id="ALERT_NOTIFICATION_ICON" transform="translate(139.500000, 217.000000)">
+            <g id="Group" transform="translate(0.000000, 55.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="ALERT-NOTIFICATION">
+                    <text id="ALERT">
+                        <tspan x="23.204" y="11.6036">ALERT</tspan>
+                    </text>
+                    <text id="NOTIFICATION">
+                        <tspan x="0.973" y="25.6036">NOTIFICATION</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group" transform="translate(10.500000, 0.000000)" fill-rule="nonzero">
+                <circle id="devops_alert_notification_1_" fill="#00AD9A" cx="27.8" cy="27.6" r="27.5"></circle>
+                <g transform="translate(8.000000, 8.000000)" fill="#FFFFFF">
+                    <path d="M19.8,0.1 L0,34.6 L39.7,34.6 L19.8,0.1 Z M19.8,2.8 L37.4,33.2 L2.3,33.2 L19.8,2.8 Z" id="Shape"></path>
+                    <polygon id="Path" points="18.4 14.7 18.4 17.4 19.1 23.9 20.5 23.9 21.1 17.4 21.1 14.7"></polygon>
+                    <circle id="Oval" cx="19.8" cy="26.5" r="1.4"></circle>
+                </g>
+            </g>
+        </g>
+        <g id="MONITORING_METRICS_ICON" transform="translate(118.500000, 391.000000)">
+            <g id="Group" transform="translate(0.000000, 53.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="MONITORING-&amp;">
+                    <text>
+                        <tspan x="0.379" y="11.5783">MONITORING &amp;</tspan>
+                    </text>
+                </g>
+                <g id="METRICS" transform="translate(16.000000, 13.000000)">
+                    <g id="Group">
+                        <text id="METRICS">
+                            <tspan x="0.879" y="11.7783">METRICS</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(14.000000, 0.000000)" fill-rule="nonzero">
+                <circle id="devops_monitoring_metrics_6_" fill="#00AD9A" cx="28.2" cy="28.1" r="27.5"></circle>
+                <g transform="translate(11.000000, 16.000000)" fill="#FFFFFF">
+                    <polygon id="Path" points="2 22.9 2 0.1 0.9 0.1 0.9 22.9 0.9 24 2 24 33.5 24 33.5 22.9"></polygon>
+                    <rect id="Rectangle" x="4.1" y="12.1" width="7.6" height="8.7"></rect>
+                    <path d="M21.5,3.4 L13.9,3.4 L13.9,20.8 L21.5,20.8 L21.5,3.4 Z M20.4,19.6 L15,19.6 L15,4.4 L20.4,4.4 L20.4,19.6 Z" id="Shape"></path>
+                    <rect id="Rectangle" x="23.7" y="8.8" width="7.6" height="1.1"></rect>
+                    <rect id="Rectangle" x="23.7" y="11" width="7.6" height="1.1"></rect>
+                    <rect id="Rectangle" x="23.7" y="13.1" width="7.6" height="1.1"></rect>
+                    <rect id="Rectangle" x="23.7" y="15.3" width="7.6" height="1.1"></rect>
+                    <rect id="Rectangle" x="23.7" y="17.5" width="7.6" height="1.1"></rect>
+                    <rect id="Rectangle" x="23.7" y="19.6" width="7.6" height="1.1"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="zAPI_TOOLKIT_ICON" transform="translate(453.500000, 190.000000)">
+            <g id="Group" transform="translate(0.193600, 55.182100)" fill="#457AB9" font-family="IBMPlexSans, IBM Plex Sans" font-size="11" font-weight="normal">
+                <g id="MAINFRAME-API-TOOLKI">
+                    <text id="MAINFRAME">
+                        <tspan x="0.9339" y="11">MAINFRAME</tspan>
+                    </text>
+                    <text id="API-TOOLKIT">
+                        <tspan x="0.0759" y="25">API TOOLKIT</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Layer_2_15_" transform="translate(5.000000, 0.000000)" fill="#F3A224" fill-rule="nonzero">
+                <circle id="z_api_toolkit_devops" cx="27.7" cy="28" r="27.5"></circle>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="35.1" y="18.9" width="10.7" height="14.9"></rect>
+            <g id="Group" transform="translate(18.000000, 19.000000)" fill-rule="nonzero">
+                <path d="M9.5,3.1 L1.6,3.1 C0.8,3.1 0.1,2.4 0.1,1.6 L0.1,1.6 C0.1,0.8 0.8,0.1 1.6,0.1 L9.5,0.1 C10.3,0.1 11,0.8 11,1.6 L11,1.6 C11,2.5 10.3,3.1 9.5,3.1 Z" id="Path" fill="#47823D"></path>
+                <path d="M9.5,7 L1.6,7 C0.8,7 0.1,6.3 0.1,5.5 L0.1,5.5 C0.1,4.7 0.8,4 1.6,4 L9.5,4 C10.3,4 11,4.7 11,5.5 L11,5.5 C11,6.4 10.3,7 9.5,7 Z" id="Path" fill="#427AB7"></path>
+                <path d="M9.5,10.9 L1.6,10.9 C0.8,10.9 0.1,10.2 0.1,9.4 L0.1,9.4 C0.1,8.6 0.8,7.9 1.6,7.9 L9.5,7.9 C10.3,7.9 11,8.6 11,9.4 L11,9.4 C11,10.2 10.3,10.9 9.5,10.9 Z" id="Path" fill="#D14927"></path>
+                <path d="M9.5,14.8 L1.6,14.8 C0.8,14.8 0.1,14.1 0.1,13.3 L0.1,13.3 C0.1,12.5 0.8,11.8 1.6,11.8 L9.5,11.8 C10.3,11.8 11,12.5 11,13.3 L11,13.3 C11,14.1 10.3,14.8 9.5,14.8 Z" id="Path" fill="#9D1C2D"></path>
+            </g>
+            <path d="M51.2,42.2 L51.2,11.5 L12.6,11.5 L12.6,42.2 L28.1,42.2 L28.1,45.6 L22.2,45.6 L22.2,47 L41.7,47 L41.7,45.6 L35.8,45.6 L35.8,42.2 L51.2,42.2 Z M15.6,14.5 L48.2,14.5 L48.2,38.2 L15.6,38.2 L15.6,14.5 Z" id="Shape" fill="#573374" fill-rule="nonzero"></path>
+        </g>
+        <g id="RUNTIME_CONTAINERS_ICON" transform="translate(310.500000, 600.000000)">
+            <g id="Group" transform="translate(0.500000, 40.000000)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="RUNTIME-&amp;-CONTAINERS">
+                    <text id="RUNTIME-&amp;">
+                        <tspan x="5.4645" y="11.3439">RUNTIME &amp;</tspan>
+                    </text>
+                    <text id="CONTAINERS">
+                        <tspan x="0.9655" y="25.3439">CONTAINERS</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="devops_runtime_containers_1" transform="translate(12.000000, 0.000000)" fill-rule="nonzero">
+                <g id="Group">
+                    <g transform="translate(5.000000, 0.000000)">
+                        <rect id="Rectangle" fill="#8AC443" x="0.1" y="0.6" width="16.5" height="16.5"></rect>
+                        <rect id="Rectangle" fill="#00ACCE" x="0.1" y="18.9" width="16.5" height="16.5"></rect>
+                        <rect id="Rectangle" fill="#00ACCE" x="18.6" y="0.6" width="16.5" height="16.5"></rect>
+                        <rect id="Rectangle" fill="#8AC443" x="18.6" y="18.9" width="16.5" height="16.5"></rect>
+                        <g transform="translate(2.000000, 2.000000)" fill="#FFFFFF">
+                            <rect id="devops_runtime_containers_1" x="0.8" y="0.8" width="1" height="11.9"></rect>
+                            <rect id="Rectangle" x="11.1" y="0.8" width="1" height="11.9"></rect>
+                            <rect id="Rectangle" x="7.7" y="0.8" width="1" height="11.9"></rect>
+                            <rect id="Rectangle" x="4.2" y="0.8" width="1" height="11.9"></rect>
+                        </g>
+                        <g id="Rectangle" transform="translate(21.000000, 2.000000)" fill="#FFFFFF">
+                            <rect x="0.1" y="0.8" width="1" height="11.9"></rect>
+                            <rect x="10.4" y="0.8" width="1" height="11.9"></rect>
+                            <rect x="7" y="0.8" width="1" height="11.9"></rect>
+                            <rect x="3.5" y="0.8" width="1" height="11.9"></rect>
+                        </g>
+                        <g id="Rectangle" transform="translate(2.000000, 21.000000)" fill="#FFFFFF">
+                            <rect x="0.8" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="11.1" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="7.7" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="4.2" y="0.2" width="1" height="11.9"></rect>
+                        </g>
+                        <g id="Rectangle" transform="translate(21.000000, 21.000000)" fill="#FFFFFF">
+                            <rect x="0.1" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="10.4" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="7" y="0.2" width="1" height="11.9"></rect>
+                            <rect x="3.5" y="0.2" width="1" height="11.9"></rect>
+                        </g>
+                    </g>
+                    <polygon id="Path" fill="#05456A" points="45 39.6 0.2 39.6 0.2 30.7 2.7 30.7 2.7 37.3 42.5 37.3 42.5 30.7 45 30.7"></polygon>
+                </g>
+            </g>
+        </g>
+        <g id="zASSET_DISCOVERY_ICON" transform="translate(418.500000, 59.000000)">
+            <g id="Group">
+                <g id="MAINFRAME-ASSET-DISC" transform="translate(0.452400, 53.791700)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                    <g id="Group">
+                        <text id="APPLICATION">
+                            <tspan x="0.350975" y="11">MAINFRAME</tspan>
+                        </text>
+                        <text id="DISCOVERY-">
+                            <tspan x="-3.050975" y="25">APPLICATION</tspan>
+                        </text>
+                        <text id="DISCOVERY-">
+                            <tspan x="0.950975" y="39">DISCOVERY</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Layer_2_5_" transform="translate(8.476375, 0.000000)" fill="#F3A024" fill-rule="nonzero">
+                    <circle id="z_asset_discovery_devops" cx="28.1" cy="28.1" r="27.5"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(15.476375, 10.000000)">
+                <polyline id="Path" stroke="#573374" stroke-width="1.8057" points="4.3 8.5 13.7 27.8 20.4 4.8"></polyline>
+                <path d="M13.7,27.8 L37.4,15.5" id="Path" stroke="#573374" stroke-width="1.8057"></path>
+                <circle id="Oval" stroke="#D15363" fill="#573374" fill-rule="nonzero" cx="14.4" cy="27.6" r="5.3"></circle>
+                <circle id="Oval" stroke="#D15363" fill="#573374" fill-rule="nonzero" cx="20.4" cy="4.8" r="3.9"></circle>
+                <circle id="Oval" stroke="#D15363" fill="#573374" fill-rule="nonzero" cx="4.3" cy="8.5" r="3.9"></circle>
+                <circle id="Oval" stroke="#D15363" fill="#573374" fill-rule="nonzero" cx="37.4" cy="15.5" r="3.9"></circle>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(365.500000, 593.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="9.8" cy="10" r="9.3"></circle>
+            <g id="7" transform="translate(6.000000, 3.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="11.9025" font-weight="normal">
+                <g id="Group">
+                    <text id="7">
+                        <tspan x="0.6342" y="11.231">7</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(366.500000, 442.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.8" cy="9.1" r="8.4"></circle>
+            <g id="8" transform="translate(5.000000, 2.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="8">
+                        <tspan x="0.9791" y="10.9763">8</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(120.500000, 387.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.6" cy="9.3" r="8.4"></circle>
+            <g id="9" transform="translate(5.000000, 3.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="9">
+                        <tspan x="0.7019" y="10.0896">9</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(149.500000, 201.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.6" cy="9" r="8.4"></circle>
+            <g id="10" transform="translate(2.000000, 2.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="10">
+                        <tspan x="0.7954" y="10.8804">10</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(367.500000, 125.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="9.4" cy="10" r="9.3"></circle>
+            <g id="1" transform="translate(6.000000, 3.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="11.9025" font-weight="normal">
+                <g id="Group">
+                    <text id="1">
+                        <tspan x="0.1684" y="11.2917">1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(517.500000, 486.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="9.1" cy="9.3" r="8.4"></circle>
+            <g id="5" transform="translate(6.000000, 3.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="5">
+                        <tspan x="0.2954" y="10.0883">5</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(366.500000, 519.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.8" cy="8.6" r="8.4"></circle>
+            <g id="6" transform="translate(5.000000, 2.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="6">
+                        <tspan x="0.9586" y="10.3623">6</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(473.500000, 51.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.7" cy="8.5" r="8.4"></circle>
+            <g id="2" transform="translate(5.000000, 2.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="2">
+                        <tspan x="0.8364" y="10.2646">2</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(514.100000, 198.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.4" cy="9.3" r="8.4"></circle>
+            <g id="3" transform="translate(5.000000, 3.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="3">
+                        <tspan x="0.492" y="10.0698">3</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g class="flowStep" transform="translate(566.500000, 324.000000)">
+            <circle id="Oval" fill="#808083" fill-rule="nonzero" cx="8.7" cy="8.9" r="8.4"></circle>
+            <g id="4" transform="translate(5.000000, 2.000000)" fill="#FFFFFF" font-family="Helvetica" font-size="10.7022" font-weight="normal">
+                <g id="Group">
+                    <text id="4">
+                        <tspan x="0.0835" y="10.7705">4</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="XMLID_1_" transform="translate(203.500000, 157.000000)">
+            <g id="Group">
+                <path d="M104.9,6.2 C97.7,7.6 89.7,9.6 81.1,12.5 C65.4,17.7 53.5,23.6 47,27.2 C34.9,33.8 17.9,44.8 0.6,62.2" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M113.8,4.7 C109.3,3.9 103.6,2.2 99.9,0 L103.7,6.6 L102.4,14.1 C105.2,10.6 109.9,7 113.8,4.7 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="XMLID_9_" transform="translate(144.500000, 302.000000)">
+            <g id="Group">
+                <path d="M7.9,9.5 C6.3,16.3 4.8,23.8 3.8,31.9 C1,54.5 2.5,74 4.9,88.9" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M10.2,0.8 C7.6,4.5 3.7,9 0.1,11.4 L7.7,10.7 L14,15 C11.9,11.1 10.7,5.3 10.2,0.8 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="XMLID_3_" transform="translate(374.500000, 161.000000)">
+            <g id="Group">
+                <path d="M80.5,31 C75.6,27.8 69.9,24.3 63.4,20.9 C52.3,15.2 43.3,12.1 36.8,10 C27.5,6.9 15,3.4 -5.68434189e-14,0.9" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M87.9,36.2 C85.3,32.5 82.5,27.2 81.5,23 L79.5,30.3 L73.3,34.7 C77.6,34.2 83.5,35 87.9,36.2 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="XMLID_2_" transform="translate(360.500000, 71.000000)">
+            <g id="Group">
+                <path d="M60.3,6.9 C54.2,8.2 47.4,10.4 40.7,14.1 C39.3,14.9 34.3,17.7 28.6,22.4 C28.2,22.8 22.8,27.1 18.2,32.4 C7.9,44.2 2.6,58.7 0.8,64.3" id="Path" stroke="#4577B9" stroke-width="1.5" stroke-dasharray="5,5"></path>
+                <path d="M69.3,5.5 C64.8,4.7 59.2,2.9 55.5,0.7 L59.3,7.3 L58,14.8 C60.6,11.3 65.3,7.8 69.3,5.5 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <path d="M508.5,200.6 C511.8,197.5 516.5,193.9 520.5,192.2 L513,191.4 L507.7,186 C508.8,190.2 508.9,196.1 508.5,200.6 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+        <g id="XMLID_7_" transform="translate(505.500000, 412.000000)">
+            <g id="Group">
+                <path d="M6.1,56.9 C11.3,49 15.3,41.9 18.2,36 C19.6,33.2 23.6,25.2 27.7,14.3 C29.8,8.8 31.3,4 32.5,0.2" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M0.9,64.4 C4.6,61.8 9.8,59 14,57.9 L6.7,56 L2.3,49.8 C2.8,54.1 2.1,60 0.9,64.4 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="XMLID_11_" transform="translate(389.500000, 530.000000)">
+            <g id="Group">
+                <path d="M8.7,20.9 C15.4,18.7 21.3,16.7 26.3,14.9 C36.7,11.1 42.3,8.8 48.5,5.4 C52.2,3.4 55.1,1.6 57.1,0.3" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M0.1,23.7 C4.6,23.9 10.5,24.8 14.5,26.6 L9.9,20.6 L10.2,13 C7.8,16.7 3.6,20.9 0.1,23.7 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="XMLID_13_" transform="translate(182.500000, 472.000000)">
+            <g id="Group">
+                <path d="M5.6,7.9 C18.7,25.2 32.2,37.3 42.2,45.1 C61.2,60 78,67.5 82.5,69.5 C96.6,75.6 109.2,79 118.7,80.9" id="Path" stroke="#4577B9" stroke-width="1.5"></path>
+                <path d="M0.3,0.6 C1.5,5 2.5,10.8 2.1,15.2 L6.3,8.9 L13.6,6.8 C9.3,5.8 4,3.1 0.3,0.6 Z" id="Path" fill="#4577B9" fill-rule="nonzero"></path>
+            </g>
+        </g>
+        <g id="CONTINOUS_TESTING_ICON" transform="translate(508.500000, 331.000000)">
+            <g id="Group" transform="translate(8.000000, 0.000000)" fill-rule="nonzero">
+                <circle id="Oval" fill="#F47839" cx="27.6" cy="28.3" r="27.5"></circle>
+                <g id="Layer_2_49_" transform="translate(13.000000, 11.000000)" fill="#FFFFFF">
+                    <g id="Group">
+                        <polygon id="Path" points="8.3 18.1 20.9 18.1 24.6 30.1 4.6 30.1"></polygon>
+                        <g id="Rectangle" transform="translate(11.000000, 8.000000)">
+                            <rect x="0.9" y="7.6" width="6.1" height="1.4"></rect>
+                            <rect x="3.4" y="5.2" width="3.7" height="1.4"></rect>
+                            <rect x="0.9" y="2.9" width="6.1" height="1.4"></rect>
+                            <rect x="3.4" y="0.6" width="3.7" height="1.4"></rect>
+                        </g>
+                        <g>
+                            <path d="M28.3,33.1 L0.9,33.1 L8.9,7.7 L8.9,0.2 L20.7,0.2 L20.7,7.7 L28.3,33.1 Z M2.6,31.7 L26.5,31.7 L19.4,7.9 L19.4,1.5 L10,1.5 L10,7.9 L2.6,31.7 Z" id="Shape"></path>
+                            <rect id="Rectangle" x="7.9" y="0.3" width="13.8" height="1.4"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.102900, 55.745500)" fill="#457AB9" font-family="IBMPlexSans-Medium, IBM Plex Sans" font-size="11" font-weight="400">
+                <g id="CONTINUOUS">
+                    <text>
+                        <tspan x="0.13" y="11">CONTINUOUS</tspan>
+                    </text>
+                </g>
+                <g id="TESTING" transform="translate(12.000000, 13.000000)">
+                    <g id="Group" transform="translate(0.130000, 0.000000)">
+                        <text id="TESTING">
+                            <tspan x="0.5" y="11.2">TESTING</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect id="BORDER_3_" stroke="#477AB9" stroke-width="1.9265" x="26.7" y="34.1" width="687.6" height="684.4"></rect>
+        <g id="Group-6" transform="translate(508.500000, 236.000000)">
+            <path d="M0.5648,0.4942 C8.8048,9.9182 19.2138,23.8592 27.7998,42.5412 C35.4998,59.2942 39.4068,74.7972 41.4368,87.1152" id="Stroke-1" stroke="#4577B8" stroke-width="1.5"></path>
+            <g id="Group-5" transform="translate(33.000000, 82.079600)">
+                <g id="Fill-3-Clipped">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <path d="M9.6766,14.0005 C7.5036,10.0105 4.0796,5.1645 0.7846,2.3295 L8.2136,3.8635 L14.9046,0.2915 C12.5456,3.9415 10.6316,9.5595 9.6766,14.0005" id="Fill-3" fill="#4577B8" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="Group-7" transform="translate(485.500000, 88.500000)" stroke="#4577B9" stroke-width="2">
+            <path d="M0.182756757,0.436128378 C0.603702703,0.612547297 1.50140541,0.999912162 2.75904054,1.62092568" id="Stroke-1"></path>
+            <path d="M7.72771622,4.34945946 C17.5471081,10.2706081 33.8093378,23.2130405 39.5379865,46.3508784 C45.7273108,71.347973 35.4883919,91.5472297 29.7299459,100.396081" id="Stroke-3" stroke-dasharray="11.989,11.989"></path>
+            <path d="M28.133,102.738243 C27.3213784,103.872432 26.7131351,104.637703 26.4198919,104.998108" id="Stroke-5"></path>
+        </g>
+    </g>
+</svg>
